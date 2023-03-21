@@ -1,0 +1,22 @@
+{
+    "colors": {
+        "yellow": {
+            "dark": "#F9D70D",
+            "primary": "#FFE62F",
+            "light": "#EFEBA3",
+            "extra-light": "#FFFFFF"
+        },
+        "blue": {
+            "dark": "#154B82",
+            "primary": "#2B5F9E",
+            "light": "#5888B7",
+            "extra-light": "#5888B7"
+        },
+        "red": {
+            "dark": "#D11E38",
+            "primary": "#ED4C5C",
+            "light": "#ED8594",
+            "extra-light": "#F4A4AF"
+        }
+    }
+}

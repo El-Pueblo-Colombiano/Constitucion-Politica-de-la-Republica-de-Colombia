@@ -1,0 +1,53 @@
+{
+  "name": "Constitución Política de la República de Colombia",
+  "logo": {
+    "light": "/bandera/bandera.svg",
+    "dark": "/bandera/bandera.svg"
+  },
+  "favicon": "/bandera/bandera.svg",
+  "colors": {
+    "primary": "#2B5F9E",
+    "light": "#5888B7",
+    "dark": "#154B82"
+  },
+  "topAnchor": {
+    "icon": "book",
+    "name": "Preambulo"
+  },
+  "anchors": [
+    { 
+      "icon": "square-1",
+      "name": "De Los Principios Fundamentales",
+      "url": "titulo_i"
+    },
+    { 
+      "icon": "square-2",
+      "name": "De Los Derechos, Las Garantías Y Los Deberes",
+      "url": "titulo_ii"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "",
+      "pages": ["PREAMBULO"]
+    },
+    {
+      "group": "Título I - De Los Principios Fundamentales",
+      "pages":[
+        "titulo_i/articulo_1",
+        "titulo_i/articulo_2",
+        "titulo_i/articulo_3",
+        "titulo_i/articulo_4",
+        "titulo_i/articulo_5",
+        "titulo_i/articulo_6",
+        "titulo_i/articulo_7",
+        "titulo_i/articulo_8",
+        "titulo_i/articulo_9",
+        "titulo_i/articulo_10",
+        "titulo_i/titulo_i_completo"
+      ]
+    }
+  ],
+  "footerSocials": {
+  }
+}
