@@ -12,28 +12,28 @@
   },
   "topAnchor": {
     "icon": "book",
-    "name": "Preambulo"
+    "name": "Constitución Política de la República de Colombia"
   },
   "anchors": [
-    { 
-      "icon": "square-1",
-      "name": "De Los Principios Fundamentales",
-      "url": "titulo_i"
+    {
+      "name": "Repositorio Digital",
+      "icon": "github",
+      "url": "https://github.com/El-Pueblo-Colombiano/Constitucion-Politica-de-la-Republica-de-Colombia"
     },
-    { 
-      "icon": "square-2",
-      "name": "De Los Derechos, Las Garantías Y Los Deberes",
-      "url": "titulo_ii"
+    {
+      "name": "Documento Original",
+      "icon": "pen",
+      "url": "https://github.com/El-Pueblo-Colombiano/Constitucion-Politica-de-la-Republica-de-Colombia/registro/GacetaConstitucional_144_Julio_7_1991.pdf"
     }
   ],
   "navigation": [
     {
-      "group": "",
+      "group": "Preambulo",
       "pages": ["PREAMBULO"]
     },
     {
       "group": "Título I - De Los Principios Fundamentales",
-      "pages":[
+      "pages": [
         "titulo_i/articulo_1",
         "titulo_i/articulo_2",
         "titulo_i/articulo_3",
@@ -44,10 +44,52 @@
         "titulo_i/articulo_8",
         "titulo_i/articulo_9",
         "titulo_i/articulo_10",
-        "titulo_i/titulo_i_completo"
+        "titulo_i/articulos_1_10"
+      ]
+    },
+
+    {
+      "group": "Título II - De Los Derechos, Las Garantías Y Los Deberes",
+      "pages": [
+        {
+          "group": "Capitulo I - De Los Derechos Fundamentales",
+          "pages": [
+            "titulo_ii/capitulo_1/articulo_11",
+            "titulo_ii/capitulo_1/articulo_12",
+            "titulo_ii/capitulo_1/articulo_13",
+            "titulo_ii/capitulo_1/articulo_14",
+            "titulo_ii/capitulo_1/articulo_15",
+            "titulo_ii/capitulo_1/articulo_16",
+            "titulo_ii/capitulo_1/articulo_17",
+            "titulo_ii/capitulo_1/articulo_18",
+            "titulo_ii/capitulo_1/articulo_19",
+            "titulo_ii/capitulo_1/articulo_20",
+            "titulo_ii/capitulo_1/articulo_21",
+            "titulo_ii/capitulo_1/articulo_22",
+            "titulo_ii/capitulo_1/articulo_23",
+            "titulo_ii/capitulo_1/articulo_24",
+            "titulo_ii/capitulo_1/articulo_25",
+            "titulo_ii/capitulo_1/articulo_26",
+            "titulo_ii/capitulo_1/articulo_27",
+            "titulo_ii/capitulo_1/articulo_28",
+            "titulo_ii/capitulo_1/articulo_29",
+            "titulo_ii/capitulo_1/articulo_30",
+            "titulo_ii/capitulo_1/articulo_31",
+            "titulo_ii/capitulo_1/articulo_32",
+            "titulo_ii/capitulo_1/articulo_33",
+            "titulo_ii/capitulo_1/articulo_34",
+            "titulo_ii/capitulo_1/articulo_35",
+            "titulo_ii/capitulo_1/articulo_36",
+            "titulo_ii/capitulo_1/articulo_37",
+            "titulo_ii/capitulo_1/articulo_38",
+            "titulo_ii/capitulo_1/articulo_39",
+            "titulo_ii/capitulo_1/articulo_40",
+            "titulo_ii/capitulo_1/articulo_41",
+            "titulo_ii/capitulo_1/articulo_11_41"
+          ]
+        }
       ]
     }
   ],
-  "footerSocials": {
-  }
+  "footerSocials": {}
 }
