@@ -23,7 +23,7 @@
     {
       "name": "Documento Original",
       "icon": "pen",
-      "url": "https://github.com/El-Pueblo-Colombiano/Constitucion-Politica-de-la-Republica-de-Colombia/registro/GacetaConstitucional_144_Julio_7_1991.pdf"
+      "url": "https://github.com/El-Pueblo-Colombiano/Constitucion-Politica-de-la-Republica-de-Colombia/raw/main/registro/GacetaConstitucional_144_Julio_7_1991.pdf"
     }
   ],
   "navigation": [
@@ -85,7 +85,7 @@
             "titulo_ii/capitulo_1/articulo_39",
             "titulo_ii/capitulo_1/articulo_40",
             "titulo_ii/capitulo_1/articulo_41",
-            "titulo_ii/capitulo_1/articulo_11_41"
+            "titulo_ii/capitulo_1/articulos_11_41"
           ]
         }
       ]
