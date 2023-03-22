@@ -29,7 +29,9 @@
   "navigation": [
     {
       "group": "Preambulo",
-      "pages": ["PREAMBULO"]
+      "pages": [
+        "PREAMBULO"
+      ]
     },
     {
       "group": "Título I - De Los Principios Fundamentales",
@@ -47,12 +49,11 @@
         "titulo_i/articulos_1_10"
       ]
     },
-
     {
       "group": "Título II - De Los Derechos, Las Garantías Y Los Deberes",
       "pages": [
         {
-          "group": "Capitulo I - De Los Derechos Fundamentales",
+          "group": "Capitulo 1 - De Los Derechos Fundamentales",
           "pages": [
             "titulo_ii/capitulo_1/articulo_11",
             "titulo_ii/capitulo_1/articulo_12",
@@ -86,6 +87,765 @@
             "titulo_ii/capitulo_1/articulo_40",
             "titulo_ii/capitulo_1/articulo_41",
             "titulo_ii/capitulo_1/articulos_11_41"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - De Los Derechos Sociales, Económicos Y Culturales",
+          "pages": [
+            "titulo_ii/capitulo_2/articulo_42",
+            "titulo_ii/capitulo_2/articulo_43",
+            "titulo_ii/capitulo_2/articulo_44",
+            "titulo_ii/capitulo_2/articulo_45",
+            "titulo_ii/capitulo_2/articulo_46",
+            "titulo_ii/capitulo_2/articulo_47",
+            "titulo_ii/capitulo_2/articulo_48",
+            "titulo_ii/capitulo_2/articulo_49",
+            "titulo_ii/capitulo_2/articulo_50",
+            "titulo_ii/capitulo_2/articulo_51",
+            "titulo_ii/capitulo_2/articulo_52",
+            "titulo_ii/capitulo_2/articulo_53",
+            "titulo_ii/capitulo_2/articulo_54",
+            "titulo_ii/capitulo_2/articulo_55",
+            "titulo_ii/capitulo_2/articulo_56",
+            "titulo_ii/capitulo_2/articulo_57",
+            "titulo_ii/capitulo_2/articulo_58",
+            "titulo_ii/capitulo_2/articulo_59",
+            "titulo_ii/capitulo_2/articulo_60",
+            "titulo_ii/capitulo_2/articulo_61",
+            "titulo_ii/capitulo_2/articulo_62",
+            "titulo_ii/capitulo_2/articulo_63",
+            "titulo_ii/capitulo_2/articulo_64",
+            "titulo_ii/capitulo_2/articulo_65",
+            "titulo_ii/capitulo_2/articulo_66",
+            "titulo_ii/capitulo_2/articulo_67",
+            "titulo_ii/capitulo_2/articulo_68",
+            "titulo_ii/capitulo_2/articulo_69",
+            "titulo_ii/capitulo_2/articulo_70",
+            "titulo_ii/capitulo_2/articulo_71",
+            "titulo_ii/capitulo_2/articulo_72",
+            "titulo_ii/capitulo_2/articulo_73",
+            "titulo_ii/capitulo_2/articulo_74",
+            "titulo_ii/capitulo_2/articulo_75",
+            "titulo_ii/capitulo_2/articulo_76",
+            "titulo_ii/capitulo_2/articulo_77"
+          ]
+        },
+        {
+          "group": "Capitulo 3 - De Los Derechos Colectivos Y Del Ambiente",
+          "pages": [
+            "titulo_ii/capitulo_3/articulo_78",
+            "titulo_ii/capitulo_3/articulo_79",
+            "titulo_ii/capitulo_3/articulo_80",
+            "titulo_ii/capitulo_3/articulo_81",
+            "titulo_ii/capitulo_3/articulo_82"
+          ]
+        },
+        {
+          "group": "Capitulo 4 - De La Protección Y Aplicación De Los Derechos",
+          "pages": [
+            "titulo_ii/capitulo_4/articulo_83",
+            "titulo_ii/capitulo_4/articulo_84",
+            "titulo_ii/capitulo_4/articulo_85",
+            "titulo_ii/capitulo_4/articulo_86",
+            "titulo_ii/capitulo_4/articulo_87",
+            "titulo_ii/capitulo_4/articulo_88",
+            "titulo_ii/capitulo_4/articulo_89",
+            "titulo_ii/capitulo_4/articulo_90",
+            "titulo_ii/capitulo_4/articulo_91",
+            "titulo_ii/capitulo_4/articulo_92",
+            "titulo_ii/capitulo_4/articulo_93",
+            "titulo_ii/capitulo_4/articulo_94"
+          ]
+        },
+        {
+          "group": "Capitulo 5 - De Los Deberes Y Obligaciones",
+          "pages": [
+            "titulo_ii/capitulo_5/articulo_95"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título III - De los Habitantes y del Territorio",
+      "pages": [
+        {
+          "group": "Capitulo 1 - De la Nacionalidad.",
+          "pages": [
+            "titulo_iii/capitulo_1/articulo_96",
+            "titulo_iii/capitulo_1/articulo_97"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - De La Ciudadanía",
+          "pages": [
+            "titulo_iii/capitulo_2/articulo_98",
+            "titulo_iii/capitulo_2/articulo_99"
+          ]
+        },
+        {
+          "group": "Capitulo 3 - De Los Extranjeros",
+          "pages": [
+            "titulo_iii/capitulo_3/articulo_100"
+          ]
+        },
+        {
+          "group": "Capitulo 4 - Del Territorio",
+          "pages": [
+            "titulo_iii/capitulo_4/articulo_101",
+            "titulo_iii/capitulo_4/articulo_102"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título IV - De La Participación Democrática Y De Los Partidos Políticos",
+      "pages": [
+        {
+          "group": "Capitulo 1 - De Las Formas De Participación Democrática",
+          "pages": [
+            "titulo_iv/capitulo_1/articulo_103",
+            "titulo_iv/capitulo_1/articulo_104",
+            "titulo_iv/capitulo_1/articulo_105",
+            "titulo_iv/capitulo_1/articulo_106"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - De Los Partidos Y De Los Movimientos Políticos",
+          "pages": [
+            "titulo_iv/capitulo_2/articulo_107",
+            "titulo_iv/capitulo_2/articulo_108",
+            "titulo_iv/capitulo_2/articulo_109",
+            "titulo_iv/capitulo_2/articulo_110",
+            "titulo_iv/capitulo_2/articulo_111"
+          ]
+        },
+        {
+          "group": "Capitulo 3 - Del Estatuto de la Oposición",
+          "pages": [
+            "titulo_iv/capitulo_3/articulo_112"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título V - De la organización del Estado",
+      "pages": [
+        {
+          "group": "Capitulo 1 - De la Estructura del Estado",
+          "pages": [
+            "titulo_v/capitulo_1/articulo_113",
+            "titulo_v/capitulo_1/articulo_114",
+            "titulo_v/capitulo_1/articulo_115",
+            "titulo_v/capitulo_1/articulo_116",
+            "titulo_v/capitulo_1/articulo_117",
+            "titulo_v/capitulo_1/articulo_118",
+            "titulo_v/capitulo_1/articulo_119",
+            "titulo_v/capitulo_1/articulo_120",
+            "titulo_v/capitulo_1/articulo_121"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - De la Función Pública",
+          "pages": [
+            "titulo_v/capitulo_2/articulo_122",
+            "titulo_v/capitulo_2/articulo_123",
+            "titulo_v/capitulo_2/articulo_124",
+            "titulo_v/capitulo_2/articulo_125",
+            "titulo_v/capitulo_2/articulo_126",
+            "titulo_v/capitulo_2/articulo_127",
+            "titulo_v/capitulo_2/articulo_128",
+            "titulo_v/capitulo_2/articulo_129",
+            "titulo_v/capitulo_2/articulo_130",
+            "titulo_v/capitulo_2/articulo_131"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título VI - De La Rama Legislativa",
+      "pages": [
+        {
+          "group": "Capitulo 1 - De la composición y las funciones",
+          "pages": [
+            "titulo_vi/capitulo_1/articulo_132",
+            "titulo_vi/capitulo_1/articulo_133",
+            "titulo_vi/capitulo_1/articulo_134",
+            "titulo_vi/capitulo_1/articulo_135",
+            "titulo_vi/capitulo_1/articulo_136",
+            "titulo_vi/capitulo_1/articulo_137"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - De la reunión y el funcionamiento",
+          "pages": [
+            "titulo_vi/capitulo_2/articulo_138",
+            "titulo_vi/capitulo_2/articulo_139",
+            "titulo_vi/capitulo_2/articulo_140",
+            "titulo_vi/capitulo_2/articulo_141",
+            "titulo_vi/capitulo_2/articulo_142",
+            "titulo_vi/capitulo_2/articulo_143",
+            "titulo_vi/capitulo_2/articulo_144",
+            "titulo_vi/capitulo_2/articulo_145",
+            "titulo_vi/capitulo_2/articulo_146",
+            "titulo_vi/capitulo_2/articulo_147",
+            "titulo_vi/capitulo_2/articulo_148",
+            "titulo_vi/capitulo_2/articulo_149"
+          ]
+        },
+        {
+          "group": "Capitulo 3 - De las leyes",
+          "pages": [
+            "titulo_vi/capitulo_3/articulo_150",
+            "titulo_vi/capitulo_3/articulo_151",
+            "titulo_vi/capitulo_3/articulo_152",
+            "titulo_vi/capitulo_3/articulo_153",
+            "titulo_vi/capitulo_3/articulo_154",
+            "titulo_vi/capitulo_3/articulo_155",
+            "titulo_vi/capitulo_3/articulo_156",
+            "titulo_vi/capitulo_3/articulo_157",
+            "titulo_vi/capitulo_3/articulo_158",
+            "titulo_vi/capitulo_3/articulo_159",
+            "titulo_vi/capitulo_3/articulo_160",
+            "titulo_vi/capitulo_3/articulo_161",
+            "titulo_vi/capitulo_3/articulo_162",
+            "titulo_vi/capitulo_3/articulo_163",
+            "titulo_vi/capitulo_3/articulo_164",
+            "titulo_vi/capitulo_3/articulo_165",
+            "titulo_vi/capitulo_3/articulo_166",
+            "titulo_vi/capitulo_3/articulo_167",
+            "titulo_vi/capitulo_3/articulo_168",
+            "titulo_vi/capitulo_3/articulo_169",
+            "titulo_vi/capitulo_3/articulo_170"
+          ]
+        },
+        {
+          "group": "Capitulo 4 - Del Senado de la República",
+          "pages": [
+            "titulo_vi/capitulo_4/articulo_171",
+            "titulo_vi/capitulo_4/articulo_172",
+            "titulo_vi/capitulo_4/articulo_173",
+            "titulo_vi/capitulo_4/articulo_174",
+            "titulo_vi/capitulo_4/articulo_175"
+          ]
+        },
+        {
+          "group": "Capitulo 5 - De la Cámara de Representantes",
+          "pages": [
+            "titulo_vi/capitulo_5/articulo_176",
+            "titulo_vi/capitulo_5/articulo_177",
+            "titulo_vi/capitulo_5/articulo_178"
+          ]
+        },
+        {
+          "group": "Capitulo 6 - De los congresistas",
+          "pages": [
+            "titulo_vi/capitulo_6/articulo_179",
+            "titulo_vi/capitulo_6/articulo_180",
+            "titulo_vi/capitulo_6/articulo_181",
+            "titulo_vi/capitulo_6/articulo_182",
+            "titulo_vi/capitulo_6/articulo_183",
+            "titulo_vi/capitulo_6/articulo_184",
+            "titulo_vi/capitulo_6/articulo_185",
+            "titulo_vi/capitulo_6/articulo_186",
+            "titulo_vi/capitulo_6/articulo_187"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título VII - De la Rama Ejecutiva",
+      "pages": [
+        {
+          "group": "Capitulo 1 - Del Presidente de la República",
+          "pages": [
+            "titulo_vii/capitulo_1/articulo_188",
+            "titulo_vii/capitulo_1/articulo_189",
+            "titulo_vii/capitulo_1/articulo_190",
+            "titulo_vii/capitulo_1/articulo_191",
+            "titulo_vii/capitulo_1/articulo_192",
+            "titulo_vii/capitulo_1/articulo_193",
+            "titulo_vii/capitulo_1/articulo_194",
+            "titulo_vii/capitulo_1/articulo_195",
+            "titulo_vii/capitulo_1/articulo_196",
+            "titulo_vii/capitulo_1/articulo_197",
+            "titulo_vii/capitulo_1/articulo_198",
+            "titulo_vii/capitulo_1/articulo_199"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - Del Gobierno",
+          "pages": [
+            "titulo_vii/capitulo_2/articulo_200",
+            "titulo_vii/capitulo_2/articulo_201"
+          ]
+        },
+        {
+          "group": "Capitulo 3 - Del Vicepresidente",
+          "pages": [
+            "titulo_vii/capitulo_2/articulo_202",
+            "titulo_vii/capitulo_2/articulo_203",
+            "titulo_vii/capitulo_2/articulo_204",
+            "titulo_vii/capitulo_2/articulo_205"
+          ]
+        },
+        {
+          "group": "Capitulo 4 - De los Ministros y Directores de los Departamentos Administrativos",
+          "pages": [
+            "titulo_vii/capitulo_4/articulo_206",
+            "titulo_vii/capitulo_4/articulo_207",
+            "titulo_vii/capitulo_4/articulo_208"
+          ]
+        },
+        {
+          "group": "Capitulo 5 - De la función administrativa",
+          "pages": [
+            "titulo_vii/capitulo_5/articulo_209",
+            "titulo_vii/capitulo_5/articulo_210",
+            "titulo_vii/capitulo_5/articulo_211"
+          ]
+        },
+        {
+          "group": "Capitulo 6 - De los Estados de Excepción",
+          "pages": [
+            "titulo_vii/capitulo_6/articulo_212",
+            "titulo_vii/capitulo_6/articulo_213",
+            "titulo_vii/capitulo_6/articulo_214",
+            "titulo_vii/capitulo_6/articulo_215"
+          ]
+        },
+        {
+          "group": "Capitulo 7 - De la Fuerza Pública",
+          "pages": [
+            "titulo_vii/capitulo_7/articulo_216",
+            "titulo_vii/capitulo_7/articulo_217",
+            "titulo_vii/capitulo_7/articulo_218",
+            "titulo_vii/capitulo_7/articulo_219",
+            "titulo_vii/capitulo_7/articulo_220",
+            "titulo_vii/capitulo_7/articulo_221",
+            "titulo_vii/capitulo_7/articulo_222",
+            "titulo_vii/capitulo_7/articulo_223"
+          ]
+        },
+        {
+          "group": "Capitulo 8 - De las Relaciones Internacionales",
+          "pages": [
+            "titulo_vii/capitulo_8/articulo_224",
+            "titulo_vii/capitulo_8/articulo_225",
+            "titulo_vii/capitulo_8/articulo_226",
+            "titulo_vii/capitulo_8/articulo_227"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título VIII - De la Rama Judicial",
+      "pages": [
+        {
+          "group": "Capitulo 1 - De las disposiciones generales",
+          "pages": [
+            "titulo_viii/capitulo_1/articulo_228",
+            "titulo_viii/capitulo_1/articulo_229",
+            "titulo_viii/capitulo_1/articulo_230",
+            "titulo_viii/capitulo_1/articulo_231",
+            "titulo_viii/capitulo_1/articulo_232",
+            "titulo_viii/capitulo_1/articulo_233"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - De la Jurisdicción Ordinaria",
+          "pages": [
+            "titulo_viii/capitulo_2/articulo_234",
+            "titulo_viii/capitulo_2/articulo_235"
+          ]
+        },
+        {
+          "group": "Capitulo 3 - De la Jurisdicción Contencioso Administrativa",
+          "pages": [
+            "titulo_viii/capitulo_3/articulo_236",
+            "titulo_viii/capitulo_3/articulo_237",
+            "titulo_viii/capitulo_3/articulo_238"
+          ]
+        },
+        {
+          "group": "Capitulo 4 - De la Jurisdicción Constitucional",
+          "pages": [
+            "titulo_viii/capitulo_4/articulo_239",
+            "titulo_viii/capitulo_4/articulo_240",
+            "titulo_viii/capitulo_4/articulo_241",
+            "titulo_viii/capitulo_4/articulo_242",
+            "titulo_viii/capitulo_4/articulo_243",
+            "titulo_viii/capitulo_4/articulo_244",
+            "titulo_viii/capitulo_4/articulo_245"
+          ]
+        },
+        {
+          "group": "Capitulo 5 - De las Jurisdicciones Especiales",
+          "pages": [
+            "titulo_viii/capitulo_5/articulo_246",
+            "titulo_viii/capitulo_5/articulo_247",
+            "titulo_viii/capitulo_5/articulo_248"
+          ]
+        },
+        {
+          "group": "Capitulo 6 - De la Fiscalía General de la Nación",
+          "pages": [
+            "titulo_viii/capitulo_6/articulo_249",
+            "titulo_viii/capitulo_6/articulo_250",
+            "titulo_viii/capitulo_6/articulo_251",
+            "titulo_viii/capitulo_6/articulo_252",
+            "titulo_viii/capitulo_6/articulo_253"
+          ]
+        },
+        {
+          "group": "Capitulo 7 - Gobierno y Administración de la Rama Judicial",
+          "pages": [
+            "titulo_viii/capitulo_7/articulo_254",
+            "titulo_viii/capitulo_7/articulo_255",
+            "titulo_viii/capitulo_7/articulo_256",
+            "titulo_viii/capitulo_7/articulo_257"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título IX - De las elecciones y de la organización electoral",
+      "pages": [
+        {
+          "group": "Capitulo 1 - Del Sufragio y de las Elecciones",
+          "pages": [
+            "titulo_ix/capitulo_1/articulo_258",
+            "titulo_ix/capitulo_1/articulo_259",
+            "titulo_ix/capitulo_1/articulo_260",
+            "titulo_ix/capitulo_1/articulo_261",
+            "titulo_ix/capitulo_1/articulo_262",
+            "titulo_ix/capitulo_1/articulo_263"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - De las Autoridades Electorales",
+          "pages": [
+            "titulo_ix/capitulo_2/articulo_264",
+            "titulo_ix/capitulo_2/articulo_265",
+            "titulo_ix/capitulo_2/articulo_266"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título X - De los organismos de control",
+      "pages": [
+        {
+          "group": "Capitulo 1 - De la Contraloría General de la República",
+          "pages": [
+            "titulo_x/capitulo_1/articulo_267",
+            "titulo_x/capitulo_1/articulo_268",
+            "titulo_x/capitulo_1/articulo_269",
+            "titulo_x/capitulo_1/articulo_270",
+            "titulo_x/capitulo_1/articulo_271",
+            "titulo_x/capitulo_1/articulo_272",
+            "titulo_x/capitulo_1/articulo_273",
+            "titulo_x/capitulo_1/articulo_274"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - Del Ministerio Público",
+          "pages": [
+            "titulo_x/capitulo_2/articulo_275",
+            "titulo_x/capitulo_2/articulo_276",
+            "titulo_x/capitulo_2/articulo_277",
+            "titulo_x/capitulo_2/articulo_278",
+            "titulo_x/capitulo_2/articulo_279",
+            "titulo_x/capitulo_2/articulo_280",
+            "titulo_x/capitulo_2/articulo_281",
+            "titulo_x/capitulo_2/articulo_282",
+            "titulo_x/capitulo_2/articulo_283",
+            "titulo_x/capitulo_2/articulo_284"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título XI - De la organización territorial",
+      "pages": [
+        {
+          "group": "Capitulo 1 - De las disposiciones generales",
+          "pages": [
+            "titulo_xi/capitulo_1/articulo_285",
+            "titulo_xi/capitulo_1/articulo_286",
+            "titulo_xi/capitulo_1/articulo_287",
+            "titulo_xi/capitulo_1/articulo_288",
+            "titulo_xi/capitulo_1/articulo_289",
+            "titulo_xi/capitulo_1/articulo_290",
+            "titulo_xi/capitulo_1/articulo_291",
+            "titulo_xi/capitulo_1/articulo_292",
+            "titulo_xi/capitulo_1/articulo_293",
+            "titulo_xi/capitulo_1/articulo_294",
+            "titulo_xi/capitulo_1/articulo_295",
+            "titulo_xi/capitulo_1/articulo_296"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - Del Régimen Departamental",
+          "pages": [
+            "titulo_xi/capitulo_2/articulo_297",
+            "titulo_xi/capitulo_2/articulo_298",
+            "titulo_xi/capitulo_2/articulo_299",
+            "titulo_xi/capitulo_2/articulo_300",
+            "titulo_xi/capitulo_2/articulo_301",
+            "titulo_xi/capitulo_2/articulo_302",
+            "titulo_xi/capitulo_2/articulo_303",
+            "titulo_xi/capitulo_2/articulo_304",
+            "titulo_xi/capitulo_2/articulo_305",
+            "titulo_xi/capitulo_2/articulo_306",
+            "titulo_xi/capitulo_2/articulo_307",
+            "titulo_xi/capitulo_2/articulo_308",
+            "titulo_xi/capitulo_2/articulo_309",
+            "titulo_xi/capitulo_2/articulo_310"
+          ]
+        },
+        {
+          "group": "Capitulo 3 - Del Régimen Municipal",
+          "pages": [
+            "titulo_xi/capitulo_2/articulo_311",
+            "titulo_xi/capitulo_2/articulo_312",
+            "titulo_xi/capitulo_2/articulo_313",
+            "titulo_xi/capitulo_2/articulo_314",
+            "titulo_xi/capitulo_2/articulo_315",
+            "titulo_xi/capitulo_2/articulo_316",
+            "titulo_xi/capitulo_2/articulo_317",
+            "titulo_xi/capitulo_2/articulo_318",
+            "titulo_xi/capitulo_2/articulo_319",
+            "titulo_xi/capitulo_2/articulo_320",
+            "titulo_xi/capitulo_2/articulo_321"
+          ]
+        },
+        {
+          "group": "Capitulo 4 - Del Régimen Especial",
+          "pages": [
+            "titulo_xi/capitulo_2/articulo_322",
+            "titulo_xi/capitulo_2/articulo_323",
+            "titulo_xi/capitulo_2/articulo_324",
+            "titulo_xi/capitulo_2/articulo_325",
+            "titulo_xi/capitulo_2/articulo_326",
+            "titulo_xi/capitulo_2/articulo_327",
+            "titulo_xi/capitulo_2/articulo_328",
+            "titulo_xi/capitulo_2/articulo_329",
+            "titulo_xi/capitulo_2/articulo_330",
+            "titulo_xi/capitulo_2/articulo_331"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título XII - Del régimen económico y de la hacienda pública",
+      "pages": [
+        {
+          "group": "Capitulo 1 - De las disposiciones generales",
+          "pages": [
+            "titulo_xii/capitulo_1/articulo_332",
+            "titulo_xii/capitulo_1/articulo_333",
+            "titulo_xii/capitulo_1/articulo_334",
+            "titulo_xii/capitulo_1/articulo_335",
+            "titulo_xii/capitulo_1/articulo_336",
+            "titulo_xii/capitulo_1/articulo_337",
+            "titulo_xii/capitulo_1/articulo_338"
+          ]
+        },
+        {
+          "group": "Capitulo 2 - De los Planes de Desarrollo",
+          "pages": [
+            "titulo_xii/capitulo_2/articulo_339",
+            "titulo_xii/capitulo_2/articulo_340",
+            "titulo_xii/capitulo_2/articulo_341",
+            "titulo_xii/capitulo_2/articulo_342",
+            "titulo_xii/capitulo_2/articulo_343",
+            "titulo_xii/capitulo_2/articulo_344"
+          ]
+        },
+        {
+          "group": "Capitulo 3 - Del Presupuesto",
+          "pages": [
+            "titulo_xii/capitulo_3/articulo_345",
+            "titulo_xii/capitulo_3/articulo_346",
+            "titulo_xii/capitulo_3/articulo_347",
+            "titulo_xii/capitulo_3/articulo_348",
+            "titulo_xii/capitulo_3/articulo_349",
+            "titulo_xii/capitulo_3/articulo_350",
+            "titulo_xii/capitulo_3/articulo_351",
+            "titulo_xii/capitulo_3/articulo_352",
+            "titulo_xii/capitulo_3/articulo_353",
+            "titulo_xii/capitulo_3/articulo_354",
+            "titulo_xii/capitulo_3/articulo_355"
+          ]
+        },
+        {
+          "group": "Capitulo 4 - De la distribución de recursos y de las competencias",
+          "pages": [
+            "titulo_xii/capitulo_4/articulo_356",
+            "titulo_xii/capitulo_4/articulo_357",
+            "titulo_xii/capitulo_4/articulo_358",
+            "titulo_xii/capitulo_4/articulo_359",
+            "titulo_xii/capitulo_4/articulo_360",
+            "titulo_xii/capitulo_4/articulo_361",
+            "titulo_xii/capitulo_4/articulo_362",
+            "titulo_xii/capitulo_4/articulo_363",
+            "titulo_xii/capitulo_4/articulo_364"
+          ]
+        },
+        {
+          "group": "Capitulo 5 - De la finalidad social del Estado y de los servicios públicos",
+          "pages": [
+            "titulo_xii/capitulo_5/articulo_365",
+            "titulo_xii/capitulo_5/articulo_366",
+            "titulo_xii/capitulo_5/articulo_367",
+            "titulo_xii/capitulo_5/articulo_368",
+            "titulo_xii/capitulo_5/articulo_369",
+            "titulo_xii/capitulo_5/articulo_370"
+          ]
+        },
+        {
+          "group": "Capitulo 6 - De la Banca Central",
+          "pages": [
+            "titulo_xii/capitulo_6/articulo_371",
+            "titulo_xii/capitulo_6/articulo_372",
+            "titulo_xii/capitulo_6/articulo_373"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Título XIII - De la reforma de la Constitución & Disposiciones transitorias",
+      "pages": [
+        {
+          "group": "De La Reforma De La Constitución",
+          "pages": [
+            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_374",
+            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_375",
+            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_376",
+            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_377",
+            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_378",
+            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_379",
+            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_380"
+          ]
+        },
+        {
+          "group": "Disposiciones Transitorias - Capitulo 1",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_1",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_2",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_3",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_4",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_5",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_6",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_7",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_8",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_9",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_10",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_11",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_12",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_13",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_14",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_15",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_16",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_17",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_18",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_19"
+          ]
+        },
+        {
+          "group": "Disposiciones Transitorias - Capitulo 2",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulo_transitorio_20",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulo_transitorio_21"
+          ]
+        },
+        {
+          "group": "Disposiciones Transitorias - Capitulo 3",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_22",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_23",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_24",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_25",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_26",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_27",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_28",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_29",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_30"
+          ]
+        },
+        {
+          "group": "Disposiciones Transitorias - Capitulo 4",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_31",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_32",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_33",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_34",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_35"
+          ]
+        },
+        {
+          "group": "Disposiciones Transitorias - Capitulo 5",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulo_transitorio_36",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulo_transitorio_37"
+          ]
+        },
+        {
+          "group": "Disposiciones Transitorias - Capitulo 6",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_38",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_39",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_40",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_41",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_42"
+          ]
+        },
+        {
+          "group": "Disposiciones Transitorias - Capitulo 7",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_43",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_44",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_45",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_46",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_47",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_48",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_49",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_50",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_51",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_52",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_53"
+          ]
+        },
+        {
+          "group": "Disposiciones Transitorias - Capitulo 8",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_54",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_55",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_56",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_57",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_58",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_59",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_60",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_61",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_62",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_63",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_64",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_65",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_66",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_67"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Constancia",
+      "pages": [
+        {
+          "group": "Constancia",
+          "pages": [
+            "constancia/constancia",
+            "constancia/lista_de_los_honorables_constituyentes",
+            "constancia/comisiones_de_la_asamblea_nacional_constituyente"
           ]
         }
       ]
