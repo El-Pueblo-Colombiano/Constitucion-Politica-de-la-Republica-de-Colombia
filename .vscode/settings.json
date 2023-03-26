@@ -1,5 +1,8 @@
 {
     "diffEditor.wordWrap": "on",
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 80
+    "editor.wordWrapColumn": 80,
+    "editor.renderWhitespace": "boundary",
+    "editor.fontSize": 16,
+    "editor.formatOnPaste": true
 }
