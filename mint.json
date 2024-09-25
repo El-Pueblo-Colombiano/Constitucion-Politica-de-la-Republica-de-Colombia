@@ -401,11 +401,11 @@
         {
           "group": "Capitulo 3 - Del Vicepresidente",
           "pages": [
-            "titulo_vii/capitulo_2/articulo_202",
-            "titulo_vii/capitulo_2/articulo_203",
-            "titulo_vii/capitulo_2/articulo_204",
-            "titulo_vii/capitulo_2/articulo_205",
-            "titulo_vii/capitulo_2/articulos_202_205"
+            "titulo_vii/capitulo_3/articulo_202",
+            "titulo_vii/capitulo_3/articulo_203",
+            "titulo_vii/capitulo_3/articulo_204",
+            "titulo_vii/capitulo_3/articulo_205",
+            "titulo_vii/capitulo_3/articulos_202_205"
           ]
         },
         {
@@ -512,7 +512,8 @@
           "pages": [
             "titulo_viii/capitulo_5/articulo_246",
             "titulo_viii/capitulo_5/articulo_247",
-            "titulo_viii/capitulo_5/articulo_248"
+            "titulo_viii/capitulo_5/articulo_248",
+            "titulo_viii/capitulo_5/articulos_246_248"
           ]
         },
         {
@@ -522,7 +523,8 @@
             "titulo_viii/capitulo_6/articulo_250",
             "titulo_viii/capitulo_6/articulo_251",
             "titulo_viii/capitulo_6/articulo_252",
-            "titulo_viii/capitulo_6/articulo_253"
+            "titulo_viii/capitulo_6/articulo_253",
+            "titulo_viii/capitulo_6/articulos_249_253"
           ]
         },
         {
@@ -531,7 +533,8 @@
             "titulo_viii/capitulo_7/articulo_254",
             "titulo_viii/capitulo_7/articulo_255",
             "titulo_viii/capitulo_7/articulo_256",
-            "titulo_viii/capitulo_7/articulo_257"
+            "titulo_viii/capitulo_7/articulo_257",
+            "titulo_viii/capitulo_7/articulos_254_257"
           ]
         }
       ]
@@ -547,7 +550,8 @@
             "titulo_ix/capitulo_1/articulo_260",
             "titulo_ix/capitulo_1/articulo_261",
             "titulo_ix/capitulo_1/articulo_262",
-            "titulo_ix/capitulo_1/articulo_263"
+            "titulo_ix/capitulo_1/articulo_263",
+            "titulo_ix/capitulo_1/articulos_258_263"
           ]
         },
         {
@@ -555,7 +559,8 @@
           "pages": [
             "titulo_ix/capitulo_2/articulo_264",
             "titulo_ix/capitulo_2/articulo_265",
-            "titulo_ix/capitulo_2/articulo_266"
+            "titulo_ix/capitulo_2/articulo_266",
+            "titulo_ix/capitulo_2/articulos_264_266"
           ]
         }
       ]
@@ -573,7 +578,8 @@
             "titulo_x/capitulo_1/articulo_271",
             "titulo_x/capitulo_1/articulo_272",
             "titulo_x/capitulo_1/articulo_273",
-            "titulo_x/capitulo_1/articulo_274"
+            "titulo_x/capitulo_1/articulo_274",
+            "titulo_x/capitulo_1/articulos_267_274"
           ]
         },
         {
@@ -588,7 +594,8 @@
             "titulo_x/capitulo_2/articulo_281",
             "titulo_x/capitulo_2/articulo_282",
             "titulo_x/capitulo_2/articulo_283",
-            "titulo_x/capitulo_2/articulo_284"
+            "titulo_x/capitulo_2/articulo_284",
+            "titulo_x/capitulo_2/articulos_275_284"
           ]
         }
       ]
@@ -610,7 +617,8 @@
             "titulo_xi/capitulo_1/articulo_293",
             "titulo_xi/capitulo_1/articulo_294",
             "titulo_xi/capitulo_1/articulo_295",
-            "titulo_xi/capitulo_1/articulo_296"
+            "titulo_xi/capitulo_1/articulo_296",
+            "titulo_xi/capitulo_1/articulos_285_296"
           ]
         },
         {
@@ -629,7 +637,8 @@
             "titulo_xi/capitulo_2/articulo_307",
             "titulo_xi/capitulo_2/articulo_308",
             "titulo_xi/capitulo_2/articulo_309",
-            "titulo_xi/capitulo_2/articulo_310"
+            "titulo_xi/capitulo_2/articulo_310",
+            "titulo_xi/capitulo_2/articulos_297_310"
           ]
         },
         {
@@ -645,7 +654,8 @@
             "titulo_xi/capitulo_2/articulo_318",
             "titulo_xi/capitulo_2/articulo_319",
             "titulo_xi/capitulo_2/articulo_320",
-            "titulo_xi/capitulo_2/articulo_321"
+            "titulo_xi/capitulo_2/articulo_321",
+            "titulo_xi/capitulo_2/articulos_311_321"
           ]
         },
         {
@@ -660,7 +670,8 @@
             "titulo_xi/capitulo_2/articulo_328",
             "titulo_xi/capitulo_2/articulo_329",
             "titulo_xi/capitulo_2/articulo_330",
-            "titulo_xi/capitulo_2/articulo_331"
+            "titulo_xi/capitulo_2/articulo_331",
+            "titulo_xi/capitulo_2/articulos_322_331"
           ]
         }
       ]
@@ -677,7 +688,8 @@
             "titulo_xii/capitulo_1/articulo_335",
             "titulo_xii/capitulo_1/articulo_336",
             "titulo_xii/capitulo_1/articulo_337",
-            "titulo_xii/capitulo_1/articulo_338"
+            "titulo_xii/capitulo_1/articulo_338",
+            "titulo_xii/capitulo_1/articulos_332_338"
           ]
         },
         {
@@ -688,7 +700,8 @@
             "titulo_xii/capitulo_2/articulo_341",
             "titulo_xii/capitulo_2/articulo_342",
             "titulo_xii/capitulo_2/articulo_343",
-            "titulo_xii/capitulo_2/articulo_344"
+            "titulo_xii/capitulo_2/articulo_344",
+            "titulo_xii/capitulo_2/articulos_339_344"
           ]
         },
         {
@@ -704,7 +717,8 @@
             "titulo_xii/capitulo_3/articulo_352",
             "titulo_xii/capitulo_3/articulo_353",
             "titulo_xii/capitulo_3/articulo_354",
-            "titulo_xii/capitulo_3/articulo_355"
+            "titulo_xii/capitulo_3/articulo_355",
+            "titulo_xii/capitulo_3/articulos_345_355"
           ]
         },
         {
@@ -718,7 +732,8 @@
             "titulo_xii/capitulo_4/articulo_361",
             "titulo_xii/capitulo_4/articulo_362",
             "titulo_xii/capitulo_4/articulo_363",
-            "titulo_xii/capitulo_4/articulo_364"
+            "titulo_xii/capitulo_4/articulo_364",
+            "titulo_xii/capitulo_4/articulos_356_364"
           ]
         },
         {
@@ -729,7 +744,8 @@
             "titulo_xii/capitulo_5/articulo_367",
             "titulo_xii/capitulo_5/articulo_368",
             "titulo_xii/capitulo_5/articulo_369",
-            "titulo_xii/capitulo_5/articulo_370"
+            "titulo_xii/capitulo_5/articulo_370",
+            "titulo_xii/capitulo_5/articulos_365_370"
           ]
         },
         {
@@ -737,7 +753,8 @@
           "pages": [
             "titulo_xii/capitulo_6/articulo_371",
             "titulo_xii/capitulo_6/articulo_372",
-            "titulo_xii/capitulo_6/articulo_373"
+            "titulo_xii/capitulo_6/articulo_373",
+            "titulo_xii/capitulo_6/articulos_371_373"
           ]
         }
       ]
@@ -754,7 +771,8 @@
             "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_377",
             "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_378",
             "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_379",
-            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_380"
+            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_380",
+            "titulo_xiii/de_la_reforma_de_la_constitucion/articulos_374_380"
           ]
         },
         {
@@ -778,14 +796,16 @@
             "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_16",
             "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_17",
             "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_18",
-            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_19"
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_19",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulos_transitorios_1_19"
           ]
         },
         {
           "group": "Disposiciones Transitorias - Capitulo 2",
           "pages": [
             "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulo_transitorio_20",
-            "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulo_transitorio_21"
+            "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulo_transitorio_21",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulos_transitorios_21_22"
           ]
         },
         {
@@ -799,7 +819,8 @@
             "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_27",
             "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_28",
             "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_29",
-            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_30"
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_30",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulos_transitorios_1_30"
           ]
         },
         {
@@ -809,14 +830,16 @@
             "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_32",
             "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_33",
             "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_34",
-            "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_35"
+            "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_35",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulos_transitorios_31_35"
           ]
         },
         {
           "group": "Disposiciones Transitorias - Capitulo 5",
           "pages": [
             "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulo_transitorio_36",
-            "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulo_transitorio_37"
+            "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulo_transitorio_37",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulos_transitorios_36_37"
           ]
         },
         {
@@ -826,7 +849,8 @@
             "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_39",
             "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_40",
             "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_41",
-            "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_42"
+            "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_42",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulos_transitorios_38_42"
           ]
         },
         {
@@ -842,7 +866,8 @@
             "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_50",
             "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_51",
             "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_52",
-            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_53"
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_53",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulos_transitorios_43_53"
           ]
         },
         {
@@ -861,7 +886,8 @@
             "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_64",
             "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_65",
             "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_66",
-            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_67"
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_67",
+            "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulos_transitorios_54_67"
           ]
         }
       ]
