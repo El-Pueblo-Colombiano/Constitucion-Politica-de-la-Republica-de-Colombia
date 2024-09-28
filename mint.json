@@ -887,9 +887,7 @@
     {
       "group": "Constancia",
       "pages": [
-        "constancia/constancia",
-        "constancia/lista_de_los_honorables_constituyentes",
-        "constancia/comisiones_de_la_asamblea_nacional_constituyente"
+        "constancia/constancia"
       ]
     }
   ],
