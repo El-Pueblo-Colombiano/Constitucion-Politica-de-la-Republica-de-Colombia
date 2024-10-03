@@ -902,59 +902,74 @@
       "group": "Título Transitorio - De Las Normas Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
       "pages": [
         {
-          "group": "Capítulo 1 - Sistema Integral De Verdad, Justicia, Reparación Y No Repetición",
+          "group": "Capítulo I - Sistema Integral De Verdad, Justicia, Reparación Y No Repetición",
           "pages": [
-            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_374"
+            "titulo_transitorio/capitulo_i/articulo_transitorio_1"
           ]
         },
         {
-          "group": "Capítulo 2 - COmisión Para El Esclarecimiento De La Verdad, La Convivencia Y La No Repetición Y Unidad De Búsqueda De Personas Dadas Por Desaparecidas En El Contexto Y En Razón Del Conflicto Armado",
+          "group": "Capítulo II - Comisión Para El Esclarecimiento De La Verdad, La Convivencia Y La No Repetición Y Unidad De Búsqueda De Personas Dadas Por Desaparecidas En El Contexto Y En Razón Del Conflicto Armado",
           "pages": [
-            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_1"
+            "titulo_transitorio/capitulo_ii/articulo_transitorio_2",
+            "titulo_transitorio/capitulo_ii/articulo_transitorio_3",
+            "titulo_transitorio/capitulo_ii/articulo_transitorio_4"
           ]
         },
         {
-          "group": "Capítulo 3 - Jurisdicción Especial Para La Paz",
+          "group": "Capítulo III - Jurisdicción Especial Para La Paz",
           "pages": [
-            "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulo_transitorio_20"
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_5",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_6",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_7",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_8",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_9",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_10",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_11",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_12",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_13",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_14",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_15",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_16",
+            "titulo_transitorio/capitulo_iii/articulo_transitorio_17"
           ]
         },
         {
-          "group": "Capítulo 4 - Reparación Integral En El Sistema Integral De Verdad, Justicia, Reparación Y No Repetición",
+          "group": "Capítulo IV - Reparación Integral En El Sistema Integral De Verdad, Justicia, Reparación Y No Repetición",
           "pages": [
-            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_22"
+            "titulo_transitorio/capitulo_iv/articulo_transitorio_18"
           ]
         },
         {
-          "group": "Capítulo 5 - Extradición",
+          "group": "Capítulo V - Extradición",
           "pages": [
-            "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_31"
+            "titulo_transitorio/capitulo_v/articulo_transitorio_19"
           ]
         },
         {
-          "group": "Capítulo 6 - Participación En Política",
+          "group": "Capítulo VI - Participación En Política",
           "pages": [
-            "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulo_transitorio_36"
+            "titulo_transitorio/capitulo_vi/articulo_transitorio_20"
           ]
         },
         {
-          "group": "Capítulo 7 - De Las Normas Aplicables A Los Miembros De La Fuerza Pública Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
+          "group": "Capítulo VII - De Las Normas Aplicables A Los Miembros De La Fuerza Pública Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
           "pages": [
-            "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_38"
+            "titulo_transitorio/capitulo_vii/articulo_transitorio_21",
+            "titulo_transitorio/capitulo_vii/articulo_transitorio_22",
+            "titulo_transitorio/capitulo_vii/articulo_transitorio_23",
+            "titulo_transitorio/capitulo_vii/articulo_transitorio_24",
+            "titulo_transitorio/capitulo_vii/articulo_transitorio_25",
+            "titulo_transitorio/capitulo_vii/articulo_transitorio_26"
           ]
         },
         {
-          "group": "Capítulo 8 - Prevalencia Del Acuerdo Final Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
+          "group": "Capítulo VIII - Prevalencia Del Acuerdo Final Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
           "pages": [
-            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_43"
+            "titulo_transitorio/capitulo_viii/articulo_transitorio_27"
           ]
         }
       ]
     },
-
-
-
-
     {
       "group": "Constancia",
       "pages": [
