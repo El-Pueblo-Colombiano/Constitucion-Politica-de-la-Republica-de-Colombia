@@ -893,11 +893,68 @@
             "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_01_2016_3",
             "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_01_2016_4",
             "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulos_transitorios_54_60"
-
           ]
         }
       ]
     },
+
+    {
+      "group": "Título Transitorio - De Las Normas Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
+      "pages": [
+        {
+          "group": "Capítulo 1 - Sistema Integral De Verdad, Justicia, Reparación Y No Repetición",
+          "pages": [
+            "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_374"
+          ]
+        },
+        {
+          "group": "Capítulo 2 - COmisión Para El Esclarecimiento De La Verdad, La Convivencia Y La No Repetición Y Unidad De Búsqueda De Personas Dadas Por Desaparecidas En El Contexto Y En Razón Del Conflicto Armado",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_1"
+          ]
+        },
+        {
+          "group": "Capítulo 3 - Jurisdicción Especial Para La Paz",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulo_transitorio_20"
+          ]
+        },
+        {
+          "group": "Capítulo 4 - Reparación Integral En El Sistema Integral De Verdad, Justicia, Reparación Y No Repetición",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_22"
+          ]
+        },
+        {
+          "group": "Capítulo 5 - Extradición",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_31"
+          ]
+        },
+        {
+          "group": "Capítulo 6 - Participación En Política",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulo_transitorio_36"
+          ]
+        },
+        {
+          "group": "Capítulo 7 - De Las Normas Aplicables A Los Miembros De La Fuerza Pública Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_38"
+          ]
+        },
+        {
+          "group": "Capítulo 8 - Prevalencia Del Acuerdo Final Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
+          "pages": [
+            "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_43"
+          ]
+        }
+      ]
+    },
+
+
+
+
     {
       "group": "Constancia",
       "pages": [
