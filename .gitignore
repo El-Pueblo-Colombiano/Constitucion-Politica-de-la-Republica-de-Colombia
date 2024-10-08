@@ -1,3 +1,4 @@
 node_modules
-herramientas
 recortes
+herramientas/.venv
+herramientas/corrector_bloques.py
