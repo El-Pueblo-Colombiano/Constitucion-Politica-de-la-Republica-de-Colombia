@@ -986,16 +986,443 @@
         ]
       },
       {
-        "tab": "POT Bogotá",
+        "tab": "Bogotá",
         "anchors": [
           {
-            "anchor": "POT Bogotá",
+            "anchor": "Plan de Desarrollo Bogotá",
             "icon": "map",
             "groups": [
               {
-                "group": "Generalidades",
+                "group": "Plan de Desarrollo",
                 "pages": [
-                  "pot-bogota/acuerdo_927_2024"
+                  {
+                    "group": "Parte I",
+                    "pages": [
+                      {
+                        "group": "Título I",
+                        "pages": [
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_1",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_2",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_3",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_4",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_5",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_6",
+                          {
+                            "group": "Capítulo 1",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_i/articulo_7",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_i/articulo_8"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 2",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_ii/articulo_9",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_ii/articulo_10"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 3",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_iii/articulo_11",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_iii/articulo_12"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 4",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_iv/articulo_13",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_iv/articulo_14"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 5",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_v/articulo_15",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_v/articulo_16"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 6",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_vi/articulo_17"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "group": "Título II",
+                        "pages": [
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/articulo_18",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/articulo_19",
+                          {
+                            "group": "Capítulo 1",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_20",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_21",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_22",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_23",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_24",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_25",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_26",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_27",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_28",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_29",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_30",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_31",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_32",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_33",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_34",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_35",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_36",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_37",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_38",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_39",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_40"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 2",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_41",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_42",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_43",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_44",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_45",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_46",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_47",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_48",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_49",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_50",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_51",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_52",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_53",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_54",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_55",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_56",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_57",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_58",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_59",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_60",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_61",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_62",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_63",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_64",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_65",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_66",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_67",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_68",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_69",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_70",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_71",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_72",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_73",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_74",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_75",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_76",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_77",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_78",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_79",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_80"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 3",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_84",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_85",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_86",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_87",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_88",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_89",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_90",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_91",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_92",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_93",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_94",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_95",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_96",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_97",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_98",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_99",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_100",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_101",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_102",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_103",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_104",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_105",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_106",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_107",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_108",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_109",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_110",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_111",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_112",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_113",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_114",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_115",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_116",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_117",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_118",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_119",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_120",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_121",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_122",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_123",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_124",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_125",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_126"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 4",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_127",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_128",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_129",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_130",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_131",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_132",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_133",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_134",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_135",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_136",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_137",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_138",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_139",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_140",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_141",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_142",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_143",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_144",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_145",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_146",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_147",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_148",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_149",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_150",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_151",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_152",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_153",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_154",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_155",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_156",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_157",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_158",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_159",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_160",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_161",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_162",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_163",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_164",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_165",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_166",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_167",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_168",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_169",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_170",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_171",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_172",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_173",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_174",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_175",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_176",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_177",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_178",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_179",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_180",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_181",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_182",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_183",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_184",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_185",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_186",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_187",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_188",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_189",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_190",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_191",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_192",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_193",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_194",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_195",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_196",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_197",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_198",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_199",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_200"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 5",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_201",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_202",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_203",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_204",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_205",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_206",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_207",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_208",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_209",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_210",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_211",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_212",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_213",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_214",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_215",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_216",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_217",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_218",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_219",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_220",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_221",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_222",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_223",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_224",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_225",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_226",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_227",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_228",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_229",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_230",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_231",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_232",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_233",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_234",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_235",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_236",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_237",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_238",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_239",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_240",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_241",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_242",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_243",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_244",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_245",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_246",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_247",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_248",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_249",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_250",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_251",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_252",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_253",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_254",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_255",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_256",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_257",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_258",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_259",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_260",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_261",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_262"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "group": "Título III",
+                        "pages": [
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_iii/articulo_263"
+                        ]
+                      },
+                      {
+                        "group": "Título IV",
+                        "pages": [
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_iv/articulo_264",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_iv/articulo_265"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Parte II",
+                    "pages": [
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/articulo_266",
+                    {
+                      "group": "Título V",
+                      "pages": [
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_267",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_268",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_269",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_270",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_271",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_272",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_273",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_274",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_275"
+                      ]
+                    },
+                    {
+                      "group": "Título VI",
+                      "pages": [
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_276",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_277",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_278",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_279",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_280",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_281",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_282",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_283",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_284",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_285",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_286",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_287",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_288",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_289",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_290",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_291",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_292",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_293",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_294",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_295",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_296"
+                      ]
+                    },
+                    {
+                      "group": "Título VII",
+                      "pages": [
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vii/articulo_297",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vii/articulo_298"
+                      ]
+                    }
+                    ]
+                  },
+                  {
+                    "group": "Parte III",
+                    "pages": [
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_299",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_300",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_301",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_302",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_303",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_304",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_305",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_306",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_307",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_308",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_309",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_310",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_311",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_312",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_313",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_314",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_315",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_316",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_317",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_318"
+                    ]
+                  },
+                  {
+                    "group": "Parte IV",
+                    "pages": [
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iv/articulo_319",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iv/articulo_320",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iv/articulo_321"
+                    ]
+                  }
                 ]
               }
             ]
