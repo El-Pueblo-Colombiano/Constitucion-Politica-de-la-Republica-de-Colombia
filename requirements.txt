@@ -1,0 +1,6 @@
+# Article Cleaner Dependencies
+# Beautiful, powerful logging library for Python
+loguru>=0.7.0
+
+# Optional: for more advanced text processing (if needed in future)
+# regex>=2023.6.3 
