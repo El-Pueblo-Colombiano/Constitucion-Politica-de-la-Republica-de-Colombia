@@ -1,0 +1,1042 @@
+{
+  "libro_i": {
+    "articulos": [
+      "articulo_1"
+    ]
+  },
+  "libro_ii": {
+    "titulo_1": {
+      "capitulo_unico": {
+        "articulos": [
+          "articulo_2",
+          "articulo_3",
+          "articulo_4",
+          "articulo_5"
+        ]
+      }
+    },
+    "titulo_2": {
+      "capitulo_1": {
+        "articulos": [
+          "articulo_6",
+          "articulo_7",
+          "articulo_8",
+          "articulo_9",
+          "articulo_10",
+          "articulo_11",
+          "articulo_12",
+          "articulo_13",
+          "articulo_14",
+          "articulo_41",
+          "articulo_42",
+          "articulo_64",
+          "articulo_65"
+        ],
+        "seccion_1": {
+          "articulos": [
+            "articulo_43",
+            "articulo_44"
+          ]
+        },
+        "seccion_2": {}
+      },
+      "capitulo_2": {
+        "seccion_1": {
+          "articulos": [
+            "articulo_15",
+            "articulo_16",
+            "articulo_17",
+            "articulo_18",
+            "articulo_19",
+            "articulo_20",
+            "articulo_21",
+            "articulo_22",
+            "articulo_23",
+            "articulo_24",
+            "articulo_25",
+            "articulo_26",
+            "articulo_27",
+            "articulo_28",
+            "articulo_29",
+            "articulo_30",
+            "articulo_31"
+          ]
+        },
+        "seccion_2": {
+          "articulos": [
+            "articulo_32",
+            "articulo_33",
+            "articulo_34",
+            "articulo_35"
+          ]
+        },
+        "articulos": [
+          "articulo_80"
+        ]
+      },
+      "capitulo_3": {
+        "articulos": [
+          "articulo_36",
+          "articulo_37",
+          "articulo_38",
+          "articulo_39",
+          "articulo_88"
+        ],
+        "seccion_1": {
+          "articulos": [
+            "articulo_89",
+            "articulo_90",
+            "articulo_91"
+          ]
+        },
+        "seccion_2": {
+          "articulos": [
+            "articulo_92",
+            "articulo_93"
+          ]
+        },
+        "seccion_3": {
+          "articulos": [
+            "articulo_94",
+            "articulo_95",
+            "articulo_96",
+            "articulo_97"
+          ]
+        },
+        "seccion_4": {
+          "articulos": [
+            "articulo_98",
+            "articulo_99"
+          ]
+        }
+      },
+      "capitulo_4": {
+        "articulos": [
+          "articulo_40",
+          "articulo_100",
+          "articulo_101"
+        ]
+      },
+      "articulos": [
+        "articulo_45",
+        "articulo_46"
+      ],
+      "seccion_2": {
+        "articulos": [
+          "articulo_47",
+          "articulo_48",
+          "articulo_49",
+          "articulo_50",
+          "articulo_51",
+          "articulo_52",
+          "articulo_53",
+          "articulo_54",
+          "articulo_55",
+          "articulo_56",
+          "articulo_57"
+        ]
+      },
+      "seccion_3": {
+        "articulos": [
+          "articulo_58",
+          "articulo_59",
+          "articulo_60",
+          "articulo_61",
+          "articulo_62",
+          "articulo_63"
+        ]
+      },
+      "seccion_4": {
+        "articulos": [
+          "articulo_66",
+          "articulo_67"
+        ]
+      },
+      "seccion_del": {
+        "articulos": [
+          "articulo_68",
+          "articulo_69",
+          "articulo_70",
+          "articulo_71",
+          "articulo_72"
+        ]
+      },
+      "seccion_5": {
+        "articulos": [
+          "articulo_73",
+          "articulo_74",
+          "articulo_75",
+          "articulo_76",
+          "articulo_77",
+          "articulo_78",
+          "articulo_79"
+        ]
+      },
+      "capitulo_1componentes": {
+        "articulos": [
+          "articulo_81",
+          "articulo_82",
+          "articulo_83",
+          "articulo_84",
+          "articulo_85",
+          "articulo_86",
+          "articulo_87"
+        ]
+      }
+    }
+  },
+  "libro_iii": {
+    "capitulo_1": {
+      "articulos": [
+        "articulo_102",
+        "articulo_103",
+        "articulo_122",
+        "articulo_123",
+        "articulo_124",
+        "articulo_125",
+        "articulo_126",
+        "articulo_127",
+        "articulo_128",
+        "articulo_129"
+      ],
+      "seccion_1": {
+        "articulos": [
+          "articulo_121"
+        ]
+      }
+    },
+    "capitulo_2": {
+      "articulos": [
+        "articulo_104",
+        "articulo_105",
+        "articulo_106",
+        "articulo_107",
+        "articulo_108",
+        "articulo_109",
+        "articulo_110",
+        "articulo_111",
+        "articulo_112",
+        "articulo_113"
+      ],
+      "seccion_hidraulica": {
+        "articulos": [
+          "articulo_114",
+          "articulo_115",
+          "articulo_116"
+        ]
+      },
+      "seccion_1": {
+        "articulos": [
+          "articulo_150",
+          "articulo_151",
+          "articulo_152",
+          "articulo_153",
+          "articulo_154"
+        ]
+      },
+      "seccion_entre": {},
+      "seccion_mayor": {
+        "articulos": [
+          "articulo_155"
+        ]
+      }
+    },
+    "capitulo_3": {
+      "articulos": [
+        "articulo_117",
+        "articulo_118",
+        "articulo_119",
+        "articulo_120"
+      ]
+    },
+    "capitulo_4": {},
+    "capitulo_unico": {
+      "articulos": [
+        "articulo_130",
+        "articulo_131",
+        "articulo_132"
+      ],
+      "seccion_2": {
+        "articulos": [
+          "articulo_133",
+          "articulo_134",
+          "articulo_135"
+        ]
+      },
+      "seccion_3": {
+        "articulos": [
+          "articulo_136",
+          "articulo_137",
+          "articulo_138",
+          "articulo_139",
+          "articulo_140",
+          "articulo_141",
+          "articulo_142",
+          "articulo_143",
+          "articulo_144",
+          "articulo_145",
+          "articulo_35",
+          "articulo_146",
+          "articulo_147",
+          "articulo_148",
+          "articulo_149"
+        ]
+      }
+    },
+    "capitulo_y": {
+      "articulos": [
+        "articulo_156"
+      ],
+      "seccion_2": {
+        "articulos": [
+          "articulo_157",
+          "articulo_158",
+          "articulo_159",
+          "articulo_160",
+          "articulo_161",
+          "articulo_162"
+        ]
+      },
+      "seccion_minima": {
+        "articulos": [
+          "articulo_163"
+        ]
+      },
+      "seccion_unico": {
+        "articulos": [
+          "articulo_164",
+          "articulo_165",
+          "articulo_166"
+        ]
+      }
+    },
+    "titulo_para": {
+      "seccion_3": {
+        "articulos": [
+          "articulo_167"
+        ]
+      },
+      "seccion_4": {
+        "articulos": [
+          "articulo_168"
+        ]
+      },
+      "capitulo_3": {
+        "articulos": [
+          "articulo_169",
+          "articulo_170",
+          "articulo_171",
+          "articulo_172",
+          "articulo_173",
+          "articulo_174",
+          "articulo_175",
+          "articulo_176",
+          "articulo_177",
+          "articulo_178",
+          "articulo_370"
+        ]
+      },
+      "capitulo_4": {
+        "seccion_1": {
+          "articulos": [
+            "articulo_179"
+          ]
+        },
+        "seccion_2": {
+          "articulos": [
+            "articulo_180",
+            "articulo_181",
+            "articulo_182",
+            "articulo_183"
+          ]
+        },
+        "seccion_3": {
+          "articulos": [
+            "articulo_184",
+            "articulo_185",
+            "articulo_186"
+          ]
+        },
+        "seccion_4": {
+          "articulos": [
+            "articulo_187",
+            "articulo_188",
+            "articulo_189",
+            "articulo_190",
+            "articulo_191",
+            "articulo_192",
+            "articulo_193",
+            "articulo_194",
+            "articulo_195",
+            "articulo_196",
+            "articulo_197",
+            "articulo_198",
+            "articulo_199"
+          ]
+        },
+        "seccion_unico": {
+          "articulos": [
+            "articulo_200",
+            "articulo_201",
+            "articulo_202",
+            "articulo_203",
+            "articulo_204",
+            "articulo_205",
+            "articulo_206",
+            "articulo_207",
+            "articulo_208",
+            "articulo_209",
+            "articulo_210"
+          ]
+        },
+        "seccion_5": {
+          "articulos": [
+            "articulo_211",
+            "articulo_212",
+            "articulo_213"
+          ]
+        },
+        "seccion_6": {
+          "articulos": [
+            "articulo_214"
+          ]
+        },
+        "seccion_7": {
+          "articulos": [
+            "articulo_215",
+            "articulo_216",
+            "articulo_217",
+            "articulo_218",
+            "articulo_219",
+            "articulo_220",
+            "articulo_2"
+          ]
+        },
+        "seccion_8": {
+          "articulos": [
+            "articulo_221",
+            "articulo_222",
+            "articulo_222",
+            "articulo_223",
+            "articulo_224"
+          ]
+        },
+        "seccion_9": {
+          "articulos": [
+            "articulo_225",
+            "articulo_226",
+            "articulo_227",
+            "articulo_228",
+            "articulo_229",
+            "articulo_230",
+            "articulo_231",
+            "articulo_232"
+          ]
+        },
+        "articulos": [
+          "articulo_378",
+          "articulo_379",
+          "articulo_380",
+          "articulo_381",
+          "articulo_382",
+          "articulo_383"
+        ]
+      },
+      "capitulo_5": {},
+      "capitulo_1": {
+        "articulos": [
+          "articulo_233",
+          "articulo_234",
+          "articulo_235",
+          "articulo_236",
+          "articulo_237",
+          "articulo_238",
+          "articulo_239",
+          "articulo_240",
+          "articulo_241",
+          "articulo_242",
+          "articulo_243"
+        ]
+      },
+      "capitulo_del": {
+        "articulos": [
+          "articulo_244",
+          "articulo_245",
+          "articulo_246",
+          "articulo_247",
+          "articulo_248"
+        ]
+      },
+      "capitulo_de": {
+        "articulos": [
+          "articulo_249",
+          "articulo_250",
+          "articulo_251",
+          "articulo_252",
+          "articulo_253",
+          "articulo_254",
+          "articulo_329",
+          "articulo_330",
+          "articulo_331"
+        ],
+        "seccion_7": {
+          "articulos": [
+            "articulo_332",
+            "articulo_333",
+            "articulo_334",
+            "articulo_335",
+            "articulo_336",
+            "articulo_337"
+          ]
+        },
+        "seccion_unico": {}
+      },
+      "capitulo_2": {
+        "seccion_1": {
+          "articulos": [
+            "articulo_255"
+          ]
+        },
+        "seccion_2": {
+          "articulos": [
+            "articulo_256",
+            "articulo_257",
+            "articulo_258",
+            "articulo_259",
+            "articulo_260",
+            "articulo_261",
+            "articulo_262",
+            "articulo_263"
+          ]
+        },
+        "seccion_de": {
+          "articulos": [
+            "articulo_264",
+            "articulo_265",
+            "articulo_266",
+            "articulo_267",
+            "articulo_268",
+            "articulo_269",
+            "articulo_270",
+            "articulo_271",
+            "articulo_272"
+          ]
+        },
+        "seccion_vial": {},
+        "seccion_3": {
+          "articulos": [
+            "articulo_273",
+            "articulo_274",
+            "articulo_275",
+            "articulo_276",
+            "articulo_277",
+            "articulo_278",
+            "articulo_279",
+            "articulo_280",
+            "articulo_281",
+            "articulo_282",
+            "articulo_283",
+            "articulo_284"
+          ]
+        },
+        "seccion_unico": {
+          "articulos": [
+            "articulo_285",
+            "articulo_286",
+            "articulo_287",
+            "articulo_288"
+          ]
+        },
+        "seccion_y": {
+          "articulos": [
+            "articulo_289",
+            "articulo_289",
+            "articulo_290",
+            "articulo_291",
+            "articulo_292",
+            "articulo_293",
+            "articulo_294",
+            "articulo_295",
+            "articulo_296",
+            "articulo_297",
+            "articulo_49",
+            "articulo_298",
+            "articulo_299",
+            "articulo_300"
+          ]
+        },
+        "seccion_4": {
+          "articulos": [
+            "articulo_301",
+            "articulo_302",
+            "articulo_303",
+            "articulo_304",
+            "articulo_305",
+            "articulo_306",
+            "articulo_307"
+          ]
+        },
+        "seccion_5": {
+          "articulos": [
+            "articulo_308",
+            "articulo_309",
+            "articulo_310",
+            "articulo_311",
+            "articulo_312",
+            "articulo_313",
+            "articulo_314",
+            "articulo_315",
+            "articulo_316"
+          ]
+        },
+        "seccion_6": {
+          "articulos": [
+            "articulo_317",
+            "articulo_318",
+            "articulo_319",
+            "articulo_320",
+            "articulo_321",
+            "articulo_322",
+            "articulo_323",
+            "articulo_324",
+            "articulo_325",
+            "articulo_326",
+            "articulo_327",
+            "articulo_328"
+          ]
+        }
+      },
+      "capitulo_a": {
+        "articulos": [
+          "articulo_338",
+          "articulo_339",
+          "articulo_340",
+          "articulo_341",
+          "articulo_342"
+        ],
+        "seccion_8": {
+          "articulos": [
+            "articulo_343",
+            "articulo_344",
+            "articulo_345",
+            "articulo_346",
+            "articulo_347",
+            "articulo_348"
+          ]
+        },
+        "seccion_1": {
+          "articulos": [
+            "articulo_349"
+          ]
+        },
+        "seccion_2": {
+          "articulos": [
+            "articulo_350",
+            "articulo_351",
+            "articulo_352",
+            "articulo_353",
+            "articulo_354",
+            "articulo_355",
+            "articulo_356",
+            "articulo_357",
+            "articulo_358",
+            "articulo_359",
+            "articulo_360",
+            "articulo_361",
+            "articulo_362",
+            "articulo_363"
+          ]
+        },
+        "seccion_3": {
+          "articulos": [
+            "articulo_364"
+          ]
+        }
+      },
+      "capitulo_unico": {
+        "articulos": [
+          "articulo_365",
+          "articulo_366",
+          "articulo_375",
+          "articulo_376",
+          "articulo_377"
+        ],
+        "seccion_unico": {
+          "articulos": [
+            "articulo_367",
+            "articulo_368"
+          ]
+        },
+        "seccion_4": {
+          "articulos": [
+            "articulo_369"
+          ]
+        }
+      },
+      "capitulo_en": {
+        "articulos": [
+          "articulo_371",
+          "articulo_372",
+          "articulo_373",
+          "articulo_374"
+        ]
+      }
+    },
+    "titulo_de": {
+      "capitulo_5": {
+        "articulos": [
+          "articulo_384",
+          "articulo_385",
+          "articulo_386",
+          "articulo_387",
+          "articulo_388"
+        ]
+      },
+      "capitulo_6": {
+        "articulos": [
+          "articulo_389",
+          "articulo_390",
+          "articulo_390"
+        ]
+      },
+      "capitulo_unico": {
+        "articulos": [
+          "articulo_391"
+        ]
+      }
+    }
+  },
+  "libro_iv": {
+    "capitulo_1": {
+      "articulos": [
+        "articulo_392",
+        "articulo_393",
+        "articulo_394",
+        "articulo_395",
+        "articulo_396",
+        "articulo_397",
+        "articulo_398",
+        "articulo_412",
+        "articulo_413",
+        "articulo_414",
+        "articulo_415",
+        "articulo_416",
+        "articulo_446",
+        "articulo_447",
+        "articulo_448",
+        "articulo_449",
+        "articulo_450",
+        "articulo_451",
+        "articulo_456",
+        "articulo_457",
+        "articulo_458",
+        "articulo_459",
+        "articulo_459"
+      ]
+    },
+    "capitulo_2": {
+      "articulos": [
+        "articulo_399",
+        "articulo_400",
+        "articulo_401",
+        "articulo_402",
+        "articulo_403",
+        "articulo_404",
+        "articulo_405",
+        "articulo_406",
+        "articulo_407",
+        "articulo_408",
+        "articulo_409",
+        "articulo_410",
+        "articulo_411",
+        "articulo_417",
+        "articulo_418",
+        "articulo_419",
+        "articulo_420",
+        "articulo_421",
+        "articulo_422",
+        "articulo_423",
+        "articulo_424",
+        "articulo_425",
+        "articulo_426",
+        "articulo_427",
+        "articulo_428",
+        "articulo_452",
+        "articulo_453",
+        "articulo_454",
+        "articulo_455",
+        "articulo_460",
+        "articulo_461",
+        "articulo_462"
+      ]
+    },
+    "capitulo_3": {
+      "articulos": [
+        "articulo_429",
+        "articulo_430",
+        "articulo_431",
+        "articulo_432",
+        "articulo_463",
+        "articulo_464",
+        "articulo_465"
+      ]
+    },
+    "capitulo_4": {
+      "articulos": [
+        "articulo_433",
+        "articulo_434",
+        "articulo_435",
+        "articulo_436",
+        "articulo_437",
+        "articulo_438",
+        "articulo_439",
+        "articulo_440",
+        "articulo_441",
+        "articulo_442",
+        "articulo_443",
+        "articulo_444",
+        "articulo_445",
+        "articulo_466",
+        "articulo_467"
+      ]
+    },
+    "capitulo_5": {
+      "articulos": [
+        "articulo_468",
+        "articulo_469",
+        "articulo_470",
+        "articulo_471"
+      ]
+    },
+    "capitulo_6": {
+      "articulos": [
+        "articulo_471",
+        "articulo_472"
+      ]
+    },
+    "capitulo_7": {
+      "articulos": [
+        "articulo_473",
+        "articulo_474",
+        "articulo_475",
+        "articulo_476",
+        "articulo_477"
+      ]
+    }
+  },
+  "libro_v": {
+    "articulos": [
+      "articulo_478",
+      "articulo_479",
+      "articulo_480",
+      "articulo_481",
+      "articulo_482",
+      "articulo_483",
+      "articulo_484"
+    ]
+  },
+  "libro_vi": {
+    "titulo_i": {
+      "articulos": [
+        "articulo_485"
+      ],
+      "capitulo_1": {
+        "articulos": [
+          "articulo_486",
+          "articulo_487",
+          "articulo_488",
+          "articulo_489",
+          "articulo_490",
+          "articulo_491"
+        ]
+      }
+    }
+  },
+  "libro_actuaciones": {
+    "capitulo_2": {
+      "articulos": [
+        "articulo_492",
+        "articulo_493",
+        "articulo_494",
+        "articulo_495",
+        "articulo_19",
+        "articulo_496",
+        "articulo_4",
+        "articulo_497",
+        "articulo_498",
+        "articulo_499",
+        "articulo_500",
+        "articulo_501",
+        "articulo_502",
+        "articulo_503",
+        "articulo_504",
+        "articulo_505",
+        "articulo_506",
+        "articulo_507"
+      ]
+    },
+    "capitulo_ii": {
+      "articulos": [
+        "articulo_508",
+        "articulo_509",
+        "articulo_510",
+        "articulo_511"
+      ]
+    },
+    "capitulo_unico": {
+      "articulos": [
+        "articulo_512",
+        "articulo_513",
+        "articulo_514",
+        "articulo_515",
+        "articulo_516",
+        "articulo_517",
+        "articulo_518"
+      ]
+    },
+    "capitulo_viii": {
+      "articulos": [
+        "articulo_519",
+        "articulo_520",
+        "articulo_521",
+        "articulo_522",
+        "articulo_523",
+        "articulo_524",
+        "articulo_525",
+        "articulo_526",
+        "articulo_527",
+        "articulo_528",
+        "articulo_529",
+        "articulo_530",
+        "articulo_531",
+        "articulo_532",
+        "articulo_533",
+        "articulo_8",
+        "articulo_534",
+        "articulo_535",
+        "articulo_2",
+        "articulo_536"
+      ]
+    },
+    "titulo_inmuebles": {
+      "articulos": [
+        "articulo_537",
+        "articulo_538",
+        "articulo_539",
+        "articulo_540",
+        "articulo_541",
+        "articulo_542",
+        "articulo_543",
+        "articulo_544",
+        "articulo_545",
+        "articulo_546",
+        "articulo_547",
+        "articulo_548",
+        "articulo_549",
+        "articulo_550",
+        "articulo_551",
+        "articulo_552",
+        "articulo_553"
+      ]
+    },
+    "titulo_ii": {
+      "articulos": [
+        "articulo_554",
+        "articulo_555",
+        "articulo_556",
+        "articulo_557"
+      ]
+    },
+    "titulo_iii": {
+      "articulos": [
+        "articulo_558"
+      ],
+      "seccion_se": {
+        "articulos": [
+          "articulo_559",
+          "articulo_560",
+          "articulo_561",
+          "articulo_562",
+          "articulo_563",
+          "articulo_564"
+        ]
+      }
+    }
+  },
+  "libro_vii": {
+    "articulos": [
+      "articulo_565",
+      "articulo_566",
+      "articulo_567"
+    ],
+    "seccion_de": {},
+    "seccion_1": {},
+    "seccion_10": {},
+    "seccion_11": {},
+    "seccion_12": {},
+    "seccion_3": {},
+    "seccion_4": {},
+    "seccion_5": {},
+    "seccion_7": {},
+    "seccion_8": {},
+    "seccion_9": {
+      "articulos": [
+        "articulo_568",
+        "articulo_569",
+        "articulo_570",
+        "articulo_571"
+      ]
+    }
+  },
+  "libro_viii": {
+    "capitulo_1": {
+      "articulos": [
+        "articulo_572",
+        "articulo_573",
+        "articulo_574",
+        "articulo_575",
+        "articulo_576"
+      ]
+    },
+    "capitulo_2": {
+      "articulos": [
+        "articulo_577",
+        "articulo_578",
+        "articulo_579",
+        "articulo_580",
+        "articulo_581",
+        "articulo_582",
+        "articulo_583",
+        "articulo_584",
+        "articulo_585",
+        "articulo_586",
+        "articulo_587",
+        "articulo_588",
+        "articulo_589",
+        "articulo_590",
+        "articulo_591",
+        "articulo_592"
+      ]
+    },
+    "capitulo_3": {
+      "articulos": [
+        "articulo_593",
+        "articulo_594",
+        "articulo_595",
+        "articulo_596",
+        "articulo_597",
+        "articulo_598",
+        "articulo_599",
+        "articulo_600",
+        "articulo_601",
+        "articulo_602",
+        "articulo_603",
+        "articulo_604",
+        "articulo_605",
+        "articulo_606",
+        "articulo_607",
+        "articulo_608"
+      ]
+    }
+  }
+}
