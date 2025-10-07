@@ -1,0 +1,2068 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Constitución Política de la República de Colombia",
+  "colors": {
+    "primary": "#2B5F9E",
+    "light": "#5888B7",
+    "dark": "#154B82"
+  },
+  "favicon": "/bandera/bandera.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Constitución",
+        "anchors": [
+          {
+            "anchor": "Constitución Política de la República de Colombia",
+            "icon": "book",
+            "groups": [
+              {
+                "group": "Preambulo",
+                "pages": [
+                  "PREAMBULO"
+                ]
+              },
+              {
+                "group": "Título I - De Los Principios Fundamentales",
+                "pages": [
+                  "titulo_i/articulo_1",
+                  "titulo_i/articulo_2",
+                  "titulo_i/articulo_3",
+                  "titulo_i/articulo_4",
+                  "titulo_i/articulo_5",
+                  "titulo_i/articulo_6",
+                  "titulo_i/articulo_7",
+                  "titulo_i/articulo_8",
+                  "titulo_i/articulo_9",
+                  "titulo_i/articulo_10",
+                  "titulo_i/articulos_1_10"
+                ]
+              },
+              {
+                "group": "Título II - De Los Derechos, Las Garantías Y Los Deberes",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - De Los Derechos Fundamentales",
+                    "pages": [
+                      "titulo_ii/capitulo_1/articulo_11",
+                      "titulo_ii/capitulo_1/articulo_12",
+                      "titulo_ii/capitulo_1/articulo_13",
+                      "titulo_ii/capitulo_1/articulo_14",
+                      "titulo_ii/capitulo_1/articulo_15",
+                      "titulo_ii/capitulo_1/articulo_16",
+                      "titulo_ii/capitulo_1/articulo_17",
+                      "titulo_ii/capitulo_1/articulo_18",
+                      "titulo_ii/capitulo_1/articulo_19",
+                      "titulo_ii/capitulo_1/articulo_20",
+                      "titulo_ii/capitulo_1/articulo_21",
+                      "titulo_ii/capitulo_1/articulo_22",
+                      "titulo_ii/capitulo_1/articulo_23",
+                      "titulo_ii/capitulo_1/articulo_24",
+                      "titulo_ii/capitulo_1/articulo_25",
+                      "titulo_ii/capitulo_1/articulo_26",
+                      "titulo_ii/capitulo_1/articulo_27",
+                      "titulo_ii/capitulo_1/articulo_28",
+                      "titulo_ii/capitulo_1/articulo_29",
+                      "titulo_ii/capitulo_1/articulo_30",
+                      "titulo_ii/capitulo_1/articulo_31",
+                      "titulo_ii/capitulo_1/articulo_32",
+                      "titulo_ii/capitulo_1/articulo_33",
+                      "titulo_ii/capitulo_1/articulo_34",
+                      "titulo_ii/capitulo_1/articulo_35",
+                      "titulo_ii/capitulo_1/articulo_36",
+                      "titulo_ii/capitulo_1/articulo_37",
+                      "titulo_ii/capitulo_1/articulo_38",
+                      "titulo_ii/capitulo_1/articulo_39",
+                      "titulo_ii/capitulo_1/articulo_40",
+                      "titulo_ii/capitulo_1/articulo_41",
+                      "titulo_ii/capitulo_1/articulos_11_41"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - De Los Derechos Sociales, Económicos Y Culturales",
+                    "pages": [
+                      "titulo_ii/capitulo_2/articulo_42",
+                      "titulo_ii/capitulo_2/articulo_43",
+                      "titulo_ii/capitulo_2/articulo_44",
+                      "titulo_ii/capitulo_2/articulo_45",
+                      "titulo_ii/capitulo_2/articulo_46",
+                      "titulo_ii/capitulo_2/articulo_47",
+                      "titulo_ii/capitulo_2/articulo_48",
+                      "titulo_ii/capitulo_2/articulo_49",
+                      "titulo_ii/capitulo_2/articulo_50",
+                      "titulo_ii/capitulo_2/articulo_51",
+                      "titulo_ii/capitulo_2/articulo_52",
+                      "titulo_ii/capitulo_2/articulo_53",
+                      "titulo_ii/capitulo_2/articulo_54",
+                      "titulo_ii/capitulo_2/articulo_55",
+                      "titulo_ii/capitulo_2/articulo_56",
+                      "titulo_ii/capitulo_2/articulo_57",
+                      "titulo_ii/capitulo_2/articulo_58",
+                      "titulo_ii/capitulo_2/articulo_59",
+                      "titulo_ii/capitulo_2/articulo_60",
+                      "titulo_ii/capitulo_2/articulo_61",
+                      "titulo_ii/capitulo_2/articulo_62",
+                      "titulo_ii/capitulo_2/articulo_63",
+                      "titulo_ii/capitulo_2/articulo_64",
+                      "titulo_ii/capitulo_2/articulo_65",
+                      "titulo_ii/capitulo_2/articulo_66",
+                      "titulo_ii/capitulo_2/articulo_67",
+                      "titulo_ii/capitulo_2/articulo_68",
+                      "titulo_ii/capitulo_2/articulo_69",
+                      "titulo_ii/capitulo_2/articulo_70",
+                      "titulo_ii/capitulo_2/articulo_71",
+                      "titulo_ii/capitulo_2/articulo_72",
+                      "titulo_ii/capitulo_2/articulo_73",
+                      "titulo_ii/capitulo_2/articulo_74",
+                      "titulo_ii/capitulo_2/articulo_75",
+                      "titulo_ii/capitulo_2/articulo_76",
+                      "titulo_ii/capitulo_2/articulo_77",
+                      "titulo_ii/capitulo_2/articulos_42_77"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 3 - De Los Derechos Colectivos Y Del Ambiente",
+                    "pages": [
+                      "titulo_ii/capitulo_3/articulo_78",
+                      "titulo_ii/capitulo_3/articulo_79",
+                      "titulo_ii/capitulo_3/articulo_80",
+                      "titulo_ii/capitulo_3/articulo_81",
+                      "titulo_ii/capitulo_3/articulo_82",
+                      "titulo_ii/capitulo_3/articulos_78_82"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 4 - De La Protección Y Aplicación De Los Derechos",
+                    "pages": [
+                      "titulo_ii/capitulo_4/articulo_83",
+                      "titulo_ii/capitulo_4/articulo_84",
+                      "titulo_ii/capitulo_4/articulo_85",
+                      "titulo_ii/capitulo_4/articulo_86",
+                      "titulo_ii/capitulo_4/articulo_87",
+                      "titulo_ii/capitulo_4/articulo_88",
+                      "titulo_ii/capitulo_4/articulo_89",
+                      "titulo_ii/capitulo_4/articulo_90",
+                      "titulo_ii/capitulo_4/articulo_91",
+                      "titulo_ii/capitulo_4/articulo_92",
+                      "titulo_ii/capitulo_4/articulo_93",
+                      "titulo_ii/capitulo_4/articulo_94",
+                      "titulo_ii/capitulo_4/articulos_83_94"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 5 - De Los Deberes Y Obligaciones",
+                    "pages": [
+                      "titulo_ii/capitulo_5/articulo_95"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título III - De los Habitantes y del Territorio",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - De la Nacionalidad.",
+                    "pages": [
+                      "titulo_iii/capitulo_1/articulo_96",
+                      "titulo_iii/capitulo_1/articulo_97",
+                      "titulo_iii/capitulo_1/articulos_96_97"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - De La Ciudadanía",
+                    "pages": [
+                      "titulo_iii/capitulo_2/articulo_98",
+                      "titulo_iii/capitulo_2/articulo_99",
+                      "titulo_iii/capitulo_2/articulos_98_99"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 3 - De Los Extranjeros",
+                    "pages": [
+                      "titulo_iii/capitulo_3/articulo_100"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 4 - Del Territorio",
+                    "pages": [
+                      "titulo_iii/capitulo_4/articulo_101",
+                      "titulo_iii/capitulo_4/articulo_102",
+                      "titulo_iii/capitulo_4/articulos_101_102"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título IV - De La Participación Democrática Y De Los Partidos Políticos",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - De Las Formas De Participación Democrática",
+                    "pages": [
+                      "titulo_iv/capitulo_1/articulo_103",
+                      "titulo_iv/capitulo_1/articulo_104",
+                      "titulo_iv/capitulo_1/articulo_105",
+                      "titulo_iv/capitulo_1/articulo_106",
+                      "titulo_iv/capitulo_1/articulos_103_106"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - De Los Partidos Y De Los Movimientos Políticos",
+                    "pages": [
+                      "titulo_iv/capitulo_2/articulo_107",
+                      "titulo_iv/capitulo_2/articulo_108",
+                      "titulo_iv/capitulo_2/articulo_109",
+                      "titulo_iv/capitulo_2/articulo_110",
+                      "titulo_iv/capitulo_2/articulo_111",
+                      "titulo_iv/capitulo_2/articulos_107_111"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 3 - Del Estatuto de la Oposición",
+                    "pages": [
+                      "titulo_iv/capitulo_3/articulo_112"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título V - De la organización del Estado",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - De la Estructura del Estado",
+                    "pages": [
+                      "titulo_v/capitulo_1/articulo_113",
+                      "titulo_v/capitulo_1/articulo_114",
+                      "titulo_v/capitulo_1/articulo_115",
+                      "titulo_v/capitulo_1/articulo_116",
+                      "titulo_v/capitulo_1/articulo_117",
+                      "titulo_v/capitulo_1/articulo_118",
+                      "titulo_v/capitulo_1/articulo_119",
+                      "titulo_v/capitulo_1/articulo_120",
+                      "titulo_v/capitulo_1/articulo_121",
+                      "titulo_v/capitulo_1/articulos_113_121"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - De la Función Pública",
+                    "pages": [
+                      "titulo_v/capitulo_2/articulo_122",
+                      "titulo_v/capitulo_2/articulo_123",
+                      "titulo_v/capitulo_2/articulo_124",
+                      "titulo_v/capitulo_2/articulo_125",
+                      "titulo_v/capitulo_2/articulo_126",
+                      "titulo_v/capitulo_2/articulo_127",
+                      "titulo_v/capitulo_2/articulo_128",
+                      "titulo_v/capitulo_2/articulo_129",
+                      "titulo_v/capitulo_2/articulo_130",
+                      "titulo_v/capitulo_2/articulo_131",
+                      "titulo_v/capitulo_2/articulos_122_131"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título VI - De La Rama Legislativa",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - De la composición y las funciones",
+                    "pages": [
+                      "titulo_vi/capitulo_1/articulo_132",
+                      "titulo_vi/capitulo_1/articulo_133",
+                      "titulo_vi/capitulo_1/articulo_134",
+                      "titulo_vi/capitulo_1/articulo_135",
+                      "titulo_vi/capitulo_1/articulo_136",
+                      "titulo_vi/capitulo_1/articulo_137",
+                      "titulo_vi/capitulo_1/articulos_132_137"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - De la reunión y el funcionamiento",
+                    "pages": [
+                      "titulo_vi/capitulo_2/articulo_138",
+                      "titulo_vi/capitulo_2/articulo_139",
+                      "titulo_vi/capitulo_2/articulo_140",
+                      "titulo_vi/capitulo_2/articulo_141",
+                      "titulo_vi/capitulo_2/articulo_142",
+                      "titulo_vi/capitulo_2/articulo_143",
+                      "titulo_vi/capitulo_2/articulo_144",
+                      "titulo_vi/capitulo_2/articulo_145",
+                      "titulo_vi/capitulo_2/articulo_146",
+                      "titulo_vi/capitulo_2/articulo_147",
+                      "titulo_vi/capitulo_2/articulo_148",
+                      "titulo_vi/capitulo_2/articulo_149",
+                      "titulo_vi/capitulo_2/articulos_138_149"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 3 - De las leyes",
+                    "pages": [
+                      "titulo_vi/capitulo_3/articulo_150",
+                      "titulo_vi/capitulo_3/articulo_151",
+                      "titulo_vi/capitulo_3/articulo_152",
+                      "titulo_vi/capitulo_3/articulo_153",
+                      "titulo_vi/capitulo_3/articulo_154",
+                      "titulo_vi/capitulo_3/articulo_155",
+                      "titulo_vi/capitulo_3/articulo_156",
+                      "titulo_vi/capitulo_3/articulo_157",
+                      "titulo_vi/capitulo_3/articulo_158",
+                      "titulo_vi/capitulo_3/articulo_159",
+                      "titulo_vi/capitulo_3/articulo_160",
+                      "titulo_vi/capitulo_3/articulo_161",
+                      "titulo_vi/capitulo_3/articulo_162",
+                      "titulo_vi/capitulo_3/articulo_163",
+                      "titulo_vi/capitulo_3/articulo_164",
+                      "titulo_vi/capitulo_3/articulo_165",
+                      "titulo_vi/capitulo_3/articulo_166",
+                      "titulo_vi/capitulo_3/articulo_167",
+                      "titulo_vi/capitulo_3/articulo_168",
+                      "titulo_vi/capitulo_3/articulo_169",
+                      "titulo_vi/capitulo_3/articulo_170",
+                      "titulo_vi/capitulo_3/articulos_150_170"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 4 - Del Senado de la República",
+                    "pages": [
+                      "titulo_vi/capitulo_4/articulo_171",
+                      "titulo_vi/capitulo_4/articulo_172",
+                      "titulo_vi/capitulo_4/articulo_173",
+                      "titulo_vi/capitulo_4/articulo_174",
+                      "titulo_vi/capitulo_4/articulo_175",
+                      "titulo_vi/capitulo_4/articulos_171_175"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 5 - De la Cámara de Representantes",
+                    "pages": [
+                      "titulo_vi/capitulo_5/articulo_176",
+                      "titulo_vi/capitulo_5/articulo_177",
+                      "titulo_vi/capitulo_5/articulo_178",
+                      "titulo_vi/capitulo_5/articulo_178-A",
+                      "titulo_vi/capitulo_5/articulos_176_178-A"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 6 - De los congresistas",
+                    "pages": [
+                      "titulo_vi/capitulo_6/articulo_179",
+                      "titulo_vi/capitulo_6/articulo_180",
+                      "titulo_vi/capitulo_6/articulo_181",
+                      "titulo_vi/capitulo_6/articulo_182",
+                      "titulo_vi/capitulo_6/articulo_183",
+                      "titulo_vi/capitulo_6/articulo_184",
+                      "titulo_vi/capitulo_6/articulo_185",
+                      "titulo_vi/capitulo_6/articulo_186",
+                      "titulo_vi/capitulo_6/articulo_187",
+                      "titulo_vi/capitulo_6/articulos_179_187"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título VII - De la Rama Ejecutiva",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - Del Presidente de la República",
+                    "pages": [
+                      "titulo_vii/capitulo_1/articulo_188",
+                      "titulo_vii/capitulo_1/articulo_189",
+                      "titulo_vii/capitulo_1/articulo_190",
+                      "titulo_vii/capitulo_1/articulo_191",
+                      "titulo_vii/capitulo_1/articulo_192",
+                      "titulo_vii/capitulo_1/articulo_193",
+                      "titulo_vii/capitulo_1/articulo_194",
+                      "titulo_vii/capitulo_1/articulo_195",
+                      "titulo_vii/capitulo_1/articulo_196",
+                      "titulo_vii/capitulo_1/articulo_197",
+                      "titulo_vii/capitulo_1/articulo_198",
+                      "titulo_vii/capitulo_1/articulo_199",
+                      "titulo_vii/capitulo_1/articulos_188_199"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - Del Gobierno",
+                    "pages": [
+                      "titulo_vii/capitulo_2/articulo_200",
+                      "titulo_vii/capitulo_2/articulo_201",
+                      "titulo_vii/capitulo_2/articulos_200_201"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 3 - Del Vicepresidente",
+                    "pages": [
+                      "titulo_vii/capitulo_3/articulo_202",
+                      "titulo_vii/capitulo_3/articulo_203",
+                      "titulo_vii/capitulo_3/articulo_204",
+                      "titulo_vii/capitulo_3/articulo_205",
+                      "titulo_vii/capitulo_3/articulos_202_205"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 4 - De los Ministros y Directores de los Departamentos Administrativos",
+                    "pages": [
+                      "titulo_vii/capitulo_4/articulo_206",
+                      "titulo_vii/capitulo_4/articulo_207",
+                      "titulo_vii/capitulo_4/articulo_208",
+                      "titulo_vii/capitulo_4/articulos_206_208"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 5 - De la función administrativa",
+                    "pages": [
+                      "titulo_vii/capitulo_5/articulo_209",
+                      "titulo_vii/capitulo_5/articulo_210",
+                      "titulo_vii/capitulo_5/articulo_211",
+                      "titulo_vii/capitulo_5/articulos_209_211"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 6 - De los Estados de Excepción",
+                    "pages": [
+                      "titulo_vii/capitulo_6/articulo_212",
+                      "titulo_vii/capitulo_6/articulo_213",
+                      "titulo_vii/capitulo_6/articulo_214",
+                      "titulo_vii/capitulo_6/articulo_215",
+                      "titulo_vii/capitulo_6/articulos_212_215"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 7 - De la Fuerza Pública",
+                    "pages": [
+                      "titulo_vii/capitulo_7/articulo_216",
+                      "titulo_vii/capitulo_7/articulo_217",
+                      "titulo_vii/capitulo_7/articulo_218",
+                      "titulo_vii/capitulo_7/articulo_219",
+                      "titulo_vii/capitulo_7/articulo_220",
+                      "titulo_vii/capitulo_7/articulo_221",
+                      "titulo_vii/capitulo_7/articulo_222",
+                      "titulo_vii/capitulo_7/articulo_223",
+                      "titulo_vii/capitulo_7/articulos_216_223"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 8 - De las Relaciones Internacionales",
+                    "pages": [
+                      "titulo_vii/capitulo_8/articulo_224",
+                      "titulo_vii/capitulo_8/articulo_225",
+                      "titulo_vii/capitulo_8/articulo_226",
+                      "titulo_vii/capitulo_8/articulo_227",
+                      "titulo_vii/capitulo_8/articulos_224_227"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título VIII - De la Rama Judicial",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - De las disposiciones generales",
+                    "pages": [
+                      "titulo_viii/capitulo_1/articulo_228",
+                      "titulo_viii/capitulo_1/articulo_229",
+                      "titulo_viii/capitulo_1/articulo_230",
+                      "titulo_viii/capitulo_1/articulo_231",
+                      "titulo_viii/capitulo_1/articulo_232",
+                      "titulo_viii/capitulo_1/articulo_233",
+                      "titulo_viii/capitulo_1/articulos_228_233"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - De la Jurisdicción Ordinaria",
+                    "pages": [
+                      "titulo_viii/capitulo_2/articulo_234",
+                      "titulo_viii/capitulo_2/articulo_235",
+                      "titulo_viii/capitulo_2/articulos_234_235"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 3 - De la Jurisdicción Contencioso Administrativa",
+                    "pages": [
+                      "titulo_viii/capitulo_3/articulo_236",
+                      "titulo_viii/capitulo_3/articulo_237",
+                      "titulo_viii/capitulo_3/articulo_238",
+                      "titulo_viii/capitulo_3/articulos_236_238"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 3A - De la Jurisdicción Agraria y Rural",
+                    "pages": [
+                      "titulo_viii/capitulo_3A/articulo_238A"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 4 - De la Jurisdicción Constitucional",
+                    "pages": [
+                      "titulo_viii/capitulo_4/articulo_239",
+                      "titulo_viii/capitulo_4/articulo_240",
+                      "titulo_viii/capitulo_4/articulo_241",
+                      "titulo_viii/capitulo_4/articulo_242",
+                      "titulo_viii/capitulo_4/articulo_243",
+                      "titulo_viii/capitulo_4/articulo_244",
+                      "titulo_viii/capitulo_4/articulo_245",
+                      "titulo_viii/capitulo_4/articulos_239_245"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 5 - De las Jurisdicciones Especiales",
+                    "pages": [
+                      "titulo_viii/capitulo_5/articulo_246",
+                      "titulo_viii/capitulo_5/articulo_247",
+                      "titulo_viii/capitulo_5/articulo_248",
+                      "titulo_viii/capitulo_5/articulos_246_248"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 6 - De la Fiscalía General de la Nación",
+                    "pages": [
+                      "titulo_viii/capitulo_6/articulo_249",
+                      "titulo_viii/capitulo_6/articulo_250",
+                      "titulo_viii/capitulo_6/articulo_251",
+                      "titulo_viii/capitulo_6/articulo_252",
+                      "titulo_viii/capitulo_6/articulo_253",
+                      "titulo_viii/capitulo_6/articulos_249_253"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 7 - Gobierno y Administración de la Rama Judicial",
+                    "pages": [
+                      "titulo_viii/capitulo_7/articulo_254",
+                      "titulo_viii/capitulo_7/articulo_255",
+                      "titulo_viii/capitulo_7/articulo_256",
+                      "titulo_viii/capitulo_7/articulo_257",
+                      "titulo_viii/capitulo_7/articulos_254_257"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título IX - De las elecciones y de la organización electoral",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - Del Sufragio y de las Elecciones",
+                    "pages": [
+                      "titulo_ix/capitulo_1/articulo_258",
+                      "titulo_ix/capitulo_1/articulo_259",
+                      "titulo_ix/capitulo_1/articulo_260",
+                      "titulo_ix/capitulo_1/articulo_261",
+                      "titulo_ix/capitulo_1/articulo_262",
+                      "titulo_ix/capitulo_1/articulo_263",
+                      "titulo_ix/capitulo_1/articulo_263A",
+                      "titulo_ix/capitulo_1/articulos_258_263A"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - De las Autoridades Electorales",
+                    "pages": [
+                      "titulo_ix/capitulo_2/articulo_264",
+                      "titulo_ix/capitulo_2/articulo_265",
+                      "titulo_ix/capitulo_2/articulo_266",
+                      "titulo_ix/capitulo_2/articulos_264_266"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título X - De los organismos de control",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - De la Contraloría General de la República",
+                    "pages": [
+                      "titulo_x/capitulo_1/articulo_267",
+                      "titulo_x/capitulo_1/articulo_268",
+                      "titulo_x/capitulo_1/articulo_269",
+                      "titulo_x/capitulo_1/articulo_270",
+                      "titulo_x/capitulo_1/articulo_271",
+                      "titulo_x/capitulo_1/articulo_272",
+                      "titulo_x/capitulo_1/articulo_273",
+                      "titulo_x/capitulo_1/articulo_274",
+                      "titulo_x/capitulo_1/articulos_267_274"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - Del Ministerio Público",
+                    "pages": [
+                      "titulo_x/capitulo_2/articulo_275",
+                      "titulo_x/capitulo_2/articulo_276",
+                      "titulo_x/capitulo_2/articulo_277",
+                      "titulo_x/capitulo_2/articulo_278",
+                      "titulo_x/capitulo_2/articulo_279",
+                      "titulo_x/capitulo_2/articulo_280",
+                      "titulo_x/capitulo_2/articulo_281",
+                      "titulo_x/capitulo_2/articulo_282",
+                      "titulo_x/capitulo_2/articulo_283",
+                      "titulo_x/capitulo_2/articulo_284",
+                      "titulo_x/capitulo_2/articulos_275_284"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título XI - De la organización territorial",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - De las disposiciones generales",
+                    "pages": [
+                      "titulo_xi/capitulo_1/articulo_285",
+                      "titulo_xi/capitulo_1/articulo_286",
+                      "titulo_xi/capitulo_1/articulo_287",
+                      "titulo_xi/capitulo_1/articulo_288",
+                      "titulo_xi/capitulo_1/articulo_289",
+                      "titulo_xi/capitulo_1/articulo_290",
+                      "titulo_xi/capitulo_1/articulo_291",
+                      "titulo_xi/capitulo_1/articulo_292",
+                      "titulo_xi/capitulo_1/articulo_293",
+                      "titulo_xi/capitulo_1/articulo_294",
+                      "titulo_xi/capitulo_1/articulo_295",
+                      "titulo_xi/capitulo_1/articulo_296",
+                      "titulo_xi/capitulo_1/articulos_285_296"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - Del Régimen Departamental",
+                    "pages": [
+                      "titulo_xi/capitulo_2/articulo_297",
+                      "titulo_xi/capitulo_2/articulo_298",
+                      "titulo_xi/capitulo_2/articulo_299",
+                      "titulo_xi/capitulo_2/articulo_300",
+                      "titulo_xi/capitulo_2/articulo_301",
+                      "titulo_xi/capitulo_2/articulo_302",
+                      "titulo_xi/capitulo_2/articulo_303",
+                      "titulo_xi/capitulo_2/articulo_304",
+                      "titulo_xi/capitulo_2/articulo_305",
+                      "titulo_xi/capitulo_2/articulo_306",
+                      "titulo_xi/capitulo_2/articulo_307",
+                      "titulo_xi/capitulo_2/articulo_308",
+                      "titulo_xi/capitulo_2/articulo_309",
+                      "titulo_xi/capitulo_2/articulo_310",
+                      "titulo_xi/capitulo_2/articulos_297_310"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 3 - Del Régimen Municipal",
+                    "pages": [
+                      "titulo_xi/capitulo_3/articulo_311",
+                      "titulo_xi/capitulo_3/articulo_312",
+                      "titulo_xi/capitulo_3/articulo_313",
+                      "titulo_xi/capitulo_3/articulo_314",
+                      "titulo_xi/capitulo_3/articulo_315",
+                      "titulo_xi/capitulo_3/articulo_316",
+                      "titulo_xi/capitulo_3/articulo_317",
+                      "titulo_xi/capitulo_3/articulo_318",
+                      "titulo_xi/capitulo_3/articulo_319",
+                      "titulo_xi/capitulo_3/articulo_320",
+                      "titulo_xi/capitulo_3/articulo_321",
+                      "titulo_xi/capitulo_3/articulos_311_321"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 4 - Del Régimen Especial",
+                    "pages": [
+                      "titulo_xi/capitulo_4/articulo_322",
+                      "titulo_xi/capitulo_4/articulo_323",
+                      "titulo_xi/capitulo_4/articulo_324",
+                      "titulo_xi/capitulo_4/articulo_325",
+                      "titulo_xi/capitulo_4/articulo_326",
+                      "titulo_xi/capitulo_4/articulo_327",
+                      "titulo_xi/capitulo_4/articulo_328",
+                      "titulo_xi/capitulo_4/articulo_329",
+                      "titulo_xi/capitulo_4/articulo_330",
+                      "titulo_xi/capitulo_4/articulo_331",
+                      "titulo_xi/capitulo_4/articulos_322_331"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título XII - Del régimen económico y de la hacienda pública",
+                "pages": [
+                  {
+                    "group": "Capítulo 1 - De las disposiciones generales",
+                    "pages": [
+                      "titulo_xii/capitulo_1/articulo_332",
+                      "titulo_xii/capitulo_1/articulo_333",
+                      "titulo_xii/capitulo_1/articulo_334",
+                      "titulo_xii/capitulo_1/articulo_335",
+                      "titulo_xii/capitulo_1/articulo_336",
+                      "titulo_xii/capitulo_1/articulo_337",
+                      "titulo_xii/capitulo_1/articulo_338",
+                      "titulo_xii/capitulo_1/articulos_332_338"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 2 - De los Planes de Desarrollo",
+                    "pages": [
+                      "titulo_xii/capitulo_2/articulo_339",
+                      "titulo_xii/capitulo_2/articulo_340",
+                      "titulo_xii/capitulo_2/articulo_341",
+                      "titulo_xii/capitulo_2/articulo_342",
+                      "titulo_xii/capitulo_2/articulo_343",
+                      "titulo_xii/capitulo_2/articulo_344",
+                      "titulo_xii/capitulo_2/articulos_339_344"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 3 - Del Presupuesto",
+                    "pages": [
+                      "titulo_xii/capitulo_3/articulo_345",
+                      "titulo_xii/capitulo_3/articulo_346",
+                      "titulo_xii/capitulo_3/articulo_347",
+                      "titulo_xii/capitulo_3/articulo_348",
+                      "titulo_xii/capitulo_3/articulo_349",
+                      "titulo_xii/capitulo_3/articulo_350",
+                      "titulo_xii/capitulo_3/articulo_351",
+                      "titulo_xii/capitulo_3/articulo_352",
+                      "titulo_xii/capitulo_3/articulo_353",
+                      "titulo_xii/capitulo_3/articulo_354",
+                      "titulo_xii/capitulo_3/articulo_355",
+                      "titulo_xii/capitulo_3/articulos_345_355"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 4 - De la distribución de recursos y de las competencias",
+                    "pages": [
+                      "titulo_xii/capitulo_4/articulo_356",
+                      "titulo_xii/capitulo_4/articulo_357",
+                      "titulo_xii/capitulo_4/articulo_358",
+                      "titulo_xii/capitulo_4/articulo_359",
+                      "titulo_xii/capitulo_4/articulo_360",
+                      "titulo_xii/capitulo_4/articulo_361",
+                      "titulo_xii/capitulo_4/articulo_362",
+                      "titulo_xii/capitulo_4/articulo_363",
+                      "titulo_xii/capitulo_4/articulo_364",
+                      "titulo_xii/capitulo_4/articulos_356_364"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 5 - De la finalidad social del Estado y de los servicios públicos",
+                    "pages": [
+                      "titulo_xii/capitulo_5/articulo_365",
+                      "titulo_xii/capitulo_5/articulo_366",
+                      "titulo_xii/capitulo_5/articulo_367",
+                      "titulo_xii/capitulo_5/articulo_368",
+                      "titulo_xii/capitulo_5/articulo_369",
+                      "titulo_xii/capitulo_5/articulo_370",
+                      "titulo_xii/capitulo_5/articulos_365_370"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo 6 - De la Banca Central",
+                    "pages": [
+                      "titulo_xii/capitulo_6/articulo_371",
+                      "titulo_xii/capitulo_6/articulo_372",
+                      "titulo_xii/capitulo_6/articulo_373",
+                      "titulo_xii/capitulo_6/articulos_371_373"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título XIII - De la reforma de la Constitución & Disposiciones transitorias",
+                "pages": [
+                  {
+                    "group": "De La Reforma De La Constitución",
+                    "pages": [
+                      "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_374",
+                      "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_375",
+                      "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_376",
+                      "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_377",
+                      "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_378",
+                      "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_379",
+                      "titulo_xiii/de_la_reforma_de_la_constitucion/articulo_380",
+                      "titulo_xiii/de_la_reforma_de_la_constitucion/articulos_374_380"
+                    ]
+                  },
+                  {
+                    "group": "Disposiciones Transitorias - Capítulo 1",
+                    "pages": [
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_1",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_2",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_3",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_4",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_5",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_6",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_7",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_8",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_9",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_10",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_11",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_12",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_13",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_14",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_15",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_16",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_17",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_18",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulo_transitorio_19",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_1/articulos_transitorios_1_19"
+                    ]
+                  },
+                  {
+                    "group": "Disposiciones Transitorias - Capítulo 2",
+                    "pages": [
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulo_transitorio_20",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulo_transitorio_21",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_2/articulos_transitorios_20_21"
+                    ]
+                  },
+                  {
+                    "group": "Disposiciones Transitorias - Capítulo 3",
+                    "pages": [
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_22",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_23",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_24",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_25",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_26",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_27",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_28",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_29",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulo_transitorio_30",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_3/articulos_transitorios_22_30"
+                    ]
+                  },
+                  {
+                    "group": "Disposiciones Transitorias - Capítulo 4",
+                    "pages": [
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_31",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_32",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_33",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_34",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulo_transitorio_35",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_4/articulos_transitorios_31_35"
+                    ]
+                  },
+                  {
+                    "group": "Disposiciones Transitorias - Capítulo 5",
+                    "pages": [
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulo_transitorio_36",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulo_transitorio_37",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_5/articulos_transitorios_36_37"
+                    ]
+                  },
+                  {
+                    "group": "Disposiciones Transitorias - Capítulo 6",
+                    "pages": [
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_38",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_39",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_40",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_41",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulo_transitorio_42",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_6/articulos_transitorios_38_42"
+                    ]
+                  },
+                  {
+                    "group": "Disposiciones Transitorias - Capítulo 7",
+                    "pages": [
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_43",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_44",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_45",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_46",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_47",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_48",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_49",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_50",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_51",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_52",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulo_transitorio_53",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_7/articulos_transitorios_43_53"
+                    ]
+                  },
+                  {
+                    "group": "Disposiciones Transitorias - Capítulo 8",
+                    "pages": [
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_54",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_55",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_56",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_57",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_58",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_59",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_60",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2002_7",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_03_2002_4",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_01_2009_14",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2011_3",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_04_2011_1",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_66",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_67",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_01_2016_1",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_01_2016_2",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_01_2016_3",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_01_2016_4",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2021_1_1",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2021_1_2",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2021_1_3",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2021_1_4",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2021_1_5",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2021_1_6",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2021_1_7",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2021_1_8",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2021_1_9",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulo_transitorio_AL_02_2021_1_10",
+                      "titulo_xiii/disposiciones_trancitorias/capitulo_8/articulos_transitorios_54_60"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Título Transitorio - De Las Normas Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
+                "pages": [
+                  {
+                    "group": "Capítulo I - Sistema Integral De Verdad, Justicia, Reparación Y No Repetición",
+                    "pages": [
+                      "titulo_transitorio/capitulo_i/articulo_transitorio_1"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo II - Comisión Para El Esclarecimiento De La Verdad, La Convivencia Y La No Repetición Y Unidad De Búsqueda De Personas Dadas Por Desaparecidas En El Contexto Y En Razón Del Conflicto Armado",
+                    "pages": [
+                      "titulo_transitorio/capitulo_ii/articulo_transitorio_2",
+                      "titulo_transitorio/capitulo_ii/articulo_transitorio_3",
+                      "titulo_transitorio/capitulo_ii/articulo_transitorio_4"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo III - Jurisdicción Especial Para La Paz",
+                    "pages": [
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_5",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_6",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_7",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_8",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_9",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_10",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_11",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_12",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_13",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_14",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_15",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_16",
+                      "titulo_transitorio/capitulo_iii/articulo_transitorio_17"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo IV - Reparación Integral En El Sistema Integral De Verdad, Justicia, Reparación Y No Repetición",
+                    "pages": [
+                      "titulo_transitorio/capitulo_iv/articulo_transitorio_18"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo V - Extradición",
+                    "pages": [
+                      "titulo_transitorio/capitulo_v/articulo_transitorio_19"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo VI - Participación En Política",
+                    "pages": [
+                      "titulo_transitorio/capitulo_vi/articulo_transitorio_20"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo VII - De Las Normas Aplicables A Los Miembros De La Fuerza Pública Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
+                    "pages": [
+                      "titulo_transitorio/capitulo_vii/articulo_transitorio_21",
+                      "titulo_transitorio/capitulo_vii/articulo_transitorio_22",
+                      "titulo_transitorio/capitulo_vii/articulo_transitorio_23",
+                      "titulo_transitorio/capitulo_vii/articulo_transitorio_24",
+                      "titulo_transitorio/capitulo_vii/articulo_transitorio_25",
+                      "titulo_transitorio/capitulo_vii/articulo_transitorio_26"
+                    ]
+                  },
+                  {
+                    "group": "Capítulo VIII - Prevalencia Del Acuerdo Final Para La Terminación Del Conflicto Armado Y La Construcción De Una Paz Estable Y Duradera",
+                    "pages": [
+                      "titulo_transitorio/capitulo_viii/articulo_transitorio_27"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Constancia",
+                "pages": [
+                  "constancia/constancia"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Bogotá",
+        "anchors": [
+          {
+            "anchor": "Plan de Desarrollo Bogotá",
+            "icon": "map",
+            "groups": [
+              {
+                "group": "Plan de Desarrollo",
+                "pages": [
+                  {
+                    "group": "Parte I",
+                    "pages": [
+                      {
+                        "group": "Título I",
+                        "pages": [
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_1",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_2",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_3",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_4",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_5",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/articulo_6",
+                          {
+                            "group": "Capítulo 1",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_i/articulo_7",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_i/articulo_8"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 2",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_ii/articulo_9",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_ii/articulo_10"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 3",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_iii/articulo_11",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_iii/articulo_12"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 4",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_iv/articulo_13",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_iv/articulo_14"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 5",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_v/articulo_15",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_v/articulo_16"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 6",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_i/capitulo_vi/articulo_17"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "group": "Título II",
+                        "pages": [
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/articulo_18",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/articulo_19",
+                          {
+                            "group": "Capítulo 1",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_20",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_21",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_22",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_23",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_24",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_25",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_26",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_27",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_28",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_29",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_30",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_31",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_32",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_33",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_34",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_35",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_36",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_37",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_38",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_39",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_i/articulo_40"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 2",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_41",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_42",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_43",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_44",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_45",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_46",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_47",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_48",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_49",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_50",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_51",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_52",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_53",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_54",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_55",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_56",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_57",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_58",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_59",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_60",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_61",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_62",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_63",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_64",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_65",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_66",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_67",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_68",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_69",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_70",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_71",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_72",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_73",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_74",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_75",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_76",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_77",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_78",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_79",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_ii/articulo_80"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 3",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_84",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_85",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_86",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_87",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_88",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_89",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_90",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_91",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_92",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_93",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_94",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_95",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_96",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_97",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_98",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_99",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_100",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_101",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_102",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_103",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_104",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_105",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_106",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_107",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_108",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_109",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_110",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_111",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_112",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_113",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_114",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_115",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_116",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_117",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_118",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_119",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_120",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_121",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_122",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_123",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_124",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_125",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iii/articulo_126"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 4",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_127",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_128",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_129",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_130",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_131",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_132",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_133",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_134",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_135",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_136",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_137",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_138",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_139",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_140",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_141",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_142",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_143",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_144",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_145",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_146",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_147",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_148",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_149",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_150",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_151",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_152",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_153",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_154",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_155",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_156",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_157",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_158",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_159",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_160",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_161",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_162",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_163",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_164",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_165",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_166",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_167",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_168",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_169",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_170",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_171",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_172",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_173",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_174",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_175",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_176",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_177",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_178",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_179",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_180",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_181",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_182",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_183",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_184",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_185",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_186",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_187",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_188",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_189",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_190",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_191",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_192",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_193",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_194",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_195",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_196",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_197",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_198",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_199",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_iv/articulo_200"
+                            ]
+                          },
+                          {
+                            "group": "Capítulo 5",
+                            "pages": [
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_201",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_202",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_203",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_204",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_205",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_206",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_207",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_208",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_209",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_210",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_211",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_212",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_213",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_214",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_215",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_216",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_217",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_218",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_219",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_220",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_221",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_222",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_223",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_224",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_225",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_226",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_227",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_228",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_229",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_230",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_231",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_232",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_233",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_234",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_235",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_236",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_237",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_238",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_239",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_240",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_241",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_242",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_243",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_244",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_245",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_246",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_247",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_248",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_249",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_250",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_251",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_252",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_253",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_254",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_255",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_256",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_257",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_258",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_259",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_260",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_261",
+                              "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_ii/capitulo_v/articulo_262"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "group": "Título III",
+                        "pages": [
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_iii/articulo_263"
+                        ]
+                      },
+                      {
+                        "group": "Título IV",
+                        "pages": [
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_iv/articulo_264",
+                          "plan_de_desarrollo/acuerdo_927_de_2024/parte_i/titulo_iv/articulo_265"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "group": "Parte II",
+                    "pages": [
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/articulo_266",
+                    {
+                      "group": "Título V",
+                      "pages": [
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_267",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_268",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_269",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_270",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_271",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_272",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_273",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_274",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_v/articulo_275"
+                      ]
+                    },
+                    {
+                      "group": "Título VI",
+                      "pages": [
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_276",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_277",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_278",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_279",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_280",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_281",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_282",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_283",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_284",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_285",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_286",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_287",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_288",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_289",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_290",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_291",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_292",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_293",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_294",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_295",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vi/articulo_296"
+                      ]
+                    },
+                    {
+                      "group": "Título VII",
+                      "pages": [
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vii/articulo_297",
+                        "plan_de_desarrollo/acuerdo_927_de_2024/parte_ii/titulo_vii/articulo_298"
+                      ]
+                    }
+                    ]
+                  },
+                  {
+                    "group": "Parte III",
+                    "pages": [
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_299",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_300",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_301",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_302",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_303",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_304",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_305",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_306",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_307",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_308",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_309",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_310",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_311",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_312",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_313",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_314",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_315",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_316",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_317",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iii/articulo_318"
+                    ]
+                  },
+                  {
+                    "group": "Parte IV",
+                    "pages": [
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iv/articulo_319",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iv/articulo_320",
+                      "plan_de_desarrollo/acuerdo_927_de_2024/parte_iv/articulo_321"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Plan de Ordenamiento Territorial POT",
+                "pages": [
+                  "pot-bogota/articulo_1",
+                  "pot-bogota/articulo_2",
+                  "pot-bogota/articulo_3",
+                  "pot-bogota/articulo_4",
+                  "pot-bogota/articulo_5",
+                  "pot-bogota/articulo_6",
+                  "pot-bogota/articulo_7",
+                  "pot-bogota/articulo_8",
+                  "pot-bogota/articulo_9",
+                  "pot-bogota/articulo_10",
+                  "pot-bogota/articulo_11",
+                  "pot-bogota/articulo_12",
+                  "pot-bogota/articulo_13",
+                  "pot-bogota/articulo_14",
+                  "pot-bogota/articulo_15",
+                  "pot-bogota/articulo_16",
+                  "pot-bogota/articulo_17",
+                  "pot-bogota/articulo_18",
+                  "pot-bogota/articulo_19",
+                  "pot-bogota/articulo_20",
+                  "pot-bogota/articulo_21",
+                  "pot-bogota/articulo_22",
+                  "pot-bogota/articulo_23",
+                  "pot-bogota/articulo_24",
+                  "pot-bogota/articulo_25",
+                  "pot-bogota/articulo_26",
+                  "pot-bogota/articulo_27",
+                  "pot-bogota/articulo_28",
+                  "pot-bogota/articulo_29",
+                  "pot-bogota/articulo_30",
+                  "pot-bogota/articulo_31",
+                  "pot-bogota/articulo_32",
+                  "pot-bogota/articulo_33",
+                  "pot-bogota/articulo_34",
+                  "pot-bogota/articulo_35",
+                  "pot-bogota/articulo_36",
+                  "pot-bogota/articulo_37",
+                  "pot-bogota/articulo_38",
+                  "pot-bogota/articulo_39",
+                  "pot-bogota/articulo_40",
+                  "pot-bogota/articulo_41",
+                  "pot-bogota/articulo_42",
+                  "pot-bogota/articulo_43",
+                  "pot-bogota/articulo_44",
+                  "pot-bogota/articulo_45",
+                  "pot-bogota/articulo_46",
+                  "pot-bogota/articulo_47",
+                  "pot-bogota/articulo_48",
+                  "pot-bogota/articulo_49",
+                  "pot-bogota/articulo_50",
+                  "pot-bogota/articulo_51",
+                  "pot-bogota/articulo_52",
+                  "pot-bogota/articulo_53",
+                  "pot-bogota/articulo_54",
+                  "pot-bogota/articulo_55",
+                  "pot-bogota/articulo_56",
+                  "pot-bogota/articulo_57",
+                  "pot-bogota/articulo_58",
+                  "pot-bogota/articulo_59",
+                  "pot-bogota/articulo_60",
+                  "pot-bogota/articulo_61",
+                  "pot-bogota/articulo_62",
+                  "pot-bogota/articulo_63",
+                  "pot-bogota/articulo_64",
+                  "pot-bogota/articulo_65",
+                  "pot-bogota/articulo_66",
+                  "pot-bogota/articulo_67",
+                  "pot-bogota/articulo_68",
+                  "pot-bogota/articulo_69",
+                  "pot-bogota/articulo_70",
+                  "pot-bogota/articulo_71",
+                  "pot-bogota/articulo_72",
+                  "pot-bogota/articulo_73",
+                  "pot-bogota/articulo_74",
+                  "pot-bogota/articulo_75",
+                  "pot-bogota/articulo_76",
+                  "pot-bogota/articulo_77",
+                  "pot-bogota/articulo_78",
+                  "pot-bogota/articulo_79",
+                  "pot-bogota/articulo_80",
+                  "pot-bogota/articulo_81",
+                  "pot-bogota/articulo_82",
+                  "pot-bogota/articulo_83",
+                  "pot-bogota/articulo_84",
+                  "pot-bogota/articulo_85",
+                  "pot-bogota/articulo_86",
+                  "pot-bogota/articulo_87",
+                  "pot-bogota/articulo_88",
+                  "pot-bogota/articulo_89",
+                  "pot-bogota/articulo_90",
+                  "pot-bogota/articulo_91",
+                  "pot-bogota/articulo_92",
+                  "pot-bogota/articulo_93",
+                  "pot-bogota/articulo_94",
+                  "pot-bogota/articulo_95",
+                  "pot-bogota/articulo_96",
+                  "pot-bogota/articulo_97",
+                  "pot-bogota/articulo_98",
+                  "pot-bogota/articulo_99",
+                  "pot-bogota/articulo_100",
+                  "pot-bogota/articulo_101",
+                  "pot-bogota/articulo_102",
+                  "pot-bogota/articulo_103",
+                  "pot-bogota/articulo_104",
+                  "pot-bogota/articulo_105",
+                  "pot-bogota/articulo_106",
+                  "pot-bogota/articulo_107",
+                  "pot-bogota/articulo_108",
+                  "pot-bogota/articulo_109",
+                  "pot-bogota/articulo_110",
+                  "pot-bogota/articulo_111",
+                  "pot-bogota/articulo_112",
+                  "pot-bogota/articulo_113",
+                  "pot-bogota/articulo_114",
+                  "pot-bogota/articulo_115",
+                  "pot-bogota/articulo_116",
+                  "pot-bogota/articulo_117",
+                  "pot-bogota/articulo_118",
+                  "pot-bogota/articulo_119",
+                  "pot-bogota/articulo_120",
+                  "pot-bogota/articulo_121",
+                  "pot-bogota/articulo_122",
+                  "pot-bogota/articulo_123",
+                  "pot-bogota/articulo_124",
+                  "pot-bogota/articulo_125",
+                  "pot-bogota/articulo_126",
+                  "pot-bogota/articulo_127",
+                  "pot-bogota/articulo_128",
+                  "pot-bogota/articulo_129",
+                  "pot-bogota/articulo_130",
+                  "pot-bogota/articulo_131",
+                  "pot-bogota/articulo_132",
+                  "pot-bogota/articulo_133",
+                  "pot-bogota/articulo_134",
+                  "pot-bogota/articulo_135",
+                  "pot-bogota/articulo_136",
+                  "pot-bogota/articulo_137",
+                  "pot-bogota/articulo_138",
+                  "pot-bogota/articulo_139",
+                  "pot-bogota/articulo_140",
+                  "pot-bogota/articulo_141",
+                  "pot-bogota/articulo_142",
+                  "pot-bogota/articulo_143",
+                  "pot-bogota/articulo_144",
+                  "pot-bogota/articulo_145",
+                  "pot-bogota/articulo_146",
+                  "pot-bogota/articulo_147",
+                  "pot-bogota/articulo_148",
+                  "pot-bogota/articulo_149",
+                  "pot-bogota/articulo_150",
+                  "pot-bogota/articulo_151",
+                  "pot-bogota/articulo_152",
+                  "pot-bogota/articulo_153",
+                  "pot-bogota/articulo_154",
+                  "pot-bogota/articulo_155",
+                  "pot-bogota/articulo_156",
+                  "pot-bogota/articulo_157",
+                  "pot-bogota/articulo_158",
+                  "pot-bogota/articulo_159",
+                  "pot-bogota/articulo_160",
+                  "pot-bogota/articulo_161",
+                  "pot-bogota/articulo_162",
+                  "pot-bogota/articulo_163",
+                  "pot-bogota/articulo_164",
+                  "pot-bogota/articulo_165",
+                  "pot-bogota/articulo_166",
+                  "pot-bogota/articulo_167",
+                  "pot-bogota/articulo_168",
+                  "pot-bogota/articulo_169",
+                  "pot-bogota/articulo_170",
+                  "pot-bogota/articulo_171",
+                  "pot-bogota/articulo_172",
+                  "pot-bogota/articulo_173",
+                  "pot-bogota/articulo_174",
+                  "pot-bogota/articulo_175",
+                  "pot-bogota/articulo_176",
+                  "pot-bogota/articulo_177",
+                  "pot-bogota/articulo_178",
+                  "pot-bogota/articulo_179",
+                  "pot-bogota/articulo_180",
+                  "pot-bogota/articulo_181",
+                  "pot-bogota/articulo_182",
+                  "pot-bogota/articulo_183",
+                  "pot-bogota/articulo_184",
+                  "pot-bogota/articulo_185",
+                  "pot-bogota/articulo_186",
+                  "pot-bogota/articulo_187",
+                  "pot-bogota/articulo_188",
+                  "pot-bogota/articulo_189",
+                  "pot-bogota/articulo_190",
+                  "pot-bogota/articulo_191",
+                  "pot-bogota/articulo_192",
+                  "pot-bogota/articulo_193",
+                  "pot-bogota/articulo_194",
+                  "pot-bogota/articulo_195",
+                  "pot-bogota/articulo_196",
+                  "pot-bogota/articulo_197",
+                  "pot-bogota/articulo_198",
+                  "pot-bogota/articulo_199",
+                  "pot-bogota/articulo_200",
+                  "pot-bogota/articulo_201",
+                  "pot-bogota/articulo_202",
+                  "pot-bogota/articulo_203",
+                  "pot-bogota/articulo_204",
+                  "pot-bogota/articulo_205",
+                  "pot-bogota/articulo_206",
+                  "pot-bogota/articulo_207",
+                  "pot-bogota/articulo_208",
+                  "pot-bogota/articulo_209",
+                  "pot-bogota/articulo_210",
+                  "pot-bogota/articulo_211",
+                  "pot-bogota/articulo_212",
+                  "pot-bogota/articulo_213",
+                  "pot-bogota/articulo_214",
+                  "pot-bogota/articulo_215",
+                  "pot-bogota/articulo_216",
+                  "pot-bogota/articulo_217",
+                  "pot-bogota/articulo_218",
+                  "pot-bogota/articulo_219",
+                  "pot-bogota/articulo_220",
+                  "pot-bogota/articulo_221",
+                  "pot-bogota/articulo_222",
+                  "pot-bogota/articulo_223",
+                  "pot-bogota/articulo_224",
+                  "pot-bogota/articulo_225",
+                  "pot-bogota/articulo_226",
+                  "pot-bogota/articulo_227",
+                  "pot-bogota/articulo_228",
+                  "pot-bogota/articulo_229",
+                  "pot-bogota/articulo_230",
+                  "pot-bogota/articulo_231",
+                  "pot-bogota/articulo_232",
+                  "pot-bogota/articulo_233",
+                  "pot-bogota/articulo_234",
+                  "pot-bogota/articulo_235",
+                  "pot-bogota/articulo_236",
+                  "pot-bogota/articulo_237",
+                  "pot-bogota/articulo_238",
+                  "pot-bogota/articulo_239",
+                  "pot-bogota/articulo_240",
+                  "pot-bogota/articulo_241",
+                  "pot-bogota/articulo_242",
+                  "pot-bogota/articulo_243",
+                  "pot-bogota/articulo_244",
+                  "pot-bogota/articulo_245",
+                  "pot-bogota/articulo_246",
+                  "pot-bogota/articulo_247",
+                  "pot-bogota/articulo_248",
+                  "pot-bogota/articulo_249",
+                  "pot-bogota/articulo_250",
+                  "pot-bogota/articulo_251",
+                  "pot-bogota/articulo_252",
+                  "pot-bogota/articulo_253",
+                  "pot-bogota/articulo_254",
+                  "pot-bogota/articulo_255",
+                  "pot-bogota/articulo_256",
+                  "pot-bogota/articulo_257",
+                  "pot-bogota/articulo_258",
+                  "pot-bogota/articulo_259",
+                  "pot-bogota/articulo_260",
+                  "pot-bogota/articulo_261",
+                  "pot-bogota/articulo_262",
+                  "pot-bogota/articulo_263",
+                  "pot-bogota/articulo_264",
+                  "pot-bogota/articulo_265",
+                  "pot-bogota/articulo_266",
+                  "pot-bogota/articulo_267",
+                  "pot-bogota/articulo_268",
+                  "pot-bogota/articulo_269",
+                  "pot-bogota/articulo_270",
+                  "pot-bogota/articulo_271",
+                  "pot-bogota/articulo_272",
+                  "pot-bogota/articulo_273",
+                  "pot-bogota/articulo_274",
+                  "pot-bogota/articulo_275",
+                  "pot-bogota/articulo_276",
+                  "pot-bogota/articulo_277",
+                  "pot-bogota/articulo_278",
+                  "pot-bogota/articulo_279",
+                  "pot-bogota/articulo_280",
+                  "pot-bogota/articulo_281",
+                  "pot-bogota/articulo_282",
+                  "pot-bogota/articulo_283",
+                  "pot-bogota/articulo_284",
+                  "pot-bogota/articulo_285",
+                  "pot-bogota/articulo_286",
+                  "pot-bogota/articulo_287",
+                  "pot-bogota/articulo_288",
+                  "pot-bogota/articulo_289",
+                  "pot-bogota/articulo_290",
+                  "pot-bogota/articulo_291",
+                  "pot-bogota/articulo_292",
+                  "pot-bogota/articulo_293",
+                  "pot-bogota/articulo_294",
+                  "pot-bogota/articulo_295",
+                  "pot-bogota/articulo_296",
+                  "pot-bogota/articulo_297",
+                  "pot-bogota/articulo_298",
+                  "pot-bogota/articulo_299",
+                  "pot-bogota/articulo_300",
+                  "pot-bogota/articulo_301",
+                  "pot-bogota/articulo_302",
+                  "pot-bogota/articulo_303",
+                  "pot-bogota/articulo_304",
+                  "pot-bogota/articulo_305",
+                  "pot-bogota/articulo_306",
+                  "pot-bogota/articulo_307",
+                  "pot-bogota/articulo_308",
+                  "pot-bogota/articulo_309",
+                  "pot-bogota/articulo_310",
+                  "pot-bogota/articulo_311",
+                  "pot-bogota/articulo_312",
+                  "pot-bogota/articulo_313",
+                  "pot-bogota/articulo_314",
+                  "pot-bogota/articulo_315",
+                  "pot-bogota/articulo_316",
+                  "pot-bogota/articulo_317",
+                  "pot-bogota/articulo_318",
+                  "pot-bogota/articulo_319",
+                  "pot-bogota/articulo_320",
+                  "pot-bogota/articulo_321",
+                  "pot-bogota/articulo_322",
+                  "pot-bogota/articulo_323",
+                  "pot-bogota/articulo_324",
+                  "pot-bogota/articulo_325",
+                  "pot-bogota/articulo_326",
+                  "pot-bogota/articulo_327",
+                  "pot-bogota/articulo_328",
+                  "pot-bogota/articulo_329",
+                  "pot-bogota/articulo_330",
+                  "pot-bogota/articulo_331",
+                  "pot-bogota/articulo_332",
+                  "pot-bogota/articulo_333",
+                  "pot-bogota/articulo_334",
+                  "pot-bogota/articulo_335",
+                  "pot-bogota/articulo_336",
+                  "pot-bogota/articulo_337",
+                  "pot-bogota/articulo_338",
+                  "pot-bogota/articulo_339",
+                  "pot-bogota/articulo_340",
+                  "pot-bogota/articulo_341",
+                  "pot-bogota/articulo_342",
+                  "pot-bogota/articulo_343",
+                  "pot-bogota/articulo_344",
+                  "pot-bogota/articulo_345",
+                  "pot-bogota/articulo_346",
+                  "pot-bogota/articulo_347",
+                  "pot-bogota/articulo_348",
+                  "pot-bogota/articulo_349",
+                  "pot-bogota/articulo_350",
+                  "pot-bogota/articulo_351",
+                  "pot-bogota/articulo_352",
+                  "pot-bogota/articulo_353",
+                  "pot-bogota/articulo_354",
+                  "pot-bogota/articulo_355",
+                  "pot-bogota/articulo_356",
+                  "pot-bogota/articulo_357",
+                  "pot-bogota/articulo_358",
+                  "pot-bogota/articulo_359",
+                  "pot-bogota/articulo_360",
+                  "pot-bogota/articulo_361",
+                  "pot-bogota/articulo_362",
+                  "pot-bogota/articulo_363",
+                  "pot-bogota/articulo_364",
+                  "pot-bogota/articulo_365",
+                  "pot-bogota/articulo_366",
+                  "pot-bogota/articulo_367",
+                  "pot-bogota/articulo_368",
+                  "pot-bogota/articulo_369",
+                  "pot-bogota/articulo_370",
+                  "pot-bogota/articulo_371",
+                  "pot-bogota/articulo_372",
+                  "pot-bogota/articulo_373",
+                  "pot-bogota/articulo_374",
+                  "pot-bogota/articulo_375",
+                  "pot-bogota/articulo_376",
+                  "pot-bogota/articulo_377",
+                  "pot-bogota/articulo_378",
+                  "pot-bogota/articulo_379",
+                  "pot-bogota/articulo_380",
+                  "pot-bogota/articulo_381",
+                  "pot-bogota/articulo_382",
+                  "pot-bogota/articulo_383",
+                  "pot-bogota/articulo_384",
+                  "pot-bogota/articulo_385",
+                  "pot-bogota/articulo_386",
+                  "pot-bogota/articulo_387",
+                  "pot-bogota/articulo_388",
+                  "pot-bogota/articulo_389",
+                  "pot-bogota/articulo_390",
+                  "pot-bogota/articulo_391",
+                  "pot-bogota/articulo_392",
+                  "pot-bogota/articulo_393",
+                  "pot-bogota/articulo_394",
+                  "pot-bogota/articulo_395",
+                  "pot-bogota/articulo_396",
+                  "pot-bogota/articulo_397",
+                  "pot-bogota/articulo_398",
+                  "pot-bogota/articulo_399",
+                  "pot-bogota/articulo_400",
+                  "pot-bogota/articulo_401",
+                  "pot-bogota/articulo_402",
+                  "pot-bogota/articulo_403",
+                  "pot-bogota/articulo_404",
+                  "pot-bogota/articulo_405",
+                  "pot-bogota/articulo_406",
+                  "pot-bogota/articulo_407",
+                  "pot-bogota/articulo_408",
+                  "pot-bogota/articulo_409",
+                  "pot-bogota/articulo_410",
+                  "pot-bogota/articulo_411",
+                  "pot-bogota/articulo_412",
+                  "pot-bogota/articulo_413",
+                  "pot-bogota/articulo_414",
+                  "pot-bogota/articulo_415",
+                  "pot-bogota/articulo_416",
+                  "pot-bogota/articulo_417",
+                  "pot-bogota/articulo_418",
+                  "pot-bogota/articulo_419",
+                  "pot-bogota/articulo_420",
+                  "pot-bogota/articulo_421",
+                  "pot-bogota/articulo_422",
+                  "pot-bogota/articulo_423",
+                  "pot-bogota/articulo_424",
+                  "pot-bogota/articulo_425",
+                  "pot-bogota/articulo_426",
+                  "pot-bogota/articulo_427",
+                  "pot-bogota/articulo_428",
+                  "pot-bogota/articulo_429",
+                  "pot-bogota/articulo_430",
+                  "pot-bogota/articulo_431",
+                  "pot-bogota/articulo_432",
+                  "pot-bogota/articulo_433",
+                  "pot-bogota/articulo_434",
+                  "pot-bogota/articulo_435",
+                  "pot-bogota/articulo_436",
+                  "pot-bogota/articulo_437",
+                  "pot-bogota/articulo_438",
+                  "pot-bogota/articulo_439",
+                  "pot-bogota/articulo_440",
+                  "pot-bogota/articulo_441",
+                  "pot-bogota/articulo_442",
+                  "pot-bogota/articulo_443",
+                  "pot-bogota/articulo_444",
+                  "pot-bogota/articulo_445",
+                  "pot-bogota/articulo_446",
+                  "pot-bogota/articulo_447",
+                  "pot-bogota/articulo_448",
+                  "pot-bogota/articulo_449",
+                  "pot-bogota/articulo_450",
+                  "pot-bogota/articulo_451",
+                  "pot-bogota/articulo_452",
+                  "pot-bogota/articulo_453",
+                  "pot-bogota/articulo_454",
+                  "pot-bogota/articulo_455",
+                  "pot-bogota/articulo_456",
+                  "pot-bogota/articulo_457",
+                  "pot-bogota/articulo_458",
+                  "pot-bogota/articulo_459",
+                  "pot-bogota/articulo_460",
+                  "pot-bogota/articulo_461",
+                  "pot-bogota/articulo_462",
+                  "pot-bogota/articulo_463",
+                  "pot-bogota/articulo_464",
+                  "pot-bogota/articulo_465",
+                  "pot-bogota/articulo_466",
+                  "pot-bogota/articulo_467",
+                  "pot-bogota/articulo_468",
+                  "pot-bogota/articulo_469",
+                  "pot-bogota/articulo_470",
+                  "pot-bogota/articulo_471",
+                  "pot-bogota/articulo_472",
+                  "pot-bogota/articulo_473",
+                  "pot-bogota/articulo_474",
+                  "pot-bogota/articulo_475",
+                  "pot-bogota/articulo_476",
+                  "pot-bogota/articulo_477",
+                  "pot-bogota/articulo_478",
+                  "pot-bogota/articulo_479",
+                  "pot-bogota/articulo_480",
+                  "pot-bogota/articulo_481",
+                  "pot-bogota/articulo_482",
+                  "pot-bogota/articulo_483",
+                  "pot-bogota/articulo_484",
+                  "pot-bogota/articulo_485",
+                  "pot-bogota/articulo_486",
+                  "pot-bogota/articulo_487",
+                  "pot-bogota/articulo_488",
+                  "pot-bogota/articulo_489",
+                  "pot-bogota/articulo_490",
+                  "pot-bogota/articulo_491",
+                  "pot-bogota/articulo_492",
+                  "pot-bogota/articulo_493",
+                  "pot-bogota/articulo_494",
+                  "pot-bogota/articulo_495",
+                  "pot-bogota/articulo_496",
+                  "pot-bogota/articulo_497",
+                  "pot-bogota/articulo_498",
+                  "pot-bogota/articulo_499",
+                  "pot-bogota/articulo_500",
+                  "pot-bogota/articulo_501",
+                  "pot-bogota/articulo_502",
+                  "pot-bogota/articulo_503",
+                  "pot-bogota/articulo_504",
+                  "pot-bogota/articulo_505",
+                  "pot-bogota/articulo_506",
+                  "pot-bogota/articulo_507",
+                  "pot-bogota/articulo_508",
+                  "pot-bogota/articulo_509",
+                  "pot-bogota/articulo_510",
+                  "pot-bogota/articulo_511",
+                  "pot-bogota/articulo_512",
+                  "pot-bogota/articulo_513",
+                  "pot-bogota/articulo_514",
+                  "pot-bogota/articulo_515",
+                  "pot-bogota/articulo_516",
+                  "pot-bogota/articulo_517",
+                  "pot-bogota/articulo_518",
+                  "pot-bogota/articulo_519",
+                  "pot-bogota/articulo_520",
+                  "pot-bogota/articulo_521",
+                  "pot-bogota/articulo_522",
+                  "pot-bogota/articulo_523",
+                  "pot-bogota/articulo_524",
+                  "pot-bogota/articulo_525",
+                  "pot-bogota/articulo_526",
+                  "pot-bogota/articulo_527",
+                  "pot-bogota/articulo_528",
+                  "pot-bogota/articulo_529",
+                  "pot-bogota/articulo_530",
+                  "pot-bogota/articulo_531",
+                  "pot-bogota/articulo_532",
+                  "pot-bogota/articulo_533",
+                  "pot-bogota/articulo_534",
+                  "pot-bogota/articulo_535",
+                  "pot-bogota/articulo_536",
+                  "pot-bogota/articulo_537",
+                  "pot-bogota/articulo_538",
+                  "pot-bogota/articulo_539",
+                  "pot-bogota/articulo_540",
+                  "pot-bogota/articulo_541",
+                  "pot-bogota/articulo_542",
+                  "pot-bogota/articulo_543",
+                  "pot-bogota/articulo_544",
+                  "pot-bogota/articulo_545",
+                  "pot-bogota/articulo_546",
+                  "pot-bogota/articulo_547",
+                  "pot-bogota/articulo_548",
+                  "pot-bogota/articulo_549",
+                  "pot-bogota/articulo_550",
+                  "pot-bogota/articulo_551",
+                  "pot-bogota/articulo_552",
+                  "pot-bogota/articulo_553",
+                  "pot-bogota/articulo_554",
+                  "pot-bogota/articulo_555",
+                  "pot-bogota/articulo_556",
+                  "pot-bogota/articulo_557",
+                  "pot-bogota/articulo_558",
+                  "pot-bogota/articulo_559",
+                  "pot-bogota/articulo_560",
+                  "pot-bogota/articulo_561",
+                  "pot-bogota/articulo_562",
+                  "pot-bogota/articulo_563",
+                  "pot-bogota/articulo_564",
+                  "pot-bogota/articulo_565",
+                  "pot-bogota/articulo_566",
+                  "pot-bogota/articulo_567",
+                  "pot-bogota/articulo_568",
+                  "pot-bogota/articulo_569",
+                  "pot-bogota/articulo_570",
+                  "pot-bogota/articulo_571",
+                  "pot-bogota/articulo_572",
+                  "pot-bogota/articulo_573",
+                  "pot-bogota/articulo_574",
+                  "pot-bogota/articulo_575",
+                  "pot-bogota/articulo_576",
+                  "pot-bogota/articulo_577",
+                  "pot-bogota/articulo_578",
+                  "pot-bogota/articulo_579",
+                  "pot-bogota/articulo_580",
+                  "pot-bogota/articulo_581",
+                  "pot-bogota/articulo_582",
+                  "pot-bogota/articulo_583",
+                  "pot-bogota/articulo_584",
+                  "pot-bogota/articulo_585",
+                  "pot-bogota/articulo_586",
+                  "pot-bogota/articulo_587",
+                  "pot-bogota/articulo_588",
+                  "pot-bogota/articulo_589",
+                  "pot-bogota/articulo_590",
+                  "pot-bogota/articulo_591",
+                  "pot-bogota/articulo_592",
+                  "pot-bogota/articulo_593",
+                  "pot-bogota/articulo_594",
+                  "pot-bogota/articulo_595",
+                  "pot-bogota/articulo_596",
+                  "pot-bogota/articulo_597",
+                  "pot-bogota/articulo_598",
+                  "pot-bogota/articulo_599",
+                  "pot-bogota/articulo_600",
+                  "pot-bogota/articulo_601",
+                  "pot-bogota/articulo_602",
+                  "pot-bogota/articulo_603",
+                  "pot-bogota/articulo_604",
+                  "pot-bogota/articulo_605",
+                  "pot-bogota/articulo_606",
+                  "pot-bogota/articulo_607",
+                  "pot-bogota/articulo_608"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Repositorio Digital",
+          "href": "https://github.com/El-Pueblo-Colombiano/Constitucion-Politica-de-la-Republica-de-Colombia",
+          "icon": "github"
+        },
+        {
+          "anchor": "Documento Original",
+          "href": "https://github.com/El-Pueblo-Colombiano/Constitucion-Politica-de-la-Republica-de-Colombia/raw/main/registro/GacetaConstitucional_144_Julio_7_1991.pdf",
+          "icon": "pen"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/bandera/bandera.svg",
+    "dark": "/bandera/bandera.svg"
+  },
+  "footer": {
+    "socials": {}
+  }
+}
