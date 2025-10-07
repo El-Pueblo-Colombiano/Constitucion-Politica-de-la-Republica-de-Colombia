@@ -3,12 +3,11 @@ a[href^="https://mintlify.com"] {
     display: none !important;
 }
 
-div .chat-assistant-floating-input {
-    position: fixed !important;
-    bottom: 20px !important;
-    left: 50% !important;
-    transform: translateX(-50%) !important;
-    display: flex !important;
-    width: 80% !important;
-    max-width: 26rem !important;
+div:has(.chat-assistant-floating-input) {
+    z-index: 999 !important;
+}
+
+
+div .chat-assistant-floating-input{
+    z-index: 1000 !important;
 }
