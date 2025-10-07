@@ -11,3 +11,8 @@ div:has(.chat-assistant-floating-input) {
 div .chat-assistant-floating-input{
     z-index: 1000 !important;
 }
+
+
+div #localization-select-trigger{
+    display: none !important;
+}
