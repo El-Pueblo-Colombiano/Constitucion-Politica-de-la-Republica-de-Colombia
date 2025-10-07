@@ -3,16 +3,6 @@ a[href^="https://mintlify.com"] {
     display: none !important;
 }
 
-div:has(.chat-assistant-floating-input) {
-    z-index: 999 !important;
-}
-
-
-div .chat-assistant-floating-input{
-    z-index: 1000 !important;
-}
-
-
 div #localization-select-trigger{
     display: none !important;
 }
