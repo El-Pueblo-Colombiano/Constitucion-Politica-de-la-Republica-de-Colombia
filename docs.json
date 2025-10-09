@@ -1,6 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
+  "banner": {
+    "content": "Última actualización: 09/10/2025 Acto Legislativo No. 01 de 2025",
+    "dismissible": true
+  },
   "name": "Constitución Política de la República de Colombia",
   "colors": {
     "primary": "#2B5F9E",
