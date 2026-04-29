@@ -1016,7 +1016,6 @@
                           {
                             "group": "Convención Americana sobre Derechos Humanos",
                             "pages": [
-                              "instrumentos_internacionales/oea/cadh",
                               "instrumentos_internacionales/oea/cadh/preambulo",
                               {
                                 "group": "Parte I — Deberes de los Estados y Derechos Protegidos",
@@ -1176,7 +1175,6 @@
                           {
                             "group": "Convención Interamericana para Prevenir y Sancionar la Tortura",
                             "pages": [
-                              "instrumentos_internacionales/oea/cipst",
                               "instrumentos_internacionales/oea/cipst/preambulo",
                               "instrumentos_internacionales/oea/cipst/articulo_1",
                               "instrumentos_internacionales/oea/cipst/articulo_2",
@@ -1207,7 +1205,6 @@
                           {
                             "group": "Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer",
                             "pages": [
-                              "instrumentos_internacionales/oea/belem_do_para",
                               "instrumentos_internacionales/oea/belem_do_para/preambulo",
                               {
                                 "group": "Capítulo I — Definición y Ámbito de Aplicación",
@@ -1265,7 +1262,6 @@
                           {
                             "group": "Convención Interamericana sobre Desaparición Forzada de Personas",
                             "pages": [
-                              "instrumentos_internacionales/oea/cidfp",
                               "instrumentos_internacionales/oea/cidfp/preambulo",
                               "instrumentos_internacionales/oea/cidfp/articulo_1",
                               "instrumentos_internacionales/oea/cidfp/articulo_2",
@@ -1295,7 +1291,6 @@
                           {
                             "group": "Convención Interamericana para la Eliminación de Todas las Formas de Discriminación contra las Personas con Discapacidad",
                             "pages": [
-                              "instrumentos_internacionales/oea/ciaddis",
                               "instrumentos_internacionales/oea/ciaddis/preambulo",
                               "instrumentos_internacionales/oea/ciaddis/articulo_1",
                               "instrumentos_internacionales/oea/ciaddis/articulo_2",
@@ -1321,7 +1316,6 @@
                           {
                             "group": "Declaración Universal de Derechos Humanos",
                             "pages": [
-                              "instrumentos_internacionales/onu/dudh",
                               "instrumentos_internacionales/onu/dudh/preambulo",
                               "instrumentos_internacionales/onu/dudh/articulo_1",
                               "instrumentos_internacionales/onu/dudh/articulo_2",
@@ -1358,7 +1352,6 @@
                           {
                             "group": "Convención sobre el Estatuto de los Refugiados y Protocolo de 1967",
                             "pages": [
-                              "instrumentos_internacionales/onu/refugiados",
                               "instrumentos_internacionales/onu/refugiados/preambulo",
                               {
                                 "group": "Capítulo I — Disposiciones Generales",
@@ -1449,7 +1442,6 @@
                           {
                             "group": "Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial",
                             "pages": [
-                              "instrumentos_internacionales/onu/cerd",
                               "instrumentos_internacionales/onu/cerd/preambulo",
                               {
                                 "group": "Parte I",
@@ -1496,7 +1488,6 @@
                           {
                             "group": "Pacto Internacional de Derechos Civiles y Políticos",
                             "pages": [
-                              "instrumentos_internacionales/onu/pidcp",
                               "instrumentos_internacionales/onu/pidcp/preambulo",
                               {
                                 "group": "Parte I",
@@ -1586,7 +1577,6 @@
                           {
                             "group": "Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos",
                             "pages": [
-                              "instrumentos_internacionales/onu/pidcp_pf1",
                               "instrumentos_internacionales/onu/pidcp_pf1/preambulo",
                               "instrumentos_internacionales/onu/pidcp_pf1/articulo_1",
                               "instrumentos_internacionales/onu/pidcp_pf1/articulo_2",
@@ -1607,7 +1597,6 @@
                           {
                             "group": "Pacto Internacional de Derechos Económicos, Sociales y Culturales",
                             "pages": [
-                              "instrumentos_internacionales/onu/pidesc",
                               "instrumentos_internacionales/onu/pidesc/preambulo",
                               {
                                 "group": "Parte I",
@@ -1670,7 +1659,6 @@
                           {
                             "group": "Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer",
                             "pages": [
-                              "instrumentos_internacionales/onu/cedaw",
                               "instrumentos_internacionales/onu/cedaw/preambulo",
                               {
                                 "group": "Parte I",
@@ -1737,7 +1725,6 @@
                           {
                             "group": "Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
                             "pages": [
-                              "instrumentos_internacionales/onu/cat",
                               "instrumentos_internacionales/onu/cat/preambulo",
                               {
                                 "group": "Parte I",
@@ -1792,7 +1779,6 @@
                           {
                             "group": "Convención sobre los Derechos del Niño",
                             "pages": [
-                              "instrumentos_internacionales/onu/cdn",
                               "instrumentos_internacionales/onu/cdn/preambulo",
                               {
                                 "group": "Parte I",
@@ -1868,7 +1854,6 @@
                           {
                             "group": "Protocolo Facultativo de la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
                             "pages": [
-                              "instrumentos_internacionales/onu/opcat",
                               "instrumentos_internacionales/onu/opcat/preambulo",
                               {
                                 "group": "Parte I",
@@ -1947,7 +1932,6 @@
                           {
                             "group": "Convención sobre los Derechos de las Personas con Discapacidad",
                             "pages": [
-                              "instrumentos_internacionales/onu/cdpd",
                               "instrumentos_internacionales/onu/cdpd/preambulo",
                               "instrumentos_internacionales/onu/cdpd/articulo_1",
                               "instrumentos_internacionales/onu/cdpd/articulo_2",
@@ -2009,7 +1993,6 @@
                           {
                             "group": "I Convenio de Ginebra para Aliviar la Suerte de los Heridos y Enfermos de las Fuerzas Armadas en Campaña",
                             "pages": [
-                              "instrumentos_internacionales/cicr/cg_i",
                               "instrumentos_internacionales/cicr/cg_i/preambulo",
                               {
                                 "group": "Capítulo I",
@@ -2128,7 +2111,6 @@
                           {
                             "group": "II Convenio de Ginebra para Aliviar la Suerte de los Heridos, Enfermos y Náufragos de las Fuerzas Armadas en el Mar",
                             "pages": [
-                              "instrumentos_internacionales/cicr/cg_ii",
                               "instrumentos_internacionales/cicr/cg_ii/preambulo",
                               {
                                 "group": "Capítulo I",
@@ -2240,7 +2222,6 @@
                           {
                             "group": "III Convenio de Ginebra Relativo al Trato Debido a los Prisioneros de Guerra",
                             "pages": [
-                              "instrumentos_internacionales/cicr/cg_iii",
                               "instrumentos_internacionales/cicr/cg_iii/preambulo",
                               {
                                 "group": "Título I",
@@ -2536,7 +2517,6 @@
                           {
                             "group": "IV Convenio de Ginebra Relativo a la Protección Debida a las Personas Civiles en Tiempo de Guerra",
                             "pages": [
-                              "instrumentos_internacionales/cicr/cg_iv",
                               "instrumentos_internacionales/cicr/cg_iv/preambulo",
                               {
                                 "group": "Título I",
@@ -2821,7 +2801,6 @@
                           {
                             "group": "Protocolo Adicional I a los Convenios de Ginebra Relativo a la Protección de las Víctimas de los Conflictos Armados Internacionales",
                             "pages": [
-                              "instrumentos_internacionales/cicr/pa_i",
                               "instrumentos_internacionales/cicr/pa_i/preambulo",
                               {
                                 "group": "Título I",
@@ -2961,7 +2940,6 @@
                           {
                             "group": "Protocolo Adicional II a los Convenios de Ginebra Relativo a la Protección de las Víctimas de los Conflictos Armados sin Carácter Internacional",
                             "pages": [
-                              "instrumentos_internacionales/cicr/pa_ii",
                               "instrumentos_internacionales/cicr/pa_ii/preambulo",
                               {
                                 "group": "Título I",
@@ -3021,7 +2999,6 @@
                           {
                             "group": "Protocolo Adicional III a los Convenios de Ginebra Relativo a la Aprobación de un Signo Distintivo Adicional",
                             "pages": [
-                              "instrumentos_internacionales/cicr/pa_iii",
                               "instrumentos_internacionales/cicr/pa_iii/preambulo",
                               "instrumentos_internacionales/cicr/pa_iii/articulo_1",
                               "instrumentos_internacionales/cicr/pa_iii/articulo_2",
@@ -3050,7 +3027,6 @@
                           {
                             "group": "Constitución de la Organización Internacional del Trabajo",
                             "pages": [
-                              "instrumentos_internacionales/oit/oit_constitucion",
                               "instrumentos_internacionales/oit/oit_constitucion/preambulo",
                               {
                                 "group": "Capítulo I — Organización",
@@ -3117,7 +3093,6 @@
                           {
                             "group": "Convenio sobre el Trabajo Forzoso",
                             "pages": [
-                              "instrumentos_internacionales/oit/oit_c29",
                               "instrumentos_internacionales/oit/oit_c29/preambulo",
                               "instrumentos_internacionales/oit/oit_c29/articulo_1",
                               "instrumentos_internacionales/oit/oit_c29/articulo_2",
@@ -3135,7 +3110,6 @@
                           {
                             "group": "Convenio sobre la Libertad Sindical y la Protección del Derecho de Sindicación",
                             "pages": [
-                              "instrumentos_internacionales/oit/oit_c87",
                               "instrumentos_internacionales/oit/oit_c87/preambulo",
                               {
                                 "group": "Parte I — Libertad Sindical",
@@ -3183,7 +3157,6 @@
                           {
                             "group": "Convenio sobre el Derecho de Sindicación y de Negociación Colectiva",
                             "pages": [
-                              "instrumentos_internacionales/oit/oit_c98",
                               "instrumentos_internacionales/oit/oit_c98/preambulo",
                               "instrumentos_internacionales/oit/oit_c98/articulo_1",
                               "instrumentos_internacionales/oit/oit_c98/articulo_2",
@@ -3206,7 +3179,6 @@
                           {
                             "group": "Convenio sobre Igualdad de Remuneración",
                             "pages": [
-                              "instrumentos_internacionales/oit/oit_c100",
                               "instrumentos_internacionales/oit/oit_c100/preambulo",
                               "instrumentos_internacionales/oit/oit_c100/articulo_1",
                               "instrumentos_internacionales/oit/oit_c100/articulo_2",
@@ -3227,7 +3199,6 @@
                           {
                             "group": "Convenio sobre la Abolición del Trabajo Forzoso",
                             "pages": [
-                              "instrumentos_internacionales/oit/oit_c105",
                               "instrumentos_internacionales/oit/oit_c105/preambulo",
                               "instrumentos_internacionales/oit/oit_c105/articulo_1",
                               "instrumentos_internacionales/oit/oit_c105/articulo_2",
@@ -3244,7 +3215,6 @@
                           {
                             "group": "Convenio sobre la Discriminación en Materia de Empleo y Ocupación",
                             "pages": [
-                              "instrumentos_internacionales/oit/oit_c111",
                               "instrumentos_internacionales/oit/oit_c111/preambulo",
                               "instrumentos_internacionales/oit/oit_c111/articulo_1",
                               "instrumentos_internacionales/oit/oit_c111/articulo_2",
@@ -3265,7 +3235,6 @@
                           {
                             "group": "Convenio sobre la Edad Mínima de Admisión al Empleo",
                             "pages": [
-                              "instrumentos_internacionales/oit/oit_c138",
                               "instrumentos_internacionales/oit/oit_c138/preambulo",
                               "instrumentos_internacionales/oit/oit_c138/articulo_1",
                               "instrumentos_internacionales/oit/oit_c138/articulo_2",
@@ -3290,7 +3259,6 @@
                           {
                             "group": "Convenio sobre Pueblos Indígenas y Tribales en Países Independientes",
                             "pages": [
-                              "instrumentos_internacionales/oit/oit_c169",
                               "instrumentos_internacionales/oit/oit_c169/preambulo",
                               {
                                 "group": "Parte I — Política General",
@@ -3391,7 +3359,6 @@
                           {
                             "group": "Convenio sobre las Peores Formas de Trabajo Infantil",
                             "pages": [
-                              "instrumentos_internacionales/oit/oit_c182",
                               "instrumentos_internacionales/oit/oit_c182/preambulo",
                               "instrumentos_internacionales/oit/oit_c182/articulo_1",
                               "instrumentos_internacionales/oit/oit_c182/articulo_2",
@@ -3419,7 +3386,6 @@
                           {
                             "group": "Acuerdo de Escazú",
                             "pages": [
-                              "instrumentos_internacionales/cepal/escazu",
                               "instrumentos_internacionales/cepal/escazu/preambulo",
                               "instrumentos_internacionales/cepal/escazu/articulo_1",
                               "instrumentos_internacionales/cepal/escazu/articulo_2",
