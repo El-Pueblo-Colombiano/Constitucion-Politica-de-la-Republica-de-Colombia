@@ -2,3 +2,5 @@ node_modules
 recortes
 herramientas/.venv
 herramientas/corrector_bloques.py
+.claude/
+CLAUDE.md

@@ -11,17 +11,18 @@
     "light": "#5888B7",
     "dark": "#154B82"
   },
-    "logo": {
-      "light": "/bandera/bandera.svg",
-      "dark": "/bandera/bandera.svg"
-    },
-    "footer": {
-      "socials": {}
-    },
+  "logo": {
+    "light": "/bandera/bandera.svg",
+    "dark": "/bandera/bandera.svg"
+  },
+  "footer": {
+    "socials": {}
+  },
   "favicon": "/bandera/bandera.svg",
   "navigation": {
     "languages": [
-      {"language": "es", 
+      {
+        "language": "es",
         "tabs": [
           {
             "tab": "Constitución",
@@ -998,11 +999,2468 @@
                 ]
               }
             ]
+          },
+          {
+            "tab": "Instrumentos Internacionales",
+            "anchors": [
+              {
+                "anchor": "Instrumentos Internacionales",
+                "icon": "globe",
+                "groups": [
+                  {
+                    "group": "Bloque de Constitucionalidad — Instrumentos Internacionales",
+                    "pages": [
+                      {
+                        "group": "Sistema Interamericano - Organización de los Estados Americanos, OEA",
+                        "pages": [
+                          {
+                            "group": "Convención Americana sobre Derechos Humanos",
+                            "pages": [
+                              "instrumentos_internacionales/oea/cadh",
+                              "instrumentos_internacionales/oea/cadh/preambulo",
+                              {
+                                "group": "Parte I — Deberes de los Estados y Derechos Protegidos",
+                                "pages": [
+                                  {
+                                    "group": "Capítulo I — Enumeración de Deberes",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_i/articulo_1",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_i/articulo_2"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Capítulo II — Derechos Civiles y Políticos",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_3",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_4",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_5",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_6",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_7",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_8",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_9",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_10",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_11",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_12",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_13",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_14",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_15",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_16",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_17",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_18",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_19",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_20",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_21",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_22",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_23",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_24",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ii/articulo_25"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Capítulo III — Derechos Económicos, Sociales y Culturales",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_iii/articulo_26"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Capítulo IV — Suspensión de Garantías, Interpretación y Aplicación",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_iv/articulo_27",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_iv/articulo_28",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_iv/articulo_29",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_iv/articulo_30",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_iv/articulo_31"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Capítulo V — Deberes de las Personas",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_v/articulo_32"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "group": "Parte II — Medios de la Protección",
+                                "pages": [
+                                  {
+                                    "group": "Capítulo VI — De los Órganos Competentes",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vi/articulo_33"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Capítulo VII — La Comisión Interamericana de Derechos Humanos",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_34",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_35",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_36",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_37",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_38",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_39",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_40",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_41",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_42",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_43",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_44",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_45",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_46",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_47",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_48",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_49",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_50",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_vii/articulo_51"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Capítulo VIII — La Corte Interamericana de Derechos Humanos",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_52",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_53",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_54",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_55",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_56",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_57",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_58",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_59",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_60",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_61",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_62",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_63",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_64",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_65",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_66",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_67",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_68",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_viii/articulo_69"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Capítulo IX — Disposiciones Comunes",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ix/articulo_70",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ix/articulo_71",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ix/articulo_72",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_ix/articulo_73"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "group": "Parte III — Disposiciones Generales y Transitorias",
+                                "pages": [
+                                  {
+                                    "group": "Capítulo X — Firma, Ratificación, Reserva, Enmienda, Protocolo y Denuncia",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_x/articulo_74",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_x/articulo_75",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_x/articulo_76",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_x/articulo_77",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_x/articulo_78"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Capítulo XI — Disposiciones Transitorias",
+                                    "pages": [
+                                      "instrumentos_internacionales/oea/cadh/capitulo_xi/articulo_79",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_xi/articulo_80",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_xi/articulo_81",
+                                      "instrumentos_internacionales/oea/cadh/capitulo_xi/articulo_82"
+                                    ]
+                                  }
+                                ]
+                              },
+                              "instrumentos_internacionales/oea/cadh/cierre"
+                            ]
+                          },
+                          {
+                            "group": "Convención Interamericana para Prevenir y Sancionar la Tortura",
+                            "pages": [
+                              "instrumentos_internacionales/oea/cipst",
+                              "instrumentos_internacionales/oea/cipst/preambulo",
+                              "instrumentos_internacionales/oea/cipst/articulo_1",
+                              "instrumentos_internacionales/oea/cipst/articulo_2",
+                              "instrumentos_internacionales/oea/cipst/articulo_3",
+                              "instrumentos_internacionales/oea/cipst/articulo_4",
+                              "instrumentos_internacionales/oea/cipst/articulo_5",
+                              "instrumentos_internacionales/oea/cipst/articulo_6",
+                              "instrumentos_internacionales/oea/cipst/articulo_7",
+                              "instrumentos_internacionales/oea/cipst/articulo_8",
+                              "instrumentos_internacionales/oea/cipst/articulo_9",
+                              "instrumentos_internacionales/oea/cipst/articulo_10",
+                              "instrumentos_internacionales/oea/cipst/articulo_11",
+                              "instrumentos_internacionales/oea/cipst/articulo_12",
+                              "instrumentos_internacionales/oea/cipst/articulo_13",
+                              "instrumentos_internacionales/oea/cipst/articulo_14",
+                              "instrumentos_internacionales/oea/cipst/articulo_15",
+                              "instrumentos_internacionales/oea/cipst/articulo_16",
+                              "instrumentos_internacionales/oea/cipst/articulo_17",
+                              "instrumentos_internacionales/oea/cipst/articulo_18",
+                              "instrumentos_internacionales/oea/cipst/articulo_19",
+                              "instrumentos_internacionales/oea/cipst/articulo_20",
+                              "instrumentos_internacionales/oea/cipst/articulo_21",
+                              "instrumentos_internacionales/oea/cipst/articulo_22",
+                              "instrumentos_internacionales/oea/cipst/articulo_23",
+                              "instrumentos_internacionales/oea/cipst/articulo_24"
+                            ]
+                          },
+                          {
+                            "group": "Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer",
+                            "pages": [
+                              "instrumentos_internacionales/oea/belem_do_para",
+                              "instrumentos_internacionales/oea/belem_do_para/preambulo",
+                              {
+                                "group": "Capítulo I — Definición y Ámbito de Aplicación",
+                                "pages": [
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_i/articulo_1",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_i/articulo_2"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo II — Derechos Protegidos",
+                                "pages": [
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_ii/articulo_3",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_ii/articulo_4",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_ii/articulo_5",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_ii/articulo_6"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo III — Deberes de los Estados",
+                                "pages": [
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_iii/articulo_7",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_iii/articulo_8",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_iii/articulo_9"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo IV — Mecanismos Interamericanos de Protección",
+                                "pages": [
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_iv/articulo_10",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_iv/articulo_11",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_iv/articulo_12"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo V — Disposiciones Generales",
+                                "pages": [
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_13",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_14",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_15",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_16",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_17",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_18",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_19",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_20",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_21",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_22",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_23",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_24",
+                                  "instrumentos_internacionales/oea/belem_do_para/capitulo_v/articulo_25"
+                                ]
+                              },
+                              "instrumentos_internacionales/oea/belem_do_para/cierre"
+                            ]
+                          },
+                          {
+                            "group": "Convención Interamericana sobre Desaparición Forzada de Personas",
+                            "pages": [
+                              "instrumentos_internacionales/oea/cidfp",
+                              "instrumentos_internacionales/oea/cidfp/preambulo",
+                              "instrumentos_internacionales/oea/cidfp/articulo_1",
+                              "instrumentos_internacionales/oea/cidfp/articulo_2",
+                              "instrumentos_internacionales/oea/cidfp/articulo_3",
+                              "instrumentos_internacionales/oea/cidfp/articulo_4",
+                              "instrumentos_internacionales/oea/cidfp/articulo_5",
+                              "instrumentos_internacionales/oea/cidfp/articulo_6",
+                              "instrumentos_internacionales/oea/cidfp/articulo_7",
+                              "instrumentos_internacionales/oea/cidfp/articulo_8",
+                              "instrumentos_internacionales/oea/cidfp/articulo_9",
+                              "instrumentos_internacionales/oea/cidfp/articulo_10",
+                              "instrumentos_internacionales/oea/cidfp/articulo_11",
+                              "instrumentos_internacionales/oea/cidfp/articulo_12",
+                              "instrumentos_internacionales/oea/cidfp/articulo_13",
+                              "instrumentos_internacionales/oea/cidfp/articulo_14",
+                              "instrumentos_internacionales/oea/cidfp/articulo_15",
+                              "instrumentos_internacionales/oea/cidfp/articulo_16",
+                              "instrumentos_internacionales/oea/cidfp/articulo_17",
+                              "instrumentos_internacionales/oea/cidfp/articulo_18",
+                              "instrumentos_internacionales/oea/cidfp/articulo_19",
+                              "instrumentos_internacionales/oea/cidfp/articulo_20",
+                              "instrumentos_internacionales/oea/cidfp/articulo_21",
+                              "instrumentos_internacionales/oea/cidfp/articulo_22",
+                              "instrumentos_internacionales/oea/cidfp/cierre"
+                            ]
+                          },
+                          {
+                            "group": "Convención Interamericana para la Eliminación de Todas las Formas de Discriminación contra las Personas con Discapacidad",
+                            "pages": [
+                              "instrumentos_internacionales/oea/ciaddis",
+                              "instrumentos_internacionales/oea/ciaddis/preambulo",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_1",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_2",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_3",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_4",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_5",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_6",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_7",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_8",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_9",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_10",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_11",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_12",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_13",
+                              "instrumentos_internacionales/oea/ciaddis/articulo_14"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "group": "Sistema Universal - Organización de las Naciones Unidas, ONU",
+                        "pages": [
+                          {
+                            "group": "Declaración Universal de Derechos Humanos",
+                            "pages": [
+                              "instrumentos_internacionales/onu/dudh",
+                              "instrumentos_internacionales/onu/dudh/preambulo",
+                              "instrumentos_internacionales/onu/dudh/articulo_1",
+                              "instrumentos_internacionales/onu/dudh/articulo_2",
+                              "instrumentos_internacionales/onu/dudh/articulo_3",
+                              "instrumentos_internacionales/onu/dudh/articulo_4",
+                              "instrumentos_internacionales/onu/dudh/articulo_5",
+                              "instrumentos_internacionales/onu/dudh/articulo_6",
+                              "instrumentos_internacionales/onu/dudh/articulo_7",
+                              "instrumentos_internacionales/onu/dudh/articulo_8",
+                              "instrumentos_internacionales/onu/dudh/articulo_9",
+                              "instrumentos_internacionales/onu/dudh/articulo_10",
+                              "instrumentos_internacionales/onu/dudh/articulo_11",
+                              "instrumentos_internacionales/onu/dudh/articulo_12",
+                              "instrumentos_internacionales/onu/dudh/articulo_13",
+                              "instrumentos_internacionales/onu/dudh/articulo_14",
+                              "instrumentos_internacionales/onu/dudh/articulo_15",
+                              "instrumentos_internacionales/onu/dudh/articulo_16",
+                              "instrumentos_internacionales/onu/dudh/articulo_17",
+                              "instrumentos_internacionales/onu/dudh/articulo_18",
+                              "instrumentos_internacionales/onu/dudh/articulo_19",
+                              "instrumentos_internacionales/onu/dudh/articulo_20",
+                              "instrumentos_internacionales/onu/dudh/articulo_21",
+                              "instrumentos_internacionales/onu/dudh/articulo_22",
+                              "instrumentos_internacionales/onu/dudh/articulo_23",
+                              "instrumentos_internacionales/onu/dudh/articulo_24",
+                              "instrumentos_internacionales/onu/dudh/articulo_25",
+                              "instrumentos_internacionales/onu/dudh/articulo_26",
+                              "instrumentos_internacionales/onu/dudh/articulo_27",
+                              "instrumentos_internacionales/onu/dudh/articulo_28",
+                              "instrumentos_internacionales/onu/dudh/articulo_29",
+                              "instrumentos_internacionales/onu/dudh/articulo_30"
+                            ]
+                          },
+                          {
+                            "group": "Convención sobre el Estatuto de los Refugiados y Protocolo de 1967",
+                            "pages": [
+                              "instrumentos_internacionales/onu/refugiados",
+                              "instrumentos_internacionales/onu/refugiados/preambulo",
+                              {
+                                "group": "Capítulo I — Disposiciones Generales",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_1",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_2",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_3",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_4",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_5",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_6",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_7",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_8",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_9",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_10",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_i/articulo_11"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo II — Condición Jurídica",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_ii/articulo_12",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_ii/articulo_13",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_ii/articulo_14",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_ii/articulo_15",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_ii/articulo_16"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo III — Actividades Lucrativas",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_iii/articulo_17",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_iii/articulo_18",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_iii/articulo_19"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo IV — Bienestar",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_iv/articulo_20",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_iv/articulo_21",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_iv/articulo_22",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_iv/articulo_23",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_iv/articulo_24"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo V — Medidas Administrativas",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_v/articulo_25",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_v/articulo_26",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_v/articulo_27",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_v/articulo_28",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_v/articulo_29",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_v/articulo_30",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_v/articulo_31",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_v/articulo_32",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_v/articulo_33",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_v/articulo_34"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo VI — Disposiciones Transitorias y de Ejecución",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vi/articulo_35",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vi/articulo_36",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vi/articulo_37"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo VII — Cláusulas Finales",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vii/articulo_38",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vii/articulo_39",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vii/articulo_40",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vii/articulo_41",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vii/articulo_42",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vii/articulo_43",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vii/articulo_44",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vii/articulo_45",
+                                  "instrumentos_internacionales/onu/refugiados/capitulo_vii/articulo_46"
+                                ]
+                              },
+                              "instrumentos_internacionales/onu/refugiados/cierre",
+                              "instrumentos_internacionales/onu/refugiados/anexo",
+                              "instrumentos_internacionales/onu/refugiados/apendice"
+                            ]
+                          },
+                          {
+                            "group": "Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial",
+                            "pages": [
+                              "instrumentos_internacionales/onu/cerd",
+                              "instrumentos_internacionales/onu/cerd/preambulo",
+                              {
+                                "group": "Parte I",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cerd/parte_i/articulo_1",
+                                  "instrumentos_internacionales/onu/cerd/parte_i/articulo_2",
+                                  "instrumentos_internacionales/onu/cerd/parte_i/articulo_3",
+                                  "instrumentos_internacionales/onu/cerd/parte_i/articulo_4",
+                                  "instrumentos_internacionales/onu/cerd/parte_i/articulo_5",
+                                  "instrumentos_internacionales/onu/cerd/parte_i/articulo_6",
+                                  "instrumentos_internacionales/onu/cerd/parte_i/articulo_7"
+                                ]
+                              },
+                              {
+                                "group": "Parte II",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cerd/parte_ii/articulo_8",
+                                  "instrumentos_internacionales/onu/cerd/parte_ii/articulo_9",
+                                  "instrumentos_internacionales/onu/cerd/parte_ii/articulo_10",
+                                  "instrumentos_internacionales/onu/cerd/parte_ii/articulo_11",
+                                  "instrumentos_internacionales/onu/cerd/parte_ii/articulo_12",
+                                  "instrumentos_internacionales/onu/cerd/parte_ii/articulo_13",
+                                  "instrumentos_internacionales/onu/cerd/parte_ii/articulo_14",
+                                  "instrumentos_internacionales/onu/cerd/parte_ii/articulo_15",
+                                  "instrumentos_internacionales/onu/cerd/parte_ii/articulo_16"
+                                ]
+                              },
+                              {
+                                "group": "Parte III",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cerd/parte_iii/articulo_17",
+                                  "instrumentos_internacionales/onu/cerd/parte_iii/articulo_18",
+                                  "instrumentos_internacionales/onu/cerd/parte_iii/articulo_19",
+                                  "instrumentos_internacionales/onu/cerd/parte_iii/articulo_20",
+                                  "instrumentos_internacionales/onu/cerd/parte_iii/articulo_21",
+                                  "instrumentos_internacionales/onu/cerd/parte_iii/articulo_22",
+                                  "instrumentos_internacionales/onu/cerd/parte_iii/articulo_23",
+                                  "instrumentos_internacionales/onu/cerd/parte_iii/articulo_24",
+                                  "instrumentos_internacionales/onu/cerd/parte_iii/articulo_25"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Pacto Internacional de Derechos Civiles y Políticos",
+                            "pages": [
+                              "instrumentos_internacionales/onu/pidcp",
+                              "instrumentos_internacionales/onu/pidcp/preambulo",
+                              {
+                                "group": "Parte I",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidcp/parte_i/articulo_1"
+                                ]
+                              },
+                              {
+                                "group": "Parte II",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidcp/parte_ii/articulo_2",
+                                  "instrumentos_internacionales/onu/pidcp/parte_ii/articulo_3",
+                                  "instrumentos_internacionales/onu/pidcp/parte_ii/articulo_4",
+                                  "instrumentos_internacionales/onu/pidcp/parte_ii/articulo_5"
+                                ]
+                              },
+                              {
+                                "group": "Parte III",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_6",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_7",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_8",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_9",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_10",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_11",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_12",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_13",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_14",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_15",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_16",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_17",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_18",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_19",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_20",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_21",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_22",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_23",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_24",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_25",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_26",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iii/articulo_27"
+                                ]
+                              },
+                              {
+                                "group": "Parte IV",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_28",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_29",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_30",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_31",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_32",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_33",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_34",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_35",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_36",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_37",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_38",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_39",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_40",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_41",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_42",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_43",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_44",
+                                  "instrumentos_internacionales/onu/pidcp/parte_iv/articulo_45"
+                                ]
+                              },
+                              {
+                                "group": "Parte V",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidcp/parte_v/articulo_46",
+                                  "instrumentos_internacionales/onu/pidcp/parte_v/articulo_47"
+                                ]
+                              },
+                              {
+                                "group": "Parte VI",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidcp/parte_vi/articulo_48",
+                                  "instrumentos_internacionales/onu/pidcp/parte_vi/articulo_49",
+                                  "instrumentos_internacionales/onu/pidcp/parte_vi/articulo_50",
+                                  "instrumentos_internacionales/onu/pidcp/parte_vi/articulo_51",
+                                  "instrumentos_internacionales/onu/pidcp/parte_vi/articulo_52",
+                                  "instrumentos_internacionales/onu/pidcp/parte_vi/articulo_53"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos",
+                            "pages": [
+                              "instrumentos_internacionales/onu/pidcp_pf1",
+                              "instrumentos_internacionales/onu/pidcp_pf1/preambulo",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_1",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_2",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_3",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_4",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_5",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_6",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_7",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_8",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_9",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_10",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_11",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_12",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_13",
+                              "instrumentos_internacionales/onu/pidcp_pf1/articulo_14"
+                            ]
+                          },
+                          {
+                            "group": "Pacto Internacional de Derechos Económicos, Sociales y Culturales",
+                            "pages": [
+                              "instrumentos_internacionales/onu/pidesc",
+                              "instrumentos_internacionales/onu/pidesc/preambulo",
+                              {
+                                "group": "Parte I",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidesc/parte_i/articulo_1"
+                                ]
+                              },
+                              {
+                                "group": "Parte II",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidesc/parte_ii/articulo_2",
+                                  "instrumentos_internacionales/onu/pidesc/parte_ii/articulo_3",
+                                  "instrumentos_internacionales/onu/pidesc/parte_ii/articulo_4",
+                                  "instrumentos_internacionales/onu/pidesc/parte_ii/articulo_5"
+                                ]
+                              },
+                              {
+                                "group": "Parte III",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidesc/parte_iii/articulo_6",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iii/articulo_7",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iii/articulo_8",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iii/articulo_9",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iii/articulo_10",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iii/articulo_11",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iii/articulo_12",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iii/articulo_13",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iii/articulo_14",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iii/articulo_15"
+                                ]
+                              },
+                              {
+                                "group": "Parte IV",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidesc/parte_iv/articulo_16",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iv/articulo_17",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iv/articulo_18",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iv/articulo_19",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iv/articulo_20",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iv/articulo_21",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iv/articulo_22",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iv/articulo_23",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iv/articulo_24",
+                                  "instrumentos_internacionales/onu/pidesc/parte_iv/articulo_25"
+                                ]
+                              },
+                              {
+                                "group": "Parte V",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/pidesc/parte_v/articulo_26",
+                                  "instrumentos_internacionales/onu/pidesc/parte_v/articulo_27",
+                                  "instrumentos_internacionales/onu/pidesc/parte_v/articulo_28",
+                                  "instrumentos_internacionales/onu/pidesc/parte_v/articulo_29",
+                                  "instrumentos_internacionales/onu/pidesc/parte_v/articulo_30",
+                                  "instrumentos_internacionales/onu/pidesc/parte_v/articulo_31"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer",
+                            "pages": [
+                              "instrumentos_internacionales/onu/cedaw",
+                              "instrumentos_internacionales/onu/cedaw/preambulo",
+                              {
+                                "group": "Parte I",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cedaw/parte_i/articulo_1",
+                                  "instrumentos_internacionales/onu/cedaw/parte_i/articulo_2",
+                                  "instrumentos_internacionales/onu/cedaw/parte_i/articulo_3",
+                                  "instrumentos_internacionales/onu/cedaw/parte_i/articulo_4",
+                                  "instrumentos_internacionales/onu/cedaw/parte_i/articulo_5",
+                                  "instrumentos_internacionales/onu/cedaw/parte_i/articulo_6"
+                                ]
+                              },
+                              {
+                                "group": "Parte II",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cedaw/parte_ii/articulo_7",
+                                  "instrumentos_internacionales/onu/cedaw/parte_ii/articulo_8",
+                                  "instrumentos_internacionales/onu/cedaw/parte_ii/articulo_9"
+                                ]
+                              },
+                              {
+                                "group": "Parte III",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cedaw/parte_iii/articulo_10",
+                                  "instrumentos_internacionales/onu/cedaw/parte_iii/articulo_11",
+                                  "instrumentos_internacionales/onu/cedaw/parte_iii/articulo_12",
+                                  "instrumentos_internacionales/onu/cedaw/parte_iii/articulo_13",
+                                  "instrumentos_internacionales/onu/cedaw/parte_iii/articulo_14"
+                                ]
+                              },
+                              {
+                                "group": "Parte IV",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cedaw/parte_iv/articulo_15",
+                                  "instrumentos_internacionales/onu/cedaw/parte_iv/articulo_16"
+                                ]
+                              },
+                              {
+                                "group": "Parte V",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cedaw/parte_v/articulo_17",
+                                  "instrumentos_internacionales/onu/cedaw/parte_v/articulo_18",
+                                  "instrumentos_internacionales/onu/cedaw/parte_v/articulo_19",
+                                  "instrumentos_internacionales/onu/cedaw/parte_v/articulo_20",
+                                  "instrumentos_internacionales/onu/cedaw/parte_v/articulo_21",
+                                  "instrumentos_internacionales/onu/cedaw/parte_v/articulo_22"
+                                ]
+                              },
+                              {
+                                "group": "Parte VI",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cedaw/parte_vi/articulo_23",
+                                  "instrumentos_internacionales/onu/cedaw/parte_vi/articulo_24",
+                                  "instrumentos_internacionales/onu/cedaw/parte_vi/articulo_25",
+                                  "instrumentos_internacionales/onu/cedaw/parte_vi/articulo_26",
+                                  "instrumentos_internacionales/onu/cedaw/parte_vi/articulo_27",
+                                  "instrumentos_internacionales/onu/cedaw/parte_vi/articulo_28",
+                                  "instrumentos_internacionales/onu/cedaw/parte_vi/articulo_29",
+                                  "instrumentos_internacionales/onu/cedaw/parte_vi/articulo_30"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+                            "pages": [
+                              "instrumentos_internacionales/onu/cat",
+                              "instrumentos_internacionales/onu/cat/preambulo",
+                              {
+                                "group": "Parte I",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_1",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_2",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_3",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_4",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_5",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_6",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_7",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_8",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_9",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_10",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_11",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_12",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_13",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_14",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_15",
+                                  "instrumentos_internacionales/onu/cat/parte_i/articulo_16"
+                                ]
+                              },
+                              {
+                                "group": "Parte II",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cat/parte_ii/articulo_17",
+                                  "instrumentos_internacionales/onu/cat/parte_ii/articulo_18",
+                                  "instrumentos_internacionales/onu/cat/parte_ii/articulo_19",
+                                  "instrumentos_internacionales/onu/cat/parte_ii/articulo_20",
+                                  "instrumentos_internacionales/onu/cat/parte_ii/articulo_21",
+                                  "instrumentos_internacionales/onu/cat/parte_ii/articulo_22",
+                                  "instrumentos_internacionales/onu/cat/parte_ii/articulo_23",
+                                  "instrumentos_internacionales/onu/cat/parte_ii/articulo_24"
+                                ]
+                              },
+                              {
+                                "group": "Parte III",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cat/parte_iii/articulo_25",
+                                  "instrumentos_internacionales/onu/cat/parte_iii/articulo_26",
+                                  "instrumentos_internacionales/onu/cat/parte_iii/articulo_27",
+                                  "instrumentos_internacionales/onu/cat/parte_iii/articulo_28",
+                                  "instrumentos_internacionales/onu/cat/parte_iii/articulo_29",
+                                  "instrumentos_internacionales/onu/cat/parte_iii/articulo_30",
+                                  "instrumentos_internacionales/onu/cat/parte_iii/articulo_31",
+                                  "instrumentos_internacionales/onu/cat/parte_iii/articulo_32",
+                                  "instrumentos_internacionales/onu/cat/parte_iii/articulo_33"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Convención sobre los Derechos del Niño",
+                            "pages": [
+                              "instrumentos_internacionales/onu/cdn",
+                              "instrumentos_internacionales/onu/cdn/preambulo",
+                              {
+                                "group": "Parte I",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_1",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_2",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_3",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_4",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_5",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_6",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_7",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_8",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_9",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_10",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_11",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_12",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_13",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_14",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_15",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_16",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_17",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_18",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_19",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_20",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_21",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_22",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_23",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_24",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_25",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_26",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_27",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_28",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_29",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_30",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_31",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_32",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_33",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_34",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_35",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_36",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_37",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_38",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_39",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_40",
+                                  "instrumentos_internacionales/onu/cdn/parte_i/articulo_41"
+                                ]
+                              },
+                              {
+                                "group": "Parte II",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cdn/parte_ii/articulo_42",
+                                  "instrumentos_internacionales/onu/cdn/parte_ii/articulo_43",
+                                  "instrumentos_internacionales/onu/cdn/parte_ii/articulo_44",
+                                  "instrumentos_internacionales/onu/cdn/parte_ii/articulo_45"
+                                ]
+                              },
+                              {
+                                "group": "Parte III",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/cdn/parte_iii/articulo_46",
+                                  "instrumentos_internacionales/onu/cdn/parte_iii/articulo_47",
+                                  "instrumentos_internacionales/onu/cdn/parte_iii/articulo_48",
+                                  "instrumentos_internacionales/onu/cdn/parte_iii/articulo_49",
+                                  "instrumentos_internacionales/onu/cdn/parte_iii/articulo_50",
+                                  "instrumentos_internacionales/onu/cdn/parte_iii/articulo_51",
+                                  "instrumentos_internacionales/onu/cdn/parte_iii/articulo_52",
+                                  "instrumentos_internacionales/onu/cdn/parte_iii/articulo_53",
+                                  "instrumentos_internacionales/onu/cdn/parte_iii/articulo_54"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Protocolo Facultativo de la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+                            "pages": [
+                              "instrumentos_internacionales/onu/opcat",
+                              "instrumentos_internacionales/onu/opcat/preambulo",
+                              {
+                                "group": "Parte I",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/opcat/parte_i/articulo_1",
+                                  "instrumentos_internacionales/onu/opcat/parte_i/articulo_2",
+                                  "instrumentos_internacionales/onu/opcat/parte_i/articulo_3",
+                                  "instrumentos_internacionales/onu/opcat/parte_i/articulo_4"
+                                ]
+                              },
+                              {
+                                "group": "Parte II",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/opcat/parte_ii/articulo_5",
+                                  "instrumentos_internacionales/onu/opcat/parte_ii/articulo_6",
+                                  "instrumentos_internacionales/onu/opcat/parte_ii/articulo_7",
+                                  "instrumentos_internacionales/onu/opcat/parte_ii/articulo_8",
+                                  "instrumentos_internacionales/onu/opcat/parte_ii/articulo_9",
+                                  "instrumentos_internacionales/onu/opcat/parte_ii/articulo_10"
+                                ]
+                              },
+                              {
+                                "group": "Parte III",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/opcat/parte_iii/articulo_11",
+                                  "instrumentos_internacionales/onu/opcat/parte_iii/articulo_12",
+                                  "instrumentos_internacionales/onu/opcat/parte_iii/articulo_13",
+                                  "instrumentos_internacionales/onu/opcat/parte_iii/articulo_14",
+                                  "instrumentos_internacionales/onu/opcat/parte_iii/articulo_15",
+                                  "instrumentos_internacionales/onu/opcat/parte_iii/articulo_16"
+                                ]
+                              },
+                              {
+                                "group": "Parte IV",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/opcat/parte_iv/articulo_17",
+                                  "instrumentos_internacionales/onu/opcat/parte_iv/articulo_18",
+                                  "instrumentos_internacionales/onu/opcat/parte_iv/articulo_19",
+                                  "instrumentos_internacionales/onu/opcat/parte_iv/articulo_20",
+                                  "instrumentos_internacionales/onu/opcat/parte_iv/articulo_21",
+                                  "instrumentos_internacionales/onu/opcat/parte_iv/articulo_22",
+                                  "instrumentos_internacionales/onu/opcat/parte_iv/articulo_23"
+                                ]
+                              },
+                              {
+                                "group": "Parte V",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/opcat/parte_v/articulo_24"
+                                ]
+                              },
+                              {
+                                "group": "Parte VI",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/opcat/parte_vi/articulo_25",
+                                  "instrumentos_internacionales/onu/opcat/parte_vi/articulo_26"
+                                ]
+                              },
+                              {
+                                "group": "Parte VII",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_27",
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_28",
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_29",
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_30",
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_31",
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_32",
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_33",
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_34",
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_35",
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_36",
+                                  "instrumentos_internacionales/onu/opcat/parte_vii/articulo_37"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Convención sobre los Derechos de las Personas con Discapacidad",
+                            "pages": [
+                              "instrumentos_internacionales/onu/cdpd",
+                              "instrumentos_internacionales/onu/cdpd/preambulo",
+                              "instrumentos_internacionales/onu/cdpd/articulo_1",
+                              "instrumentos_internacionales/onu/cdpd/articulo_2",
+                              "instrumentos_internacionales/onu/cdpd/articulo_3",
+                              "instrumentos_internacionales/onu/cdpd/articulo_4",
+                              "instrumentos_internacionales/onu/cdpd/articulo_5",
+                              "instrumentos_internacionales/onu/cdpd/articulo_6",
+                              "instrumentos_internacionales/onu/cdpd/articulo_7",
+                              "instrumentos_internacionales/onu/cdpd/articulo_8",
+                              "instrumentos_internacionales/onu/cdpd/articulo_9",
+                              "instrumentos_internacionales/onu/cdpd/articulo_10",
+                              "instrumentos_internacionales/onu/cdpd/articulo_11",
+                              "instrumentos_internacionales/onu/cdpd/articulo_12",
+                              "instrumentos_internacionales/onu/cdpd/articulo_13",
+                              "instrumentos_internacionales/onu/cdpd/articulo_14",
+                              "instrumentos_internacionales/onu/cdpd/articulo_15",
+                              "instrumentos_internacionales/onu/cdpd/articulo_16",
+                              "instrumentos_internacionales/onu/cdpd/articulo_17",
+                              "instrumentos_internacionales/onu/cdpd/articulo_18",
+                              "instrumentos_internacionales/onu/cdpd/articulo_19",
+                              "instrumentos_internacionales/onu/cdpd/articulo_20",
+                              "instrumentos_internacionales/onu/cdpd/articulo_21",
+                              "instrumentos_internacionales/onu/cdpd/articulo_22",
+                              "instrumentos_internacionales/onu/cdpd/articulo_23",
+                              "instrumentos_internacionales/onu/cdpd/articulo_24",
+                              "instrumentos_internacionales/onu/cdpd/articulo_25",
+                              "instrumentos_internacionales/onu/cdpd/articulo_26",
+                              "instrumentos_internacionales/onu/cdpd/articulo_27",
+                              "instrumentos_internacionales/onu/cdpd/articulo_28",
+                              "instrumentos_internacionales/onu/cdpd/articulo_29",
+                              "instrumentos_internacionales/onu/cdpd/articulo_30",
+                              "instrumentos_internacionales/onu/cdpd/articulo_31",
+                              "instrumentos_internacionales/onu/cdpd/articulo_32",
+                              "instrumentos_internacionales/onu/cdpd/articulo_33",
+                              "instrumentos_internacionales/onu/cdpd/articulo_34",
+                              "instrumentos_internacionales/onu/cdpd/articulo_35",
+                              "instrumentos_internacionales/onu/cdpd/articulo_36",
+                              "instrumentos_internacionales/onu/cdpd/articulo_37",
+                              "instrumentos_internacionales/onu/cdpd/articulo_38",
+                              "instrumentos_internacionales/onu/cdpd/articulo_39",
+                              "instrumentos_internacionales/onu/cdpd/articulo_40",
+                              "instrumentos_internacionales/onu/cdpd/articulo_41",
+                              "instrumentos_internacionales/onu/cdpd/articulo_42",
+                              "instrumentos_internacionales/onu/cdpd/articulo_43",
+                              "instrumentos_internacionales/onu/cdpd/articulo_44",
+                              "instrumentos_internacionales/onu/cdpd/articulo_45",
+                              "instrumentos_internacionales/onu/cdpd/articulo_46",
+                              "instrumentos_internacionales/onu/cdpd/articulo_47",
+                              "instrumentos_internacionales/onu/cdpd/articulo_48",
+                              "instrumentos_internacionales/onu/cdpd/articulo_49",
+                              "instrumentos_internacionales/onu/cdpd/articulo_50"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "group": "Derecho Internacional Humanitario - Comité Internacional de la Cruz Roja, CICR",
+                        "pages": [
+                          {
+                            "group": "I Convenio de Ginebra para Aliviar la Suerte de los Heridos y Enfermos de las Fuerzas Armadas en Campaña",
+                            "pages": [
+                              "instrumentos_internacionales/cicr/cg_i",
+                              "instrumentos_internacionales/cicr/cg_i/preambulo",
+                              {
+                                "group": "Capítulo I",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_1",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_2",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_3",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_4",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_5",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_6",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_7",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_8",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_9",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_10",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_i/articulo_11"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo II",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ii/articulo_12",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ii/articulo_13",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ii/articulo_14",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ii/articulo_15",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ii/articulo_16",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ii/articulo_17",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ii/articulo_18"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo III",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iii/articulo_19",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iii/articulo_20",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iii/articulo_21",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iii/articulo_22",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iii/articulo_23"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo IV",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iv/articulo_24",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iv/articulo_25",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iv/articulo_26",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iv/articulo_27",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iv/articulo_28",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iv/articulo_29",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iv/articulo_30",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iv/articulo_31",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_iv/articulo_32"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo V",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_v/articulo_33",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_v/articulo_34"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo VI",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_vi/articulo_35",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_vi/articulo_36",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_vi/articulo_37"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo VII",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_vii/articulo_38",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_vii/articulo_39",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_vii/articulo_40",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_vii/articulo_41",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_vii/articulo_42",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_vii/articulo_43",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_vii/articulo_44"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo VIII",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_viii/articulo_45",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_viii/articulo_46",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_viii/articulo_47",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_viii/articulo_48"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo IX",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_49",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_50",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_51",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_52",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_53",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_54",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_55",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_56",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_57",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_58",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_59",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_60",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_61",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_62",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_63",
+                                  "instrumentos_internacionales/cicr/cg_i/capitulo_ix/articulo_64"
+                                ]
+                              },
+                              "instrumentos_internacionales/cicr/cg_i/cierre",
+                              "instrumentos_internacionales/cicr/cg_i/anejo_i",
+                              "instrumentos_internacionales/cicr/cg_i/anejo_ii"
+                            ]
+                          },
+                          {
+                            "group": "II Convenio de Ginebra para Aliviar la Suerte de los Heridos, Enfermos y Náufragos de las Fuerzas Armadas en el Mar",
+                            "pages": [
+                              "instrumentos_internacionales/cicr/cg_ii",
+                              "instrumentos_internacionales/cicr/cg_ii/preambulo",
+                              {
+                                "group": "Capítulo I",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_1",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_2",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_3",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_4",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_5",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_6",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_7",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_8",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_9",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_10",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_i/articulo_11"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo II",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_ii/articulo_12",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_ii/articulo_13",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_ii/articulo_14",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_ii/articulo_15",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_ii/articulo_16",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_ii/articulo_17",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_ii/articulo_18",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_ii/articulo_19",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_ii/articulo_20",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_ii/articulo_21"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo III",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_22",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_23",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_24",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_25",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_26",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_27",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_28",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_29",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_30",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_31",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_32",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_33",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_34",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iii/articulo_35"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo IV",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iv/articulo_36",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_iv/articulo_37"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo V",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_v/articulo_38",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_v/articulo_39",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_v/articulo_40"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo VI",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_vi/articulo_41",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_vi/articulo_42",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_vi/articulo_43",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_vi/articulo_44",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_vi/articulo_45"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo VII",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_vii/articulo_46",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_vii/articulo_47",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_vii/articulo_48",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_vii/articulo_49"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo VIII",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_50",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_51",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_52",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_53",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_54",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_55",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_56",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_57",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_58",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_59",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_60",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_61",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_62",
+                                  "instrumentos_internacionales/cicr/cg_ii/capitulo_viii/articulo_63"
+                                ]
+                              },
+                              "instrumentos_internacionales/cicr/cg_ii/cierre",
+                              "instrumentos_internacionales/cicr/cg_ii/anejo_i"
+                            ]
+                          },
+                          {
+                            "group": "III Convenio de Ginebra Relativo al Trato Debido a los Prisioneros de Guerra",
+                            "pages": [
+                              "instrumentos_internacionales/cicr/cg_iii",
+                              "instrumentos_internacionales/cicr/cg_iii/preambulo",
+                              {
+                                "group": "Título I",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_1",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_2",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_3",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_4",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_5",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_6",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_7",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_8",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_9",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_10",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_i/articulo_11"
+                                ]
+                              },
+                              {
+                                "group": "Título II",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_ii/articulo_12",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_ii/articulo_13",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_ii/articulo_14",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_ii/articulo_15",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_ii/articulo_16"
+                                ]
+                              },
+                              {
+                                "group": "Título III",
+                                "pages": [
+                                  {
+                                    "group": "Sección I",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_i/articulo_17",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_i/articulo_18",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_i/articulo_19",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_i/articulo_20"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección II",
+                                    "pages": [
+                                      {
+                                        "group": "Capítulo I",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_i/articulo_21",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_i/articulo_22",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_i/articulo_23",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_i/articulo_24"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo II",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_ii/articulo_25",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_ii/articulo_26",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_ii/articulo_27",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_ii/articulo_28"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo III",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_iii/articulo_29",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_iii/articulo_30",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_iii/articulo_31",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_iii/articulo_32"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo IV",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_iv/articulo_33"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo V",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_v/articulo_34",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_v/articulo_35",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_v/articulo_36",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_v/articulo_37",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_v/articulo_38"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo VI",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_vi/articulo_39",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_vi/articulo_40",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_vi/articulo_41",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_vi/articulo_42"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo VII",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_vii/articulo_43",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_vii/articulo_44",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_vii/articulo_45"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo VIII",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_viii/articulo_46",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_viii/articulo_47",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_ii/capitulo_viii/articulo_48"
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección III",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iii/articulo_49",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iii/articulo_50",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iii/articulo_51",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iii/articulo_52",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iii/articulo_53",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iii/articulo_54",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iii/articulo_55",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iii/articulo_56",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iii/articulo_57"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección IV",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_58",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_59",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_60",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_61",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_62",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_63",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_64",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_65",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_66",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_67",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_iv/articulo_68"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección V",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_v/articulo_69",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_v/articulo_70",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_v/articulo_71",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_v/articulo_72",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_v/articulo_73",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_v/articulo_74",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_v/articulo_75",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_v/articulo_76",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_v/articulo_77"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección VI",
+                                    "pages": [
+                                      {
+                                        "group": "Capítulo I",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_i/articulo_78"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo II",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_ii/articulo_79",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_ii/articulo_80",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_ii/articulo_81"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo III",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_82",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_83",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_84",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_85",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_86",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_87",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_88",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_89",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_90",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_91",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_92",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_93",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_94",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_95",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_96",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_97",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_98",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_99",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_100",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_101",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_102",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_103",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_104",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_105",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_106",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_107",
+                                          "instrumentos_internacionales/cicr/cg_iii/titulo_iii/seccion_vi/capitulo_iii/articulo_108"
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "group": "Título IV",
+                                "pages": [
+                                  {
+                                    "group": "Sección I",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_i/articulo_109",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_i/articulo_110",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_i/articulo_111",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_i/articulo_112",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_i/articulo_113",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_i/articulo_114",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_i/articulo_115",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_i/articulo_116",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_i/articulo_117"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección II",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_ii/articulo_118",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_ii/articulo_119"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección III",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_iii/articulo_120",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_iv/seccion_iii/articulo_121"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "group": "Título V",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_v/articulo_122",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_v/articulo_123",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_v/articulo_124",
+                                  "instrumentos_internacionales/cicr/cg_iii/titulo_v/articulo_125"
+                                ]
+                              },
+                              {
+                                "group": "Título VI",
+                                "pages": [
+                                  {
+                                    "group": "Sección I",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_i/articulo_126",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_i/articulo_127",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_i/articulo_128",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_i/articulo_129",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_i/articulo_130",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_i/articulo_131",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_i/articulo_132"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección II",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_133",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_134",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_135",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_136",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_137",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_138",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_139",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_140",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_141",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_142",
+                                      "instrumentos_internacionales/cicr/cg_iii/titulo_vi/seccion_ii/articulo_143"
+                                    ]
+                                  }
+                                ]
+                              },
+                              "instrumentos_internacionales/cicr/cg_iii/cierre",
+                              "instrumentos_internacionales/cicr/cg_iii/anejo_i",
+                              "instrumentos_internacionales/cicr/cg_iii/anejo_ii",
+                              "instrumentos_internacionales/cicr/cg_iii/anejo_iii",
+                              "instrumentos_internacionales/cicr/cg_iii/anejo_iv",
+                              "instrumentos_internacionales/cicr/cg_iii/anejo_v"
+                            ]
+                          },
+                          {
+                            "group": "IV Convenio de Ginebra Relativo a la Protección Debida a las Personas Civiles en Tiempo de Guerra",
+                            "pages": [
+                              "instrumentos_internacionales/cicr/cg_iv",
+                              "instrumentos_internacionales/cicr/cg_iv/preambulo",
+                              {
+                                "group": "Título I",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_1",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_2",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_3",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_4",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_5",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_6",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_7",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_8",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_9",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_10",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_11",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_i/articulo_12"
+                                ]
+                              },
+                              {
+                                "group": "Título II",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_13",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_14",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_15",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_16",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_17",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_18",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_19",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_20",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_21",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_22",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_23",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_24",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_25",
+                                  "instrumentos_internacionales/cicr/cg_iv/titulo_ii/articulo_26"
+                                ]
+                              },
+                              {
+                                "group": "Título III",
+                                "pages": [
+                                  {
+                                    "group": "Sección I",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_i/articulo_27",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_i/articulo_28",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_i/articulo_29",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_i/articulo_30",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_i/articulo_31",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_i/articulo_32",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_i/articulo_33",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_i/articulo_34"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección II",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_35",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_36",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_37",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_38",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_39",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_40",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_41",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_42",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_43",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_44",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_45",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_ii/articulo_46"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección III",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_47",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_48",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_49",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_50",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_51",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_52",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_53",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_54",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_55",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_56",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_57",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_58",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_59",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_60",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_61",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_62",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_63",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_64",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_65",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_66",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_67",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_68",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_69",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_70",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_71",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_72",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_73",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_74",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_75",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_76",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_77",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iii/articulo_78"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección IV",
+                                    "pages": [
+                                      {
+                                        "group": "Capítulo I",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_i/articulo_79",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_i/articulo_80",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_i/articulo_81",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_i/articulo_82"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo II",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ii/articulo_83",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ii/articulo_84",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ii/articulo_85",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ii/articulo_86",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ii/articulo_87",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ii/articulo_88"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo III",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_iii/articulo_89",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_iii/articulo_90"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo IV",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_iv/articulo_91",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_iv/articulo_92"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo V",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_v/articulo_93",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_v/articulo_94",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_v/articulo_95",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_v/articulo_96"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo VI",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_vi/articulo_97",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_vi/articulo_98"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo VII",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_vii/articulo_99",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_vii/articulo_100",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_vii/articulo_101",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_vii/articulo_102",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_vii/articulo_103",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_vii/articulo_104"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo VIII",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_105",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_106",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_107",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_108",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_109",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_110",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_111",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_112",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_113",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_114",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_115",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_viii/articulo_116"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo IX",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ix/articulo_117",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ix/articulo_118",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ix/articulo_119",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ix/articulo_120",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ix/articulo_121",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ix/articulo_122",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ix/articulo_123",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ix/articulo_124",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ix/articulo_125",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_ix/articulo_126"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo X",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_x/articulo_127",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_x/articulo_128"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo XI",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_xi/articulo_129",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_xi/articulo_130",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_xi/articulo_131"
+                                        ]
+                                      },
+                                      {
+                                        "group": "Capítulo XII",
+                                        "pages": [
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_xii/articulo_132",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_xii/articulo_133",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_xii/articulo_134",
+                                          "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_iv/capitulo_xii/articulo_135"
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección V",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_v/articulo_136",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_v/articulo_137",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_v/articulo_138",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_v/articulo_139",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_v/articulo_140",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iii/seccion_v/articulo_141"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "group": "Título IV",
+                                "pages": [
+                                  {
+                                    "group": "Sección I",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_i/articulo_142",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_i/articulo_143",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_i/articulo_144",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_i/articulo_145",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_i/articulo_146",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_i/articulo_147",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_i/articulo_148",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_i/articulo_149"
+                                    ]
+                                  },
+                                  {
+                                    "group": "Sección II",
+                                    "pages": [
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_ii/articulo_150",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_ii/articulo_151",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_ii/articulo_152",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_ii/articulo_153",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_ii/articulo_154",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_ii/articulo_155",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_ii/articulo_156",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_ii/articulo_157",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_ii/articulo_158",
+                                      "instrumentos_internacionales/cicr/cg_iv/titulo_iv/seccion_ii/articulo_159"
+                                    ]
+                                  }
+                                ]
+                              },
+                              "instrumentos_internacionales/cicr/cg_iv/cierre",
+                              "instrumentos_internacionales/cicr/cg_iv/anejo_i",
+                              "instrumentos_internacionales/cicr/cg_iv/anejo_ii",
+                              "instrumentos_internacionales/cicr/cg_iv/anejo_iii"
+                            ]
+                          },
+                          {
+                            "group": "Protocolo Adicional I a los Convenios de Ginebra Relativo a la Protección de las Víctimas de los Conflictos Armados Internacionales",
+                            "pages": [
+                              "instrumentos_internacionales/cicr/pa_i",
+                              "instrumentos_internacionales/cicr/pa_i/preambulo",
+                              {
+                                "group": "Título I",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_i/articulo_1",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_i/articulo_2",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_i/articulo_3",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_i/articulo_4",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_i/articulo_5",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_i/articulo_6",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_i/articulo_7"
+                                ]
+                              },
+                              {
+                                "group": "Título II",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_8",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_9",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_10",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_11",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_12",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_13",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_14",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_15",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_16",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_17",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_18",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_19",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_20",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_21",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_22",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_23",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_24",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_25",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_26",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_27",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_28",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_29",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_30",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_31",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_32",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_33",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_ii/articulo_34"
+                                ]
+                              },
+                              {
+                                "group": "Título III",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_35",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_36",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_37",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_38",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_39",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_40",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_41",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_42",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_43",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_44",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_45",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_46",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iii/articulo_47"
+                                ]
+                              },
+                              {
+                                "group": "Título IV",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_48",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_49",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_50",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_51",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_52",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_53",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_54",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_55",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_56",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_57",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_58",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_59",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_60",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_61",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_62",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_63",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_64",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_65",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_66",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_67",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_68",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_69",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_70",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_71",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_72",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_73",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_74",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_75",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_76",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_77",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_78",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_iv/articulo_79"
+                                ]
+                              },
+                              {
+                                "group": "Título V",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_80",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_81",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_82",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_83",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_84",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_85",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_86",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_87",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_88",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_89",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_90",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_v/articulo_91"
+                                ]
+                              },
+                              {
+                                "group": "Título VI",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_92",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_93",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_94",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_95",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_96",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_97",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_98",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_99",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_100",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_101",
+                                  "instrumentos_internacionales/cicr/pa_i/titulo_vi/articulo_102"
+                                ]
+                              },
+                              "instrumentos_internacionales/cicr/pa_i/anejo_ii"
+                            ]
+                          },
+                          {
+                            "group": "Protocolo Adicional II a los Convenios de Ginebra Relativo a la Protección de las Víctimas de los Conflictos Armados sin Carácter Internacional",
+                            "pages": [
+                              "instrumentos_internacionales/cicr/pa_ii",
+                              "instrumentos_internacionales/cicr/pa_ii/preambulo",
+                              {
+                                "group": "Título I",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_i/articulo_1",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_i/articulo_2",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_i/articulo_3"
+                                ]
+                              },
+                              {
+                                "group": "Título II",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_ii/articulo_4",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_ii/articulo_5",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_ii/articulo_6"
+                                ]
+                              },
+                              {
+                                "group": "Título III",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iii/articulo_7",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iii/articulo_8",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iii/articulo_9",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iii/articulo_10",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iii/articulo_11",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iii/articulo_12"
+                                ]
+                              },
+                              {
+                                "group": "Título IV",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iv/articulo_13",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iv/articulo_14",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iv/articulo_15",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iv/articulo_16",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iv/articulo_17",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_iv/articulo_18"
+                                ]
+                              },
+                              {
+                                "group": "Título V",
+                                "pages": [
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_v/articulo_19",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_v/articulo_20",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_v/articulo_21",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_v/articulo_22",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_v/articulo_23",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_v/articulo_24",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_v/articulo_25",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_v/articulo_26",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_v/articulo_27",
+                                  "instrumentos_internacionales/cicr/pa_ii/titulo_v/articulo_28"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Protocolo Adicional III a los Convenios de Ginebra Relativo a la Aprobación de un Signo Distintivo Adicional",
+                            "pages": [
+                              "instrumentos_internacionales/cicr/pa_iii",
+                              "instrumentos_internacionales/cicr/pa_iii/preambulo",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_1",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_2",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_3",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_4",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_5",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_6",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_7",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_8",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_9",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_10",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_11",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_12",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_13",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_14",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_15",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_16",
+                              "instrumentos_internacionales/cicr/pa_iii/articulo_17"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "group": "Convenios OIT - Organización Internacional del Trabajo, OIT",
+                        "pages": [
+                          {
+                            "group": "Constitución de la Organización Internacional del Trabajo",
+                            "pages": [
+                              "instrumentos_internacionales/oit/oit_constitucion",
+                              "instrumentos_internacionales/oit/oit_constitucion/preambulo",
+                              {
+                                "group": "Capítulo I — Organización",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_1",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_2",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_3",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_4",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_5",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_6",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_7",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_8",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_9",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_10",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_11",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_12",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_i/articulo_13"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo II — Funcionamiento",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_14",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_15",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_16",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_17",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_18",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_19",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_20",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_21",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_22",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_23",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_24",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_25",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_26",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_27",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_28",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_29",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_30",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_31",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_32",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_33",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_ii/articulo_34"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo III — Prescripciones Generales",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_iii/articulo_35",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_iii/articulo_36",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_iii/articulo_37",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_iii/articulo_38"
+                                ]
+                              },
+                              {
+                                "group": "Capítulo IV — Disposiciones Diversas",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_iv/articulo_39",
+                                  "instrumentos_internacionales/oit/oit_constitucion/capitulo_iv/articulo_40"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Convenio sobre el Trabajo Forzoso",
+                            "pages": [
+                              "instrumentos_internacionales/oit/oit_c29",
+                              "instrumentos_internacionales/oit/oit_c29/preambulo",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_1",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_2",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_25",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_26",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_27",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_28",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_29",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_30",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_31",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_32",
+                              "instrumentos_internacionales/oit/oit_c29/articulo_33"
+                            ]
+                          },
+                          {
+                            "group": "Convenio sobre la Libertad Sindical y la Protección del Derecho de Sindicación",
+                            "pages": [
+                              "instrumentos_internacionales/oit/oit_c87",
+                              "instrumentos_internacionales/oit/oit_c87/preambulo",
+                              {
+                                "group": "Parte I — Libertad Sindical",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c87/parte_i/articulo_1",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_i/articulo_2",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_i/articulo_3",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_i/articulo_4",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_i/articulo_5",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_i/articulo_6",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_i/articulo_7",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_i/articulo_8",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_i/articulo_9",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_i/articulo_10"
+                                ]
+                              },
+                              {
+                                "group": "Parte II — Protección del Derecho de Sindicación",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c87/parte_ii/articulo_11"
+                                ]
+                              },
+                              {
+                                "group": "Parte III — Disposiciones Diversas",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c87/parte_iii/articulo_12",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_iii/articulo_13"
+                                ]
+                              },
+                              {
+                                "group": "Parte IV — Disposiciones Finales",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c87/parte_iv/articulo_14",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_iv/articulo_15",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_iv/articulo_16",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_iv/articulo_17",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_iv/articulo_18",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_iv/articulo_19",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_iv/articulo_20",
+                                  "instrumentos_internacionales/oit/oit_c87/parte_iv/articulo_21"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Convenio sobre el Derecho de Sindicación y de Negociación Colectiva",
+                            "pages": [
+                              "instrumentos_internacionales/oit/oit_c98",
+                              "instrumentos_internacionales/oit/oit_c98/preambulo",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_1",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_2",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_3",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_4",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_5",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_6",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_7",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_8",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_9",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_10",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_11",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_12",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_13",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_14",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_15",
+                              "instrumentos_internacionales/oit/oit_c98/articulo_16"
+                            ]
+                          },
+                          {
+                            "group": "Convenio sobre Igualdad de Remuneración",
+                            "pages": [
+                              "instrumentos_internacionales/oit/oit_c100",
+                              "instrumentos_internacionales/oit/oit_c100/preambulo",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_1",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_2",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_3",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_4",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_5",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_6",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_7",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_8",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_9",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_10",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_11",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_12",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_13",
+                              "instrumentos_internacionales/oit/oit_c100/articulo_14"
+                            ]
+                          },
+                          {
+                            "group": "Convenio sobre la Abolición del Trabajo Forzoso",
+                            "pages": [
+                              "instrumentos_internacionales/oit/oit_c105",
+                              "instrumentos_internacionales/oit/oit_c105/preambulo",
+                              "instrumentos_internacionales/oit/oit_c105/articulo_1",
+                              "instrumentos_internacionales/oit/oit_c105/articulo_2",
+                              "instrumentos_internacionales/oit/oit_c105/articulo_3",
+                              "instrumentos_internacionales/oit/oit_c105/articulo_4",
+                              "instrumentos_internacionales/oit/oit_c105/articulo_5",
+                              "instrumentos_internacionales/oit/oit_c105/articulo_6",
+                              "instrumentos_internacionales/oit/oit_c105/articulo_7",
+                              "instrumentos_internacionales/oit/oit_c105/articulo_8",
+                              "instrumentos_internacionales/oit/oit_c105/articulo_9",
+                              "instrumentos_internacionales/oit/oit_c105/articulo_10"
+                            ]
+                          },
+                          {
+                            "group": "Convenio sobre la Discriminación en Materia de Empleo y Ocupación",
+                            "pages": [
+                              "instrumentos_internacionales/oit/oit_c111",
+                              "instrumentos_internacionales/oit/oit_c111/preambulo",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_1",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_2",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_3",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_4",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_5",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_6",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_7",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_8",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_9",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_10",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_11",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_12",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_13",
+                              "instrumentos_internacionales/oit/oit_c111/articulo_14"
+                            ]
+                          },
+                          {
+                            "group": "Convenio sobre la Edad Mínima de Admisión al Empleo",
+                            "pages": [
+                              "instrumentos_internacionales/oit/oit_c138",
+                              "instrumentos_internacionales/oit/oit_c138/preambulo",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_1",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_2",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_3",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_4",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_5",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_6",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_7",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_8",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_9",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_10",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_11",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_12",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_13",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_14",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_15",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_16",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_17",
+                              "instrumentos_internacionales/oit/oit_c138/articulo_18"
+                            ]
+                          },
+                          {
+                            "group": "Convenio sobre Pueblos Indígenas y Tribales en Países Independientes",
+                            "pages": [
+                              "instrumentos_internacionales/oit/oit_c169",
+                              "instrumentos_internacionales/oit/oit_c169/preambulo",
+                              {
+                                "group": "Parte I — Política General",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_1",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_2",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_3",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_4",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_5",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_6",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_7",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_8",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_9",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_10",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_11",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_i/articulo_12"
+                                ]
+                              },
+                              {
+                                "group": "Parte II — Tierras",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c169/parte_ii/articulo_13",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_ii/articulo_14",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_ii/articulo_15",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_ii/articulo_16",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_ii/articulo_17",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_ii/articulo_18",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_ii/articulo_19"
+                                ]
+                              },
+                              {
+                                "group": "Parte III — Contratación y Condiciones de Empleo",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c169/parte_iii/articulo_20"
+                                ]
+                              },
+                              {
+                                "group": "Parte IV — Formación Profesional, Artesanía e Industrias Rurales",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c169/parte_iv/articulo_21",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_iv/articulo_22",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_iv/articulo_23"
+                                ]
+                              },
+                              {
+                                "group": "Parte V — Seguridad Social y Salud",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c169/parte_v/articulo_24",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_v/articulo_25"
+                                ]
+                              },
+                              {
+                                "group": "Parte VI — Educación y Medios de Comunicación",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c169/parte_vi/articulo_26",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_vi/articulo_27",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_vi/articulo_28",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_vi/articulo_29",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_vi/articulo_30",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_vi/articulo_31"
+                                ]
+                              },
+                              {
+                                "group": "Parte VII — Contactos y Cooperación a Través de las Fronteras",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c169/parte_vii/articulo_32"
+                                ]
+                              },
+                              {
+                                "group": "Parte VIII — Administración",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c169/parte_viii/articulo_33"
+                                ]
+                              },
+                              {
+                                "group": "Parte IX — Disposiciones Generales",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c169/parte_ix/articulo_34",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_ix/articulo_35"
+                                ]
+                              },
+                              {
+                                "group": "Parte X — Disposiciones Finales",
+                                "pages": [
+                                  "instrumentos_internacionales/oit/oit_c169/parte_x/articulo_36",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_x/articulo_37",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_x/articulo_38",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_x/articulo_39",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_x/articulo_40",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_x/articulo_41",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_x/articulo_42",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_x/articulo_43",
+                                  "instrumentos_internacionales/oit/oit_c169/parte_x/articulo_44"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "group": "Convenio sobre las Peores Formas de Trabajo Infantil",
+                            "pages": [
+                              "instrumentos_internacionales/oit/oit_c182",
+                              "instrumentos_internacionales/oit/oit_c182/preambulo",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_1",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_2",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_3",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_4",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_5",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_6",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_7",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_8",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_9",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_10",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_11",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_12",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_13",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_14",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_15",
+                              "instrumentos_internacionales/oit/oit_c182/articulo_16"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "group": "Sistema Regional Latinoamericano - Comisión Económica para América Latina y el Caribe, CEPAL",
+                        "pages": [
+                          {
+                            "group": "Acuerdo de Escazú",
+                            "pages": [
+                              "instrumentos_internacionales/cepal/escazu",
+                              "instrumentos_internacionales/cepal/escazu/preambulo",
+                              "instrumentos_internacionales/cepal/escazu/articulo_1",
+                              "instrumentos_internacionales/cepal/escazu/articulo_2",
+                              "instrumentos_internacionales/cepal/escazu/articulo_3",
+                              "instrumentos_internacionales/cepal/escazu/articulo_4",
+                              "instrumentos_internacionales/cepal/escazu/articulo_5",
+                              "instrumentos_internacionales/cepal/escazu/articulo_6",
+                              "instrumentos_internacionales/cepal/escazu/articulo_7",
+                              "instrumentos_internacionales/cepal/escazu/articulo_8",
+                              "instrumentos_internacionales/cepal/escazu/articulo_9",
+                              "instrumentos_internacionales/cepal/escazu/articulo_10",
+                              "instrumentos_internacionales/cepal/escazu/articulo_11",
+                              "instrumentos_internacionales/cepal/escazu/articulo_12",
+                              "instrumentos_internacionales/cepal/escazu/articulo_13",
+                              "instrumentos_internacionales/cepal/escazu/articulo_14",
+                              "instrumentos_internacionales/cepal/escazu/articulo_15",
+                              "instrumentos_internacionales/cepal/escazu/articulo_16",
+                              "instrumentos_internacionales/cepal/escazu/articulo_17",
+                              "instrumentos_internacionales/cepal/escazu/articulo_18",
+                              "instrumentos_internacionales/cepal/escazu/articulo_19",
+                              "instrumentos_internacionales/cepal/escazu/articulo_20",
+                              "instrumentos_internacionales/cepal/escazu/articulo_21",
+                              "instrumentos_internacionales/cepal/escazu/articulo_22",
+                              "instrumentos_internacionales/cepal/escazu/articulo_23",
+                              "instrumentos_internacionales/cepal/escazu/articulo_24",
+                              "instrumentos_internacionales/cepal/escazu/articulo_25",
+                              "instrumentos_internacionales/cepal/escazu/articulo_26",
+                              "instrumentos_internacionales/cepal/escazu/cierre"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
-      ],
-
+    ],
     "global": {
       "anchors": [
         {
