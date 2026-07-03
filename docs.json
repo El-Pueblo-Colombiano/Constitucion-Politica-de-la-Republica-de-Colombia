@@ -1350,6 +1350,31 @@
                             ]
                           },
                           {
+                            "group": "Convención para la Prevención y la Sanción del Delito de Genocidio",
+                            "pages": [
+                              "instrumentos_internacionales/onu/genocidio/preambulo",
+                              "instrumentos_internacionales/onu/genocidio/articulo_1",
+                              "instrumentos_internacionales/onu/genocidio/articulo_2",
+                              "instrumentos_internacionales/onu/genocidio/articulo_3",
+                              "instrumentos_internacionales/onu/genocidio/articulo_4",
+                              "instrumentos_internacionales/onu/genocidio/articulo_5",
+                              "instrumentos_internacionales/onu/genocidio/articulo_6",
+                              "instrumentos_internacionales/onu/genocidio/articulo_7",
+                              "instrumentos_internacionales/onu/genocidio/articulo_8",
+                              "instrumentos_internacionales/onu/genocidio/articulo_9",
+                              "instrumentos_internacionales/onu/genocidio/articulo_10",
+                              "instrumentos_internacionales/onu/genocidio/articulo_11",
+                              "instrumentos_internacionales/onu/genocidio/articulo_12",
+                              "instrumentos_internacionales/onu/genocidio/articulo_13",
+                              "instrumentos_internacionales/onu/genocidio/articulo_14",
+                              "instrumentos_internacionales/onu/genocidio/articulo_15",
+                              "instrumentos_internacionales/onu/genocidio/articulo_16",
+                              "instrumentos_internacionales/onu/genocidio/articulo_17",
+                              "instrumentos_internacionales/onu/genocidio/articulo_18",
+                              "instrumentos_internacionales/onu/genocidio/articulo_19"
+                            ]
+                          },
+                          {
                             "group": "Convención sobre el Estatuto de los Refugiados y Protocolo de 1967",
                             "pages": [
                               "instrumentos_internacionales/onu/refugiados/preambulo",
@@ -1852,6 +1877,150 @@
                             ]
                           },
                           {
+                            "group": "Convención Internacional sobre la Protección de los Derechos de Todos los Trabajadores Migratorios y de sus Familiares",
+                            "pages": [
+                              "instrumentos_internacionales/onu/icrmw/preambulo",
+                              {
+                                "group": "Parte I — Alcance y definiciones",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/icrmw/parte_i/articulo_1",
+                                  "instrumentos_internacionales/onu/icrmw/parte_i/articulo_2",
+                                  "instrumentos_internacionales/onu/icrmw/parte_i/articulo_3",
+                                  "instrumentos_internacionales/onu/icrmw/parte_i/articulo_4",
+                                  "instrumentos_internacionales/onu/icrmw/parte_i/articulo_5",
+                                  "instrumentos_internacionales/onu/icrmw/parte_i/articulo_6"
+                                ]
+                              },
+                              {
+                                "group": "Parte II — No discriminación en el reconocimiento de derechos",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/icrmw/parte_ii/articulo_7"
+                                ]
+                              },
+                              {
+                                "group": "Parte III — Derechos humanos de todos los trabajadores migratorios y de sus familiares",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_8",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_9",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_10",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_11",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_12",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_13",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_14",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_15",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_16",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_17",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_18",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_19",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_20",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_21",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_22",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_23",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_24",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_25",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_26",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_27",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_28",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_29",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_30",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_31",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_32",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_33",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_34",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iii/articulo_35"
+                                ]
+                              },
+                              {
+                                "group": "Parte IV — Otros derechos de los trabajadores migratorios y sus familiares que estén documentados o se encuentren en situación regular",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_36",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_37",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_38",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_39",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_40",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_41",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_42",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_43",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_44",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_45",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_46",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_47",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_48",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_49",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_50",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_51",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_52",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_53",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_54",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_55",
+                                  "instrumentos_internacionales/onu/icrmw/parte_iv/articulo_56"
+                                ]
+                              },
+                              {
+                                "group": "Parte V — Disposiciones aplicables a categorías particulares de trabajadores migratorios y sus familiares",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/icrmw/parte_v/articulo_57",
+                                  "instrumentos_internacionales/onu/icrmw/parte_v/articulo_58",
+                                  "instrumentos_internacionales/onu/icrmw/parte_v/articulo_59",
+                                  "instrumentos_internacionales/onu/icrmw/parte_v/articulo_60",
+                                  "instrumentos_internacionales/onu/icrmw/parte_v/articulo_61",
+                                  "instrumentos_internacionales/onu/icrmw/parte_v/articulo_62",
+                                  "instrumentos_internacionales/onu/icrmw/parte_v/articulo_63"
+                                ]
+                              },
+                              {
+                                "group": "Parte VI — Promoción de condiciones satisfactorias, equitativas, dignas y lícitas en relación con la migración internacional de los trabajadores y sus familiares",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/icrmw/parte_vi/articulo_64",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vi/articulo_65",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vi/articulo_66",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vi/articulo_67",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vi/articulo_68",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vi/articulo_69",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vi/articulo_70",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vi/articulo_71"
+                                ]
+                              },
+                              {
+                                "group": "Parte VII — Aplicación de la Convención",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/icrmw/parte_vii/articulo_72",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vii/articulo_73",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vii/articulo_74",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vii/articulo_75",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vii/articulo_76",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vii/articulo_77",
+                                  "instrumentos_internacionales/onu/icrmw/parte_vii/articulo_78"
+                                ]
+                              },
+                              {
+                                "group": "Parte VIII — Disposiciones generales",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/icrmw/parte_viii/articulo_79",
+                                  "instrumentos_internacionales/onu/icrmw/parte_viii/articulo_80",
+                                  "instrumentos_internacionales/onu/icrmw/parte_viii/articulo_81",
+                                  "instrumentos_internacionales/onu/icrmw/parte_viii/articulo_82",
+                                  "instrumentos_internacionales/onu/icrmw/parte_viii/articulo_83",
+                                  "instrumentos_internacionales/onu/icrmw/parte_viii/articulo_84"
+                                ]
+                              },
+                              {
+                                "group": "Parte IX — Disposiciones finales",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/icrmw/parte_ix/articulo_85",
+                                  "instrumentos_internacionales/onu/icrmw/parte_ix/articulo_86",
+                                  "instrumentos_internacionales/onu/icrmw/parte_ix/articulo_87",
+                                  "instrumentos_internacionales/onu/icrmw/parte_ix/articulo_88",
+                                  "instrumentos_internacionales/onu/icrmw/parte_ix/articulo_89",
+                                  "instrumentos_internacionales/onu/icrmw/parte_ix/articulo_90",
+                                  "instrumentos_internacionales/onu/icrmw/parte_ix/articulo_91",
+                                  "instrumentos_internacionales/onu/icrmw/parte_ix/articulo_92",
+                                  "instrumentos_internacionales/onu/icrmw/parte_ix/articulo_93"
+                                ]
+                              }
+                            ]
+                          },
+                          {
                             "group": "Protocolo Facultativo de la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
                             "pages": [
                               "instrumentos_internacionales/onu/opcat/preambulo",
@@ -1983,6 +2152,72 @@
                               "instrumentos_internacionales/onu/cdpd/articulo_48",
                               "instrumentos_internacionales/onu/cdpd/articulo_49",
                               "instrumentos_internacionales/onu/cdpd/articulo_50"
+                            ]
+                          },
+                          {
+                            "group": "Convención Internacional para la Protección de Todas las Personas contra las Desapariciones Forzadas",
+                            "pages": [
+                              "instrumentos_internacionales/onu/ced/preambulo",
+                              {
+                                "group": "Parte I",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_1",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_2",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_3",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_4",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_5",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_6",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_7",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_8",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_9",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_10",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_11",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_12",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_13",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_14",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_15",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_16",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_17",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_18",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_19",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_20",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_21",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_22",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_23",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_24",
+                                  "instrumentos_internacionales/onu/ced/parte_i/articulo_25"
+                                ]
+                              },
+                              {
+                                "group": "Parte II",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_26",
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_27",
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_28",
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_29",
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_30",
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_31",
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_32",
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_33",
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_34",
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_35",
+                                  "instrumentos_internacionales/onu/ced/parte_ii/articulo_36"
+                                ]
+                              },
+                              {
+                                "group": "Parte III",
+                                "pages": [
+                                  "instrumentos_internacionales/onu/ced/parte_iii/articulo_37",
+                                  "instrumentos_internacionales/onu/ced/parte_iii/articulo_38",
+                                  "instrumentos_internacionales/onu/ced/parte_iii/articulo_39",
+                                  "instrumentos_internacionales/onu/ced/parte_iii/articulo_40",
+                                  "instrumentos_internacionales/onu/ced/parte_iii/articulo_41",
+                                  "instrumentos_internacionales/onu/ced/parte_iii/articulo_42",
+                                  "instrumentos_internacionales/onu/ced/parte_iii/articulo_43",
+                                  "instrumentos_internacionales/onu/ced/parte_iii/articulo_44",
+                                  "instrumentos_internacionales/onu/ced/parte_iii/articulo_45"
+                                ]
+                              }
                             ]
                           }
                         ]
